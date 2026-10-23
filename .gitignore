@@ -5,3 +5,4 @@ graph.kuzu
 graph.kuzu.wal
 .env
 .DS_Store
+DATAS/DOCS/

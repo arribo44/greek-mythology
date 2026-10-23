@@ -39,6 +39,7 @@ et enrichie avec Wikidata.
 (:Immortal)-[:SIBLING_OF {source}]-(:Immortal)
 (:Immortal)-[:SAID]->(:Quote)-[:ADDRESSED_TO]->(:Immortal)        # citations Wikiquote
 (:Quote)-[:ABOUT]->(:Immortal)
+(:Quote)-[:MENTIONS]->(:Immortal)                                 # autres personnages nommés dans la citation
 (:Immortal)-[:BORN_IN|DIED_IN|LIVED_IN|BURIED_IN]->(:Place)      # lieux Wikidata (P19, P20, P551, P119)
 ```
 

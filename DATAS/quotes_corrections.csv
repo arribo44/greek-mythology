@@ -12,3 +12,9 @@ Iliade-fr-041,subject,Hades,
 Iliade-fr-004,speaker,,"narration (« Il dit, et… le fils de Cronos fait oui »), pas une réplique"
 Iliade-fr-004,speaker_label,Homère,
 Iliade-fr-004,subject,Zeus,
+Iliade-fr-019,mentions,,"Glaucus du jeu de données = le dieu marin, pas le guerrier troyen"
+Iliade-fr-020,mentions,Bellerophon,"idem : on retire Glaucus"
+Odysseus-fr-001,mentions,Agamemnon,"« Atride » : Ulysse répond à Agamemnon (Iliade IV, 350)"
+Achilles-fr-001,mentions,Hades|Zeus|Agamemnon,"« le fils d'Atrée » : Agamemnon, en querelle avec Achille (Iliade I, 7)"
+Odysseus-en-014,mentions,Agamemnon,"« Atreus' son Agamemnon » : patronyme, Atrée n'est pas en scène"
+Achilles-fr-010,mentions,,"« le grand Myrmidon » désigne Achille lui-même, pas le roi éponyme"

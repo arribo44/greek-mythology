@@ -9,6 +9,8 @@ Deux modes, combinables :
   - un personnage (nom anglais) : ses pages Wikiquote fr/en, trouvées via Wikidata ;
   - une page d'œuvre « langue:Titre » (ex. fr:Iliade) : les répliques entre personnages,
     rattachées au locuteur, au destinataire et à la personne dont on parle (« au sujet de »).
+Chaque citation liste aussi, dans « mentions », les autres personnages nommés dans son texte
+ou ses précisions (séparés par « | »).
 Une citation déjà présente (même texte, venue d'une autre page) n'est pas ajoutée deux fois.
 
 Usage : .venv/bin/python fetch_wikiquote.py Odysseus Achilles fr:Iliade
@@ -33,12 +35,37 @@ CORRECTIONS = DATA / "quotes_corrections.csv"
 CACHE = DATA / "wikiquote_cache"
 USER_AGENT = "LinkedImmortals/0.3 (projet personnel, mythologie grecque)"
 # subject = personnage dont parle la citation (lien ABOUT) ; page = page Wikiquote d'origine
-COLUMNS = ["id", "page", "subject", "lang", "speaker", "speaker_label", "addressee", "text", "original",
-           "original_lang", "context", "work", "section", "url", "statut"]
+# mentions = autres personnages nommés dans la citation (liens MENTIONS), séparés par « | »
+COLUMNS = ["id", "page", "subject", "lang", "speaker", "speaker_label", "addressee", "mentions", "text",
+           "original", "original_lang", "context", "work", "section", "url", "statut"]
 
 # « sa mère », « son fils »… -> relation Wikidata du locuteur
 KIN_WORDS_FR = {"mère": "mother", "père": "father", "fils": "child", "fille": "child",
                 "femme": "spouse", "épouse": "spouse", "mari": "spouse", "époux": "spouse"}
+
+# Périphrases et patronymes homériques -> personnage (pour la colonne mentions).
+# Le père nommé dans « fils de X » n'est alors pas compté comme mentionné.
+# Les périphrases ambiguës (None : « l'Atride » = Agamemnon ou Ménélas) ne nomment personne ici :
+# on tranche citation par citation dans quotes_corrections.csv.
+PERIPHRASES_FR = {
+    r"(?:le |l')?fils d'Atrée|(?:l')?Atride": None,
+    r"(?:les )?fils de Priam|(?:le |les )?Priamides?": None,
+    r"(?:la )?[Ff]ille de Zeus": None,   # la Muse, Athéna, Aphrodite… selon le passage
+    r"(?:le )?fils de Cronos|(?:le )?Cronide": "Zeus",
+    r"(?:le )?fils de Pélée|(?:le )?Péléide|(?:le )?Péléion": "Achilles",
+    r"(?:le )?fils de Télamon|(?:le )?Télamonien": "Ajax the Great",
+    r"(?:le )?fils de Laërte|(?:le )?Laërtiade": "Odysseus",
+    r"(?:le )?fils de Tydée|(?:le )?Tydéide": "Diomedes",
+    r"(?:le )?fils de Nestor": "Antilochus",
+    r"(?:le )?fils de Japet": "Prometheus",
+    r"(?:l')?Ébranleur du sol|(?:l')?Ébranleur de la terre": "Poseidon",
+    r"(?:l')?Assembleur de nuées|(?:l')?Assembleur des nuées": "Zeus",
+    r"(?:le )?Tueur d'Argos": "Hermes",
+    r"Aïdoneus": "Hades",
+    r"Sommeil": "Hypnos",       # avec majuscule : personnification (« Sommeil, frère de Trépas »)
+    r"Trépas": "Thanatos",
+    r"(?:le )?Soleil": "Helios",
+}
 
 
 def get_json(url, retries=5):
@@ -257,6 +284,17 @@ def parse_en(subject, text, url, index):
     return rows
 
 
+def mentions_of(row, index):
+    """Personnages nommés dans le texte ou les précisions, hors locuteur, destinataire et sujet."""
+    already = {row["speaker"], row["addressee"], row["subject"]}
+    text = f"{row['text']} {row['context']}"
+    if row["lang"] == "fr":
+        for pattern, name in PERIPHRASES_FR.items():
+            text = re.sub(r"(?<![\w-])(?:" + pattern + r")(?![\w-])", name or "…", text)
+    found = find_names(text, index)
+    return "|".join(dict.fromkeys(n for n in found if n not in already))
+
+
 def norm(text):
     """Forme normalisée d'une citation pour repérer les doublons entre pages."""
     return re.sub(r"\W+", " ", text.lower()).strip()[:80]
@@ -296,7 +334,9 @@ def main(targets):
         counters[key] = counters.get(key, 0) + 1
         row["id"] = f"{key[0]}-{key[1]}-{counters[key]:03d}"
         row["statut"] = "à relire"
-    out = pd.concat([existing, pd.DataFrame(rows, columns=COLUMNS)], ignore_index=True)[COLUMNS]
+    out = pd.concat([existing, pd.DataFrame(rows, columns=COLUMNS)], ignore_index=True)[COLUMNS].fillna("")
+    # mentions : déduites du texte, recalculées pour toutes les citations (avant les corrections manuelles)
+    out["mentions"] = [mentions_of(r, index) for r in out.to_dict("records")]
     if CORRECTIONS.exists():
         for c in pd.read_csv(CORRECTIONS, keep_default_na=False).to_dict("records"):
             hit = out["id"] == c["id"]

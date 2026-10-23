@@ -10,6 +10,7 @@ Schéma :
     (:Immortal)-[:SIBLING_OF {source}]-(:Immortal)
     (:Immortal)-[:SAID]->(:Quote)-[:ADDRESSED_TO]->(:Immortal)        citations Wikiquote
     (:Quote)-[:ABOUT]->(:Immortal)
+    (:Quote)-[:MENTIONS]->(:Immortal)                                 autres personnages nommés
     (:Immortal)-[:BORN_IN|DIED_IN|LIVED_IN|BURIED_IN]->(:Place)       lieux Wikidata
 
 Chaque libellé affiché existe en anglais (propriété « name », « title »…) et en
@@ -258,18 +259,23 @@ def place_frames(chars):
 
 
 def quote_frames(known):
-    """Citations Wikiquote : nœuds Quote et liens vers le locuteur, le destinataire et le sujet."""
+    """Citations Wikiquote : nœuds Quote et liens vers le locuteur, le destinataire, le sujet et les mentions."""
     cols = ["id", "lang", "speaker_label", "text", "original", "original_lang", "context", "work", "section", "url"]
     path = DATA / "quotes.csv"
     df = pd.read_csv(path, keep_default_na=False) if path.exists() else pd.DataFrame(
-        columns=cols + ["subject", "speaker", "addressee"])
-    for col in ("subject", "speaker", "addressee"):
-        unknown = set(df[col]) - known - {""}
+        columns=cols + ["subject", "speaker", "addressee", "mentions"])
+    if "mentions" not in df:
+        df["mentions"] = ""
+    mentions = df[["id", "mentions"]].assign(mentions=df["mentions"].str.split("|")).explode("mentions")
+    mentions = mentions[mentions["mentions"] != ""].drop_duplicates()
+    for col, values in (("subject", df["subject"]), ("speaker", df["speaker"]), ("addressee", df["addressee"]),
+                        ("mentions", mentions["mentions"])):
+        unknown = set(values) - known - {""}
         assert not unknown, f"quotes.csv, colonne {col} : personnages inconnus {unknown}"
     said = df[df["speaker"] != ""][["speaker", "id"]]
     addressed = df[df["addressee"] != ""][["id", "addressee"]]
     about = df[df["subject"] != ""][["id", "subject"]]   # narration pure : aucun personnage concerné
-    return df[cols], said, addressed, about
+    return df[cols], said, addressed, about, mentions
 
 
 def simplify(text):
@@ -426,7 +432,7 @@ def load_frames():
     spouse_of = family[family["kind"].isin(["spouse", "partner"])][["a", "b", "kind", "source"]]
     sibling_of = family[family["kind"] == "sibling"][["a", "b", "source"]]
 
-    quotes, said, addressed, about = quote_frames(known)
+    quotes, said, addressed, about, mentions = quote_frames(known)
     places, place_links = place_frames(chars)
 
     return [
@@ -434,7 +440,7 @@ def load_frames():
         ("CONNECTED", connected), ("APPEARS_IN", appears), ("FEATURED_IN", featured),
         ("PART_OF", part_of), ("PARENT_OF", parent_of), ("SPOUSE_OF", spouse_of),
         ("SIBLING_OF", sibling_of), ("Quote", quotes), ("SAID", said),
-        ("ADDRESSED_TO", addressed), ("ABOUT", about), ("Place", places),
+        ("ADDRESSED_TO", addressed), ("ABOUT", about), ("MENTIONS", mentions), ("Place", places),
         *place_links,
     ]
 
@@ -477,6 +483,7 @@ def build():
     conn.execute("CREATE REL TABLE SAID(FROM Immortal TO Quote)")
     conn.execute("CREATE REL TABLE ADDRESSED_TO(FROM Quote TO Immortal)")
     conn.execute("CREATE REL TABLE ABOUT(FROM Quote TO Immortal)")
+    conn.execute("CREATE REL TABLE MENTIONS(FROM Quote TO Immortal)")
     conn.execute("""CREATE NODE TABLE Place(
         qid STRING, name STRING, name_fr STRING, lat DOUBLE, lon DOUBLE, approx BOOLEAN, source STRING,
         PRIMARY KEY(qid))""")

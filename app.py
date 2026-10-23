@@ -15,9 +15,9 @@ from pathlib import Path
 import kuzu
 from flask import Flask, abort, jsonify, request, send_from_directory
 
-from content import (CURATED_POSTS, DEFAULT_RESIDENCE, EMPLOYERS_BY_GENRE, GENERIC_COMMENTS, GENRES, JOBS,
-                     MESSAGES, NOTIFICATIONS, PERIODS, POSITION_BY_CLAN, POSITIONS, RECOMMENDATIONS, SKILLS,
-                     SKILLS_BY_CLAN, TIME_UNITS, B)
+from content import (CURATED_POSTS, DEFAULT_RESIDENCE, EMPLOYERS_BY_GENRE, FAMILY_MESSAGES, GENERIC_COMMENTS, GENRES,
+                     JOBS, MESSAGES, MESSAGES_BY_CLAN, NOTIFICATIONS, PAIR_MESSAGES, PERIODS, POSITION_BY_CLAN,
+                     POSITIONS, RECOMMENDATIONS, SKILLS, SKILLS_BY_CLAN, TIME_UNITS, B)
 
 ROOT = Path(__file__).parent
 DB_PATH = ROOT / "graph.kuzu"
@@ -249,11 +249,11 @@ QUOTE_FIELDS = ("q.id AS id, q.lang AS lang, q.speaker_label AS speaker_label, q
 
 
 def quotes_of(name):
-    """Citations Wikiquote d'un personnage : reçues (dites à son sujet ou à lui) et données (dites par lui).
+    """Citations Wikiquote d'un personnage : reçues (dites à son sujet, à lui ou le nommant) et données (dites par lui).
 
     Les citations dans la langue courante passent en premier.
     """
-    received = q(f"""MATCH (q:Quote)-[:ABOUT|ADDRESSED_TO]->(me:Immortal {{name: $n}})
+    received = q(f"""MATCH (q:Quote)-[:ABOUT|ADDRESSED_TO|MENTIONS]->(me:Immortal {{name: $n}})
                      OPTIONAL MATCH (i:Immortal)-[:SAID]->(q)
                      WITH DISTINCT q, i WHERE i IS NULL OR i.name <> $n
                      RETURN {QUOTE_FIELDS}, i.name AS name, {IMMORTAL_FIELDS.replace("i.name AS name, ", "")}""",
@@ -520,10 +520,21 @@ def api_path():
     return jsonify({"found": True, "people": people, "mentions": mentions, "degrees": len(names) - 1})
 
 
+JOBS_SHOWN = 8
+
+
 @app.route("/api/jobs/<name>")
 def api_jobs(name):
+    """Offres du moment : d'abord celles qui visent le clan du profil, puis les autres, tirées au sort par profil."""
+    me = get_immortal(name)
+    r = rng_for("jobs", name)
+    pool = [j for j in JOBS if j["boss"] != name]
+    r.shuffle(pool)
+    pool.sort(key=lambda j: not (me and me["clan"] in j["clans"]))
     out = []
-    for job in JOBS:
+    for job in pool:
+        if len(out) == JOBS_SHOWN:
+            break
         boss = get_immortal(job["boss"])
         if not boss:
             continue
@@ -560,11 +571,55 @@ def api_notifications(name):
     return jsonify(notes)
 
 
+CONVERSATIONS = 8
+PAIR_CONVERSATIONS = 5  # au plus, pour laisser de la place aux relations proches
+
+
+def kinship(name):
+    """Lien familial de chaque proche, vu depuis ce proche (« parent » : il est le parent de name)."""
+    kin = {}
+    for rel, query in (
+            ("sibling", "MATCH (me:Immortal {name: $n})-[:SIBLING_OF]-(i:Immortal) RETURN i.name AS name"),
+            ("sibling", """MATCH (me:Immortal {name: $n})<-[:PARENT_OF]-(:Immortal)-[:PARENT_OF]->(i:Immortal)
+                           WHERE i.name <> $n RETURN DISTINCT i.name AS name"""),
+            ("spouse", "MATCH (me:Immortal {name: $n})-[:SPOUSE_OF]-(i:Immortal) RETURN i.name AS name"),
+            ("child", "MATCH (me:Immortal {name: $n})-[:PARENT_OF]->(i:Immortal) RETURN i.name AS name"),
+            ("parent", "MATCH (i:Immortal)-[:PARENT_OF]->(me:Immortal {name: $n}) RETURN i.name AS name")):
+        for row in q(query, n=name):
+            kin[row["name"]] = rel   # parent et enfant passent en dernier : ils l'emportent
+    return kin
+
+
+def ago(minutes):
+    if minutes < 60:
+        return tr(TIME_UNITS["min"], n=minutes)
+    if minutes < 24 * 60:
+        return tr(TIME_UNITS["h"], n=minutes // 60)
+    return tr(TIME_UNITS["d"], n=minutes // (24 * 60))
+
+
 @app.route("/api/messages/<name>")
 def api_messages(name):
+    """Messagerie : répliques écrites pour le couple (Iliade, Odyssée, Apollodore), sinon selon le lien familial,
+    sinon une phrase du clan de l'expéditeur ou générique ; jamais deux fois le même texte dans la boîte."""
     r = rng_for("msg", name)
-    return jsonify([{"who": card(n), "last": r.choice(tr(MESSAGES)), "when": tr(TIME_UNITS["min"], n=r.randint(1, 59))}
-                    for n in neighbors(name, 6)])
+    senders = [p for p in (get_immortal(a) for a, b in PAIR_MESSAGES if b == name) if p]
+    r.shuffle(senders)
+    senders = senders[:PAIR_CONVERSATIONS]
+    taken = {p["name"] for p in senders}
+    senders += [n for n in neighbors(name, 3 * CONVERSATIONS) if n["name"] not in taken][:CONVERSATIONS - len(senders)]
+    kin = kinship(name)
+    used, out = set(), []
+    for p in senders:
+        # les phrases du clan sont mêlées aux génériques : sinon les mortels, très nombreux, se répètent
+        pools = (PAIR_MESSAGES.get((p["name"], name), []), FAMILY_MESSAGES.get(kin.get(p["name"]), []),
+                 MESSAGES_BY_CLAN.get(p["clan"], []) + MESSAGES)
+        text = next((m for pool in pools for m in r.sample(pool, len(pool)) if m["fr"] not in used), r.choice(MESSAGES))
+        used.add(text["fr"])
+        out.append({"who": card(p), "last": tr(text)})
+    for conv, minutes in zip(out, sorted(r.randint(1, 3 * 24 * 60) for _ in out)):
+        conv["when"] = ago(minutes)
+    return jsonify(out)
 
 
 @app.route("/api/family-tree/<name>")
