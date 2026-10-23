@@ -11,7 +11,8 @@ Schéma :
     (:Immortal)-[:SAID]->(:Quote)-[:ADDRESSED_TO]->(:Immortal)        citations Wikiquote
     (:Quote)-[:ABOUT]->(:Immortal)
     (:Quote)-[:MENTIONS]->(:Immortal)                                 autres personnages nommés
-    (:Immortal)-[:BORN_IN|DIED_IN|LIVED_IN|BURIED_IN]->(:Place)       lieux Wikidata
+    (:Immortal)-[:BORN_IN|DIED_IN|LIVED_IN|BURIED_IN|VISITED {source}]->(:Place)
+                                                                      lieux Wikidata + textes antiques
 
 Chaque libellé affiché existe en anglais (propriété « name », « title »…) et en
 français (suffixe « _fr ») : Wikidata / Wikipédia pour les personnages (corrections dans
@@ -23,6 +24,8 @@ Les présentations des œuvres viennent de DATAS/works_wiki.json (fetch_works.py
 Les lieux viennent de DATAS/places.json (fetch_places.py, SPARQL) complété par
 DATAS/places_manual.csv (coordonnées manquantes ou erronées) et DATAS/places_fr.csv
 (noms français des tombeaux et lieux sans libellé français dans Wikidata).
+DATAS/places_textes.csv ajoute des liens tirés des textes antiques (Bibliothèque d'Apollodore),
+avec leur référence, dont les passages (« visit ») absents de Wikidata.
 
 Les citations viennent de DATAS/quotes.csv (créé par fetch_wikiquote.py, à relire).
 
@@ -45,7 +48,8 @@ import pandas as pd
 ROOT = Path(__file__).parent
 DATA = ROOT / "DATAS"
 DB_PATH = ROOT / "graph.kuzu"
-PORTRAITS = DATA / "IMAGES_JC"   # vignettes personnalisées : « Nom_xxxx.svg » (nom français ou anglais)
+PORTRAITS = ROOT / "static" / "portraits"   # vignettes personnalisées : « Nom_xxxx.png » (nom français ou anglais)
+PORTRAIT_PRIORITY = [".png", ".webp", ".jpg", ".jpeg", ".svg"]   # plusieurs vignettes : la première de la liste gagne
 WIKIDATA = DATA / "wikidata.json"
 COMMONS = "https://commons.wikimedia.org/wiki/Special:FilePath/{}?width=320"
 
@@ -227,7 +231,8 @@ def episode_names(row, myths_fr):
     return f"Book {chapter}", f"{'Chant' if row['genre'] == 'Epic' else 'Livre'} {chapter}"
 
 
-PLACE_RELS = {"birth": "BORN_IN", "death": "DIED_IN", "residence": "LIVED_IN", "burial": "BURIED_IN"}
+PLACE_RELS = {"birth": "BORN_IN", "death": "DIED_IN", "residence": "LIVED_IN", "burial": "BURIED_IN",
+              "visit": "VISITED"}   # visit : passage ou séjour attesté par un texte (DATAS/places_textes.csv)
 
 
 def place_frames(chars):
@@ -253,8 +258,19 @@ def place_frames(chars):
     by_qid = dict(zip(chars["id"], chars["name"]))
     links = pd.DataFrame(data["links"], columns=["character", "kind", "place"])
     links["name"] = links["character"].map(by_qid)
-    links = links.dropna(subset=["name"])
-    return df, [(rel, links[links["kind"] == kind][["name", "place"]].drop_duplicates())
+    links = links.dropna(subset=["name"]).assign(source="Wikidata")[["name", "kind", "place", "source"]]
+    # liens tirés des textes antiques (Bibliothèque d'Apollodore…), avec leur référence
+    texts = DATA / "places_textes.csv"
+    if texts.exists():
+        extra = pd.read_csv(texts, keep_default_na=False).rename(columns={"ref": "source"})
+        for col, known, what in (("name", set(chars["name"]), "personnages"), ("place", set(places), "lieux"),
+                                 ("kind", set(PLACE_RELS), "types de lien")):
+            unknown = set(extra[col]) - known
+            assert not unknown, f"places_textes.csv : {what} inconnus {unknown}"
+        links = pd.concat([links, extra[["name", "kind", "place", "source"]]], ignore_index=True)
+    # un même lien donné par plusieurs sources : une seule arête, sources jointes (« Wikidata ; Apollodore III, 190 »)
+    links = links.groupby(["name", "kind", "place"], as_index=False)["source"].agg(lambda s: " ; ".join(dict.fromkeys(s)))
+    return df, [(rel, links[links["kind"] == kind][["name", "place", "source"]])
                 for kind, rel in PLACE_RELS.items()]
 
 
@@ -285,22 +301,31 @@ def simplify(text):
 
 
 def portrait_files(immortals):
-    """Nom du personnage -> fichier de DATAS/IMAGES_JC dont le nom commence par ce personnage."""
+    """Nom du personnage -> fichier de static/portraits dont le nom commence par ce personnage.
+
+    DATAS/portraits_manuels.csv impose une vignette quand le nom de fichier ne suffit pas
+    (une même image pour plusieurs personnages, nom mal orthographié dans les données).
+    """
     if not PORTRAITS.exists():
         return {}
     index = {}
     for name, fr, aliases in zip(immortals["name"], immortals["name_fr"], immortals["aliases"]):
         for label in [name, fr, *aliases]:
             index.setdefault(simplify(label), name)
+    manual = DATA / "portraits_manuels.csv"
+    manual = dict(pd.read_csv(manual)[["name", "file"]].values) if manual.exists() else {}
+    files = sorted((f for f in PORTRAITS.iterdir() if f.suffix.lower() in PORTRAIT_PRIORITY),
+                   key=lambda f: PORTRAIT_PRIORITY.index(f.suffix.lower()))
     found, unknown = {}, []
-    for f in sorted(PORTRAITS.iterdir()):
-        if f.suffix.lower() not in (".svg", ".png", ".jpg", ".jpeg", ".webp"):
-            continue
+    for f in files:
         name = index.get(simplify(f.stem.split("_")[0]))
         if name:
-            found[name] = f.name
-        else:
+            found.setdefault(name, f.name)
+        elif f.name not in manual.values():
             unknown.append(f.name)
+    for name, file in manual.items():
+        assert (PORTRAITS / file).exists(), f"portraits_manuels.csv : fichier absent {file}"
+        found[name] = file
     if unknown:
         print(f"(vignettes sans personnage correspondant : {', '.join(unknown)})")
     return found
@@ -324,9 +349,46 @@ def french_name(name, info):
     return name, "anglais"
 
 
+def text_additions(chars, edges):
+    """Compléments tirés des textes antiques (Bibliothèque d'Apollodore), sans toucher aux fichiers Kaggle.
+
+    - DATAS/characters_textes.csv : personnages absents du jeu de données (Taureau de Crète…) ;
+    - DATAS/edges_corrections.csv : dans une scène, un homonyme remplacé par le bon personnage
+      (Diomède de Thrace et non le fils de Tydée, dans les travaux d'Héraclès) ;
+    - DATAS/edges_textes.csv : co-apparitions manquées par le jeu de données (noms communs :
+      « la biche », « le sanglier »…), ajoutées à une scène existante dont elles reprennent l'œuvre.
+    """
+    extra = DATA / "characters_textes.csv"
+    if extra.exists():
+        chars = pd.concat([chars, pd.read_csv(extra)[list(chars.columns)]], ignore_index=True)
+    fixes = DATA / "edges_corrections.csv"
+    if fixes.exists():
+        for fix in pd.read_csv(fixes).to_dict("records"):
+            in_group = edges["group_key"] == fix["group_key"]
+            assert in_group.any(), f"edges_corrections.csv : scène inconnue {fix['group_key']}"
+            for col in ("source", "target"):
+                edges.loc[in_group & (edges[col] == fix["ancien"]), col] = fix["nouveau"]
+    added = DATA / "edges_textes.csv"
+    if added.exists():
+        rows = []
+        for link in pd.read_csv(added).to_dict("records"):
+            group = edges[edges["group_key"] == link["group_key"]]
+            assert len(group), f"edges_textes.csv : scène inconnue {link['group_key']}"
+            row = group.iloc[0].copy()
+            row["source"], row["target"] = link["source"], link["target"]
+            row["normalized_weight"] = group["normalized_weight"].median()
+            rows.append(row)
+        edges = pd.concat([edges, pd.DataFrame(rows)], ignore_index=True)
+    # le jeu de données range chaque paire par ordre alphabétique : un seul lien par paire
+    swap = edges["source"] > edges["target"]
+    edges.loc[swap, ["source", "target"]] = edges.loc[swap, ["target", "source"]].values
+    return chars, edges
+
+
 def load_frames():
     chars = pd.read_csv(DATA / "characters.csv")
     edges = pd.read_csv(DATA / "edges.csv", low_memory=False)
+    chars, edges = text_additions(chars, edges)
     edges["author"] = edges["author"].fillna("Lyric Poets (anthology)")  # Lyra Graeca
     wd = wikidata_cache()
     known_qids = set(chars["id"])
@@ -488,7 +550,7 @@ def build():
         qid STRING, name STRING, name_fr STRING, lat DOUBLE, lon DOUBLE, approx BOOLEAN, source STRING,
         PRIMARY KEY(qid))""")
     for rel in PLACE_RELS.values():
-        conn.execute(f"CREATE REL TABLE {rel}(FROM Immortal TO Place)")
+        conn.execute(f"CREATE REL TABLE {rel}(FROM Immortal TO Place, source STRING)")
 
     for table, df in tables:
         conn.execute(f"COPY {table} FROM df")

@@ -9,10 +9,11 @@ const pl = (n, one, many) => (Math.abs(n) > 1 ? many : one);
 const I18N = {
   fr: {
     "nav.home": "Accueil", "nav.mythspace": "Mythspace", "nav.map": "Carte",
-    "place.birth": "Naissance", "place.death": "Décès", "place.residence": "Résidence", "place.burial": "Sépulture",
+    "place.birth": "Naissance", "place.death": "Décès", "place.residence": "Résidence", "place.burial": "Sépulture", "place.visit": "Passage",
     "map.title": "🗺️ Carte du monde mythologique",
-    "map.sub": ({ n, p }) => `${n} lieux liés à ${p} personnages, d'après Wikidata. Cliquez sur un point pour voir qui y est né, mort, a vécu ou repose.`,
+    "map.sub": ({ n, p }) => `${n} lieux liés à ${p} personnages, d'après Wikidata et la Bibliothèque d'Apollodore. Cliquez sur un point pour voir qui y est né, mort, a vécu, est passé ou repose.`,
     "map.focus": ({ n }) => `🗺️ Les lieux de ${n}`, "map.all": "Voir tous les lieux",
+    "map.filter": "Filtrer par personnage…", "route.title": ({ n }) => `🧭 Itinéraire de ${n}`, "route.offmap": "hors carte", "map.places": ({ n }) => `${n} lieu${n > 1 ? "x" : ""} sur la carte`,
     "map.approx": "position approchée (lieu englobant)", "map.offmap": "Hors carte",
     "map.offmap_sub": "Lieux sans position géographique :", "map.offline": "Leaflet indisponible (hors ligne ?)",
     "map.people": ({ n }) => `${n} personnage${n > 1 ? "s" : ""}`, "map.see": "Voir sur la carte",
@@ -191,10 +192,11 @@ const I18N = {
 
   en: {
     "nav.home": "Home", "nav.mythspace": "Mythspace", "nav.map": "Map",
-    "place.birth": "Birth", "place.death": "Death", "place.residence": "Residence", "place.burial": "Burial",
+    "place.birth": "Birth", "place.death": "Death", "place.residence": "Residence", "place.burial": "Burial", "place.visit": "Visit",
     "map.title": "🗺️ Map of the mythological world",
-    "map.sub": ({ n, p }) => `${n} places linked to ${p} characters, from Wikidata. Click a dot to see who was born, died, lived or rests there.`,
+    "map.sub": ({ n, p }) => `${n} places linked to ${p} characters, from Wikidata and Apollodorus' Library. Click a dot to see who was born, died, lived, stayed or rests there.`,
     "map.focus": ({ n }) => `🗺️ ${n}'s places`, "map.all": "See all places",
+    "map.filter": "Filter by character…", "route.title": ({ n }) => `🧭 ${n}'s journey`, "route.offmap": "off the map", "map.places": ({ n }) => `${n} place${n > 1 ? "s" : ""} on the map`,
     "map.approx": "approximate position (enclosing place)", "map.offmap": "Off the map",
     "map.offmap_sub": "Places with no geographic position:", "map.offline": "Leaflet unavailable (offline?)",
     "map.people": ({ n }) => `${n} character${n > 1 ? "s" : ""}`, "map.see": "See on the map",

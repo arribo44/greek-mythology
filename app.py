@@ -6,6 +6,7 @@ Chaque route accepte ?lang=fr|en : les libellés traduits sont stockés dans le 
 
 Lancement : .venv/bin/flask --app app run --port 5000
 """
+import csv
 import hashlib
 import random
 import re
@@ -21,7 +22,6 @@ from content import (CURATED_POSTS, DEFAULT_RESIDENCE, EMPLOYERS_BY_GENRE, FAMIL
 
 ROOT = Path(__file__).parent
 DB_PATH = ROOT / "graph.kuzu"
-PORTRAITS = ROOT / "DATAS" / "IMAGES_JC"
 
 app = Flask(__name__, static_folder="static", static_url_path="/static")
 _db = kuzu.Database(str(DB_PATH), read_only=True)
@@ -230,17 +230,19 @@ def family_of(name, kin_ext=()):
     }
 
 
-PLACE_KINDS = {"BORN_IN": "birth", "DIED_IN": "death", "LIVED_IN": "residence", "BURIED_IN": "burial"}
+PLACE_KINDS = {"BORN_IN": "birth", "DIED_IN": "death", "LIVED_IN": "residence", "BURIED_IN": "burial",
+               "VISITED": "visit"}
+PLACE_RELS = "|".join(PLACE_KINDS)
 
 
 def places_of(name):
-    """Lieux d'un personnage (naissance, décès, résidence, inhumation)."""
-    rows = q(f"""MATCH (i:Immortal {{name: $n}})-[r:BORN_IN|DIED_IN|LIVED_IN|BURIED_IN]->(p:Place)
-                 RETURN label(r) AS rel, p.qid AS qid, {L('p.name')} AS name, p.lat AS lat, p.lon AS lon,
-                        p.approx AS approx""", n=name)
+    """Lieux d'un personnage (naissance, décès, résidence, inhumation, passage), avec leur source."""
+    rows = q(f"""MATCH (i:Immortal {{name: $n}})-[r:{PLACE_RELS}]->(p:Place)
+                 RETURN label(r) AS rel, r.source AS source, p.qid AS qid, {L('p.name')} AS name, p.lat AS lat,
+                        p.lon AS lon, p.approx AS approx""", n=name)
     order = list(PLACE_KINDS)
     rows.sort(key=lambda r: order.index(r["rel"]))
-    return [{**{k: r[k] for k in ("qid", "name", "lat", "lon", "approx")}, "kind": PLACE_KINDS[r["rel"]]}
+    return [{**{k: r[k] for k in ("qid", "name", "lat", "lon", "approx", "source")}, "kind": PLACE_KINDS[r["rel"]]}
             for r in rows]
 
 
@@ -287,17 +289,11 @@ def index():
     return send_from_directory(app.static_folder, "index.html")
 
 
-@app.route("/portraits/<path:filename>")
-def portrait(filename):
-    """Vignettes personnalisées (DATAS/IMAGES_JC)."""
-    return send_from_directory(PORTRAITS, filename, max_age=86400)
-
-
 @app.route("/api/portraits")
 def api_portraits():
     """Nom du personnage -> URL de sa vignette personnalisée."""
     rows = q("MATCH (i:Immortal) WHERE i.portrait <> '' RETURN i.name AS name, i.portrait AS file")
-    return jsonify({r["name"]: f"/portraits/{r['file']}" for r in rows})
+    return jsonify({r["name"]: f"/static/portraits/{r['file']}" for r in rows})
 
 
 @app.route("/api/labels")
@@ -393,10 +389,18 @@ def api_feed(name):
 
     posts = []
 
-    # 1. Posts "humoristiques" écrits à la main (si l'auteur existe dans le graphe)
-    curated = [c for c in CURATED_POSTS if prof(c[0])]
+    # 1. Posts "humoristiques" écrits à la main (si l'auteur existe dans le graphe) : en priorité deux
+    #    posts d'auteurs de l'entourage du profil, puis un autre au hasard ; un seul post par auteur
+    curated = [c for c in CURATED_POSTS if c[0] != name and prof(c[0])]
     r.shuffle(curated)
-    for author, action, text, comment in curated[:3]:
+    near = {n["name"] for n in neigh}
+    curated.sort(key=lambda c: c[0] not in near)
+    picked, authors = [], set()
+    for c in curated[:2] + r.sample(curated[2:], len(curated) - 2):
+        if c[0] not in authors and len(picked) < 3:
+            picked.append(c)
+            authors.add(c[0])
+    for author, action, text, comment in picked:
         a = prof(author)
         com = None
         if comment and prof(comment[0]):
@@ -725,15 +729,32 @@ def api_work():
 @app.route("/api/map")
 def api_map():
     """Tous les lieux liés à des personnages, avec les personnages regroupés par lieu."""
-    rows = q(f"""MATCH (i:Immortal)-[r:BORN_IN|DIED_IN|LIVED_IN|BURIED_IN]->(p:Place)
-                 RETURN label(r) AS rel, p.qid AS place_qid, {L('p.name')} AS place, p.lat AS lat,
+    rows = q(f"""MATCH (i:Immortal)-[r:{PLACE_RELS}]->(p:Place)
+                 RETURN label(r) AS rel, r.source AS source, p.qid AS place_qid, {L('p.name')} AS place, p.lat AS lat,
                         p.lon AS lon, p.approx AS approx, {IMMORTAL_FIELDS}""")
     places = {}
     for r in rows:
         p = places.setdefault(r["place_qid"], {"qid": r["place_qid"], "name": r["place"], "lat": r["lat"], "lon": r["lon"],
                                          "approx": r["approx"], "people": []})
-        p["people"].append({**card(r), "kind": PLACE_KINDS[r["rel"]]})
+        p["people"].append({**card(r), "kind": PLACE_KINDS[r["rel"]], "source": r["source"]})
     return jsonify(sorted(places.values(), key=lambda p: -len(p["people"])))
+
+
+ITINERARIES = ROOT / "DATAS" / "itineraires.csv"
+
+
+@app.route("/api/itinerary/<name>")
+def api_itinerary(name):
+    """Étapes ordonnées du voyage d'un personnage (DATAS/itineraires.csv), avec les coordonnées des lieux."""
+    if not ITINERARIES.exists():
+        return jsonify([])
+    with ITINERARIES.open(encoding="utf-8") as f:
+        steps = sorted((r for r in csv.DictReader(f) if r["personnage"] == name), key=lambda r: int(r["ordre"]))
+    coords = {r["qid"]: r for r in q(f"MATCH (p:Place) WHERE p.qid IN $q RETURN p.qid AS qid, {L('p.name')} AS place, "
+                                     "p.lat AS lat, p.lon AS lon", q=[s["qid"] for s in steps])}
+    return jsonify([{"order": int(s["ordre"]), "qid": s["qid"], "label": s[f"etape_{lang()}"], "ref": s["ref"],
+                     "place": coords.get(s["qid"], {}).get("place"), "lat": coords.get(s["qid"], {}).get("lat"),
+                     "lon": coords.get(s["qid"], {}).get("lon")} for s in steps])
 
 
 @app.route("/api/works")

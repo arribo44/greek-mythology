@@ -141,10 +141,13 @@ const app = document.getElementById("app");
 let feedPage = 0;
 let network = null;
 let leafletMap = null;
-const PLACE_COLORS = { birth: "#3d7f4f", death: "#c0392b", residence: "#276a9c", burial: "#8a5a2b" };
+const PLACE_COLORS = { birth: "#3d7f4f", death: "#c0392b", residence: "#276a9c", burial: "#8a5a2b", visit: "#8e5ba6" };
+const PLACE_ORDER = Object.keys(PLACE_COLORS);
+// source d'un lien vers un lieu, affichée quand elle ne vient pas seulement de Wikidata (« Apollodore III, 190 »)
+const placeSource = s => s && s !== "Wikidata" ? ` <span class="muted small" title="${esc(s)}">· ${esc(s.replace(/^Wikidata ; /, ""))}</span>` : "";
 let LABELS_FR = {};   // nom anglais -> nom français, pour les noms seuls (chemins, via, duos…)
 let PORTRAITS = {};   // nom anglais -> vignette personnalisée (DATAS/IMAGES_JC), prioritaire sur l'emoji…
-const EMOJI_FIRST = new Set(["Odysseus"]);   // …sauf pour ces personnages (Ulysse : le cheval de Troie 🎠)
+const EMOJI_FIRST = new Set([]);   // …sauf pour ces personnages (noms anglais)
 const portraitOf = p => !EMOJI_FIRST.has(p.name) && PORTRAITS[p.name];
 
 // ---------------------------------------------------------------- utilitaires
@@ -582,7 +585,7 @@ function infoCard(p) {
         ${p.symbols.length ? `<dt>${t("info.symbols")}</dt><dd>${p.symbols.map(esc).join(", ")}</dd>` : ""}
         ${p.worshipped_by.length ? `<dt>${t("info.worshipped")}</dt><dd>${p.worshipped_by.map(esc).join(", ")}</dd>` : ""}
         ${p.wd_works.length ? `<dt>${t("info.present")}</dt><dd>${p.wd_works.map(esc).join(", ")}</dd>` : ""}
-        ${["birth", "death", "residence", "burial"].map(k => {
+        ${PLACE_ORDER.map(k => {
           const ps = p.places.filter(x => x.kind === k);
           return ps.length ? `<dt>${t(`place.${k}`)}</dt><dd>${ps.map(x => esc(x.name)).join(", ")}</dd>` : "";
         }).join("")}
@@ -921,8 +924,8 @@ function newMap(el) {
   return leafletMap;
 }
 
-// Un point par position : les lieux aux mêmes coordonnées (une ville et ses tombeaux « approchés »)
-// sont regroupés. Couleur = type de lien le plus fréquent, taille = nombre de personnages.
+// Un marqueur pour un groupe de lieux voisins (voir groupByProximity), dont la bulle les liste tous.
+// Couleur = type de lien le plus fréquent, taille = nombre de personnages.
 function placeMarker(group) {
   const all = group.flatMap(g => g.people);
   const counts = {};
@@ -930,9 +933,9 @@ function placeMarker(group) {
   const main = Object.entries(counts).sort((a, b) => b[1] - a[1])[0][0];
   const approx = group.every(g => g.place.approx);
   const section = ({ place, people }) => `<div class="map-place"><b>${esc(place.name)}</b>${place.approx ? ` <span class="muted small">≈</span>` : ""}
-    ${["birth", "death", "residence", "burial"].filter(k => people.some(x => x.kind === k)).map(k =>
+    ${PLACE_ORDER.filter(k => people.some(x => x.kind === k)).map(k =>
       `<div class="map-kind" style="--c:${PLACE_COLORS[k]}">${t(`place.${k}`)}</div>
-      ${people.filter(x => x.kind === k).map(x => `<a class="map-person" href="${link(x.name)}">${emojiFor(x)} ${esc(nm(x))}</a>`).join("")}`).join("")}</div>`;
+      ${people.filter(x => x.kind === k).map(x => `<a class="map-person" href="${link(x.name)}">${emojiFor(x)} ${esc(nm(x))}${placeSource(x.source)}</a>`).join("")}`).join("")}</div>`;
   const popup = `<div class="map-popup">${group.map(section).join("")}
     ${group.some(g => g.place.approx) ? `<div class="muted small">≈ ${t("map.approx")}</div>` : ""}</div>`;
   const { lat, lon } = group[0].place;
@@ -948,44 +951,157 @@ function coreBounds(points) {
   return [[q(lats, .05), q(lons, .05)], [q(lats, .95), q(lons, .95)]];
 }
 
-function groupByPosition(items) {
-  const groups = {};
-  items.forEach(it => { (groups[`${it.place.lat},${it.place.lon}`] = groups[`${it.place.lat},${it.place.lon}`] || []).push(it); });
-  return Object.values(groups);
+// Lieux qui se chevaucheraient à l'écran au zoom courant : même position (une ville et ses tombeaux
+// « approchés ») ou quelques centaines de mètres (l'Achilléion et le tumulus d'Achille) -> un seul marqueur.
+const OVERLAP_PX = 10;
+
+function groupByProximity(items, map) {
+  const groups = [];
+  [...items].sort((a, b) => b.people.length - a.people.length).forEach(it => {
+    const pt = map.latLngToLayerPoint([it.place.lat, it.place.lon]);
+    const near = groups.find(g => g.pt.distanceTo(pt) < OVERLAP_PX);
+    if (near) near.items.push(it);
+    else groups.push({ pt, items: [it] });
+  });
+  return groups.map(g => g.items);
+}
+
+// Dessine les lieux et refait les regroupements à chaque zoom (en zoomant, les voisins se séparent).
+function plotPlaces(map, layer, items) {
+  const render = () => {
+    layer.clearLayers();
+    groupByProximity(items, map).forEach(g => placeMarker(g).addTo(layer));
+  };
+  if (map.replot) map.off("zoomend", map.replot);
+  map.replot = render;
+  map.on("zoomend", render);
+  render();
 }
 
 function mapLegend() {
-  return `<div class="legend map-legend">${["birth", "death", "residence", "burial"].map(k =>
+  return `<div class="legend map-legend">${PLACE_ORDER.map(k =>
     `<label><input type="checkbox" data-kind="${k}" checked><i style="background:${PLACE_COLORS[k]}"></i>${t(`place.${k}`)}</label>`).join("")}
     <span><i class="approx-dot"></i>${t("map.approx")}</span></div>`;
 }
 
+// recherche sans accents ni majuscules (« heracles » trouve « Héraclès »)
+const fold = s => (s || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
+
 async function pageMap(focus) {
   const places = await api("/map");
-  const people = new Set(places.flatMap(p => p.people.map(x => x.name)));
   const located = places.filter(p => p.lat != null);
   const off = places.filter(p => p.lat == null);
+  // personnages présents sur la carte, avec leur nombre de lieux, pour le filtre
+  const cast = new Map();
+  places.forEach(pl => pl.people.forEach(x => {
+    const c = cast.get(x.name) || { ...x, places: new Set() };
+    c.places.add(pl.qid);
+    cast.set(x.name, c);
+  }));
+  const castList = [...cast.values()].sort((a, b) => nm(a).localeCompare(nm(b), LANG));
   app.innerHTML = `<div class="card">
-    <h2 class="section-title">${focus ? t("map.focus", { n: esc(nm(focus)) }) : t("map.title")}</h2>
-    <div class="muted" style="margin:-8px 0 12px">${focus ? `<a href="#/map">${t("map.all")}</a>` : t("map.sub", { n: located.length, p: people.size })}</div>
-    ${mapLegend()}
+    <h2 class="section-title" id="map-title"></h2>
+    <div class="muted" id="map-sub" style="margin:-8px 0 12px"></div>
+    <div class="map-filters">
+      <div class="search map-search">
+        <input id="map-who" type="search" autocomplete="off" placeholder="${esc(t("map.filter"))}">
+        <div id="map-who-r" class="dropdown hidden"></div>
+      </div>
+      ${mapLegend()}
+    </div>
     <div id="world-map" class="world-map"></div>
-    ${off.length && !focus ? `<div class="small muted" style="margin-top:10px"><b>${t("map.offmap")}</b> — ${t("map.offmap_sub")}
-      ${off.map(p => `${esc(p.name)} (${p.people.map(x => nameLink(x)).join(", ")})`).join(" · ")}</div>` : ""}
+    <div id="map-off" class="small muted" style="margin-top:10px"></div>
+    <div id="map-route" class="map-route"></div>
   </div>`;
+  const input = document.getElementById("map-who"), results = document.getElementById("map-who-r");
+  const header = () => {
+    document.getElementById("map-title").innerHTML = focus ? t("map.focus", { n: esc(nm(focus)) }) : t("map.title");
+    document.getElementById("map-sub").innerHTML = focus ? `<a href="#/map">${t("map.all")}</a>`
+      : t("map.sub", { n: located.length, p: cast.size });
+    document.getElementById("map-off").innerHTML = off.length && !focus ? `<b>${t("map.offmap")}</b> — ${t("map.offmap_sub")}
+      ${off.map(p => `${esc(p.name)} (${p.people.map(x => nameLink(x)).join(", ")})`).join(" · ")}` : "";
+  };
+  header();
+  if (focus) input.value = nm(focus);
+
   const map = newMap(document.getElementById("world-map"));
   if (!map) return;
   const layer = L.layerGroup().addTo(map);
+  const routeLayer = L.layerGroup().addTo(map);
+  const routes = {};   // itinéraires déjà chargés, par personnage
+  // Itinéraire du personnage filtré (DATAS/itineraires.csv) : segments en pointillé, flèches, étapes numérotées
+  const showRoute = () => {
+    routeLayer.clearLayers();
+    const box = document.getElementById("map-route");
+    const who = focus, steps = who && routes[who];
+    if (who && steps === undefined) {
+      api(`/itinerary/${enc(who)}`).then(s => { routes[who] = s; if (focus === who) showRoute(); });
+      return;
+    }
+    if (!steps || !steps.length) { box.innerHTML = ""; return; }
+    const pts = steps.filter(s => s.lat != null);
+    for (let i = 1; i < pts.length; i++) {
+      const a = [pts[i - 1].lat, pts[i - 1].lon], b = [pts[i].lat, pts[i].lon];
+      if (a[0] === b[0] && a[1] === b[1]) continue;
+      L.polyline([a, b], { color: PLACE_COLORS.visit, weight: 2.5, opacity: .85, dashArray: "6 6", interactive: false })
+        .addTo(routeLayer);
+      const pa = map.latLngToLayerPoint(a), pb = map.latLngToLayerPoint(b);
+      const deg = Math.atan2(pb.y - pa.y, pb.x - pa.x) * 180 / Math.PI;   // projection conforme : angle valable à tout zoom
+      L.marker([(a[0] + b[0]) / 2, (a[1] + b[1]) / 2], { interactive: false, keyboard: false,
+        icon: L.divIcon({ className: "route-arrow", iconSize: [16, 16], html: `<span style="transform:rotate(${deg}deg)">➤</span>` }) })
+        .addTo(routeLayer);
+    }
+    const byPlace = {};
+    pts.forEach(s => { (byPlace[s.qid] = byPlace[s.qid] || { ...s, orders: [] }).orders.push(s.order); });
+    Object.values(byPlace).forEach(s => L.marker([s.lat, s.lon], { interactive: false, keyboard: false,
+      icon: L.divIcon({ className: "route-num", iconSize: null, iconAnchor: [-6, 22], html: s.orders.join(" · ") }) })
+      .addTo(routeLayer));
+    box.innerHTML = `<h3>${t("route.title", { n: esc(nm(who)) })}</h3><ol>${steps.map(s => `<li value="${s.order}">
+      <b>${esc(s.label)}</b> <span class="muted small">— ${esc(s.place || "")}${s.lat == null ? ` (${t("route.offmap")})` : ""}
+      · ${esc(s.ref)}</span></li>`).join("")}</ol>`;
+  };
+  const choose = name => {
+    focus = name;
+    input.value = name ? nm(name) : "";
+    results.classList.add("hidden");
+    history.replaceState(null, "", name ? `#/map/${enc(name)}` : "#/map");   // sans relancer route()
+    header();
+    draw();
+  };
+  const suggest = () => {
+    const v = fold(input.value.trim());
+    const rows = castList.filter(x => !v || fold(nm(x)).includes(v) || fold(x.name).includes(v)).slice(0, 40);
+    results.innerHTML = rows.length
+      ? rows.map(x => `<div class="person" data-pick="${esc(x.name)}">${avatar(x, "sm")}<div class="who">
+          <span class="nm">${esc(nm(x))}</span><span class="hl">${t("map.places", { n: x.places.size })}</span></div></div>`).join("")
+      : `<div class="person muted">${t("search.none")}</div>`;
+    results.classList.remove("hidden");
+  };
+  input.addEventListener("focus", suggest);
+  input.addEventListener("input", () => {
+    if (!input.value.trim() && focus) choose(null);   // champ vidé (ou croix du champ) : tous les personnages
+    else suggest();
+  });
+  input.addEventListener("keydown", e => {
+    if (e.key === "Enter") {
+      const first = results.querySelector("[data-pick]");
+      if (first) choose(first.dataset.pick);
+    } else if (e.key === "Escape") results.classList.add("hidden");
+  });
+  results.addEventListener("click", e => {
+    const el = e.target.closest("[data-pick]");
+    if (el) choose(el.dataset.pick);
+  });
   const draw = () => {
     const kinds = new Set([...document.querySelectorAll("[data-kind]:checked")].map(c => c.dataset.kind));
-    layer.clearLayers();
     const items = located.map(pl => ({ place: pl, people: pl.people.filter(x => kinds.has(x.kind) && (!focus || x.name === focus)) }))
       .filter(it => it.people.length);
-    groupByPosition(items).forEach(g => placeMarker(g).addTo(layer));
     const shown = items.map(it => [it.place.lat, it.place.lon]);
     // vue cadrée sur l'essentiel des lieux (Grèce, ou bassin méditerranéen si besoin) : on ignore
     // les 5 % les plus excentrés (île de Cerné, Assur…), qui restent visibles en dézoomant
     if (shown.length) map.fitBounds(focus ? shown : coreBounds(shown), { padding: [30, 30], maxZoom: focus ? 8 : 7 });
+    plotPlaces(map, layer, items);
+    showRoute();
   };
   document.querySelectorAll("[data-kind]").forEach(c => c.addEventListener("change", draw));
   draw();
@@ -999,8 +1115,8 @@ function drawMiniMap(p) {
   const pts = p.places.filter(x => x.lat != null);
   const byPlace = {};
   pts.forEach(x => { (byPlace[x.qid] = byPlace[x.qid] || { place: x, people: [] }).people.push({ ...p, kind: x.kind }); });
-  groupByPosition(Object.values(byPlace)).forEach(g => placeMarker(g).addTo(map));
   map.fitBounds(pts.map(x => [x.lat, x.lon]), { padding: [25, 25], maxZoom: 8 });
+  plotPlaces(map, L.layerGroup().addTo(map), Object.values(byPlace));
 }
 
 // ---------------------------------------------------------------- page d'erreur : le labyrinthe

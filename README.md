@@ -3,6 +3,12 @@
 Parodie de LinkedIn pour les immortels de la mythologie grecque, construite sur les données de `DATAS/*.csv`
 et enrichie avec Wikidata.
 
+| Fil d'actualité | Profil d'Athéna |
+|---|---|
+| ![Page d'accueil : fil d'actualité des immortels](docs/screenshots/accueil.png) | ![Profil d'Athéna](docs/screenshots/profil-athena.png) |
+| **Carte du monde mythologique** | **Page « entreprise » de la Bibliothèque d'Apollodore** |
+| ![Carte des lieux de naissance, de mort, de résidence et de sépulture](docs/screenshots/carte.png) | ![Page de la Bibliothèque d'Apollodore](docs/screenshots/bibliotheque-apollodore.png) |
+
 ## Lancer
 
 ```bash
@@ -40,13 +46,26 @@ et enrichie avec Wikidata.
 (:Immortal)-[:SAID]->(:Quote)-[:ADDRESSED_TO]->(:Immortal)        # citations Wikiquote
 (:Quote)-[:ABOUT]->(:Immortal)
 (:Quote)-[:MENTIONS]->(:Immortal)                                 # autres personnages nommés dans la citation
-(:Immortal)-[:BORN_IN|DIED_IN|LIVED_IN|BURIED_IN]->(:Place)      # lieux Wikidata (P19, P20, P551, P119)
+(:Immortal)-[:BORN_IN|DIED_IN|LIVED_IN|BURIED_IN {source}]->(:Place)  # lieux Wikidata (P19, P20, P551, P119)
+(:Immortal)-[:VISITED {source}]->(:Place)                         # passages attestés par les textes antiques
 ```
 
 Les **lieux** sont récupérés en quelques requêtes SPARQL (`fetch_places.py`) avec leurs coordonnées (P625) ;
 un lieu sans coordonnées prend celles de son lieu englobant (position « approchée »).
 `DATAS/places_manual.csv` complète ou corrige les coordonnées, `DATAS/places_fr.csv` traduit les noms
-(tombeaux de Pausanias…). La page **Carte** les affiche avec Leaflet / OpenStreetMap.
+(tombeaux de Pausanias…). `DATAS/places_textes.csv` ajoute des liens relevés dans les textes antiques
+(*Bibliothèque* d'Apollodore : personnages nés, ayant vécu, inhumés ou passés à Athènes…), avec la
+référence du passage, affichée dans la bulle de la carte. La page **Carte** les affiche avec Leaflet / OpenStreetMap.
+`DATAS/itineraires.csv` décrit les voyages, étape par étape (personnage, ordre, lieu, libellés fr/en,
+référence) : filtrée sur ce personnage, la carte trace l'itinéraire numéroté (l'Odyssée d'Ulysse).
+
+Le jeu de données Kaggle ne repère que les noms propres : « la biche » ou « le taureau » d'Apollodore
+lui échappent. Trois fichiers le complètent, sans modifier `characters.csv` ni `edges.csv` :
+`DATAS/characters_textes.csv` (personnages absents : Taureau de Crète, Juments de Diomède, Oiseaux du lac
+Stymphale, Diomède de Thrace), `DATAS/edges_textes.csv` (co-apparitions ajoutées à une scène existante,
+avec la référence du passage) et `DATAS/edges_corrections.csv` (homonymes : dans les travaux d'Héraclès,
+« Diomède » est le roi de Thrace, pas le fils de Tydée). Après un ajout de personnage,
+`fetch_wikidata.py --manquants` récupère seulement sa fiche Wikidata.
 
 Les **recommandations** d'un profil sont des citations Wikiquote : « reçues » (dites à propos du personnage
 ou à lui) et « données » (dites par lui). `fetch_wikiquote.py` trouve les pages fr/en via Wikidata, devine
@@ -65,10 +84,13 @@ page œuvre (« page entreprise »), bibliothèque, offres, messagerie, notifica
 
 ## Vignettes personnalisées
 
-Les images de `DATAS/IMAGES_JC/` (SVG, PNG, JPG ou WebP) remplacent l'emoji du médaillon. Le début du nom
+Les images de `static/portraits/` (PNG, WebP, JPG ou SVG) remplacent l'emoji du médaillon. Le début du nom
 de fichier, avant le premier `_`, désigne le personnage, en français ou en anglais, sans accents
-(`Hephaistos_xxx.svg` -> Héphaïstos). Pour en ajouter une : déposer le fichier puis relancer
-`build_graph.py` ; les fichiers sans personnage correspondant sont signalés.
+(`Hephaistos_xxx.svg` -> Héphaïstos) ; si un personnage a plusieurs images, le PNG l'emporte sur le SVG.
+`DATAS/portraits_manuels.csv` impose une image quand le nom ne suffit pas (une vignette pour les trois
+Cyclopes, Dionysos). Pour en ajouter une : déposer le fichier puis relancer `build_graph.py` ; les fichiers
+sans personnage correspondant sont signalés. `static/images/` garde les illustrations qui ne sont pas des
+personnages (mont Olympe, nymphe, phénix). `DATAS/IMAGES_JC/` conserve les originaux.
 
 ## Présentations des œuvres
 

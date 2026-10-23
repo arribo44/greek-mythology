@@ -70132,5 +70132,128 @@
     }
    ]
   }
+ },
+ "Q1048023": {
+  "info": {
+   "fr": "Juments de Diomède",
+   "frDesc": "juments nourries avec de la chair humaine",
+   "el": "Άλογα του Διομήδη",
+   "image": "Mosaico Trabajos Hércules (M.A.N. Madrid) 08.jpg",
+   "frwiki": "Juments de Diomède",
+   "enwiki": "Mares of Diomedes"
+  },
+  "claims": {}
+ },
+ "Q236429": {
+  "info": {
+   "fr": "oiseaux du lac Stymphale",
+   "frDesc": "oiseaux mythologiques",
+   "el": "Στυμφαλίδες Όρνιθες",
+   "la": "Aves Stymphalides",
+   "image": "Herakles Stymphalian BM B163.jpg",
+   "frwiki": "Oiseaux du lac Stymphale",
+   "enwiki": "Stymphalian birds"
+  },
+  "claims": {
+   "worshipped_by": [
+    {
+     "qid": "Q855270",
+     "label": "religion grecque antique",
+     "label_en": "Ancient Greek religion"
+    }
+   ],
+   "part_of": [
+    {
+     "qid": "Q1233460",
+     "label": "Travaux d'Héraclès",
+     "label_en": "Labours of Heracles"
+    }
+   ]
+  }
+ },
+ "Q393186": {
+  "info": {
+   "fr": "Diomède",
+   "frDesc": "personnage de la mythologie grecque, roi de Thrace",
+   "el": "Διομήδης",
+   "image": "Gustave Moreau - Diomède dévoré par ses chevaux.jpg",
+   "frwiki": "Diomède (Thrace)",
+   "enwiki": "Diomedes of Thrace"
+  },
+  "claims": {
+   "father": [
+    {
+     "qid": "Q40901",
+     "label": "Arès",
+     "label_en": "Ares"
+    }
+   ],
+   "mother": [
+    {
+     "qid": "Q26399341",
+     "label": "Cyrène",
+     "label_en": "Cyrene"
+    }
+   ],
+   "sibling": [
+    {
+     "qid": "Q15634657",
+     "label": "Abdère",
+     "label_en": "Abdera"
+    },
+    {
+     "qid": "Q122850364",
+     "label": "Crestone",
+     "label_en": "Crestone"
+    }
+   ],
+   "worshipped_by": [
+    {
+     "qid": "Q34726",
+     "label": "mythologie grecque",
+     "label_en": "Greek mythology"
+    }
+   ]
+  }
+ },
+ "Q746198": {
+  "info": {
+   "fr": "Taureau de Crète",
+   "frDesc": "créature de la mythologie grecque",
+   "el": "Ταύρος της Κρήτης",
+   "image": "Lekythos Cretan bull Louvre CA3759d.jpg",
+   "frwiki": "Taureau crétois",
+   "enwiki": "Cretan Bull"
+  },
+  "claims": {
+   "child": [
+    {
+     "qid": "Q129866",
+     "label": "Minotaure",
+     "label_en": "Minotaur"
+    }
+   ],
+   "present_in_work": [
+    {
+     "qid": "Q1233460",
+     "label": "Travaux d'Héraclès",
+     "label_en": "Labours of Heracles"
+    }
+   ],
+   "worshipped_by": [
+    {
+     "qid": "Q34726",
+     "label": "mythologie grecque",
+     "label_en": "Greek mythology"
+    }
+   ],
+   "part_of": [
+    {
+     "qid": "Q34726",
+     "label": "mythologie grecque",
+     "label_en": "Greek mythology"
+    }
+   ]
+  }
  }
 }

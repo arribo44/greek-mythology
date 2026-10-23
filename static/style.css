@@ -333,6 +333,20 @@ details summary { cursor: pointer; color: var(--blue); font-size: 14px; margin: 
 .world-map { height: 620px; border-radius: var(--radius); border: 1px solid var(--border); margin-top: 10px; }
 .mini-map { height: 220px; border-radius: 8px; border: 1px solid var(--border); }
 .map-legend label { display: flex; align-items: center; gap: 4px; cursor: pointer; }
+.map-filters { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 18px; }
+.map-filters .legend { margin-top: 0; }
+.map-search { flex: 0 1 300px; }
+.map-search .dropdown { z-index: 1100; }   /* au-dessus des calques Leaflet (400 à 1000) */
+/* itinéraire d'un personnage (Odyssée…) */
+.route-num { background: #8e5ba6; color: #fff; border: 1.5px solid #fff; border-radius: 10px;
+  padding: 0 6px; font: 700 11px/18px "Source Sans 3", system-ui, sans-serif; white-space: nowrap;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, .35); width: auto !important; }
+.route-arrow span { display: block; color: #8e5ba6; font-size: 14px; line-height: 16px; text-align: center;
+  text-shadow: 0 0 2px #fff, 0 0 2px #fff; }
+.map-route h3 { margin: 14px 0 6px; }
+.map-route ol { margin: 0; padding-left: 26px; columns: 2; column-gap: 28px; }
+.map-route li { margin: 2px 0; break-inside: avoid; }
+@media (max-width: 700px) { .map-route ol { columns: 1; } }
 .approx-dot { background: transparent !important; border: 1.5px dashed var(--muted); }
 .map-popup { font-family: "Source Sans 3", system-ui, sans-serif; font-size: 14px; }
 .map-place + .map-place { border-top: 1px solid var(--border); margin-top: 6px; padding-top: 6px; }

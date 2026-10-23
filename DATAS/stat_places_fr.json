@@ -1,0 +1,1345 @@
+{
+  "source": "DATAS/DOCS/MD/LA_BIBLIOTHEQUE_APOLLODORE.md, traduction seule (livres I à III et Épitomé, sans les notes)",
+  "methode": "Répertoire de noms de lieux grecs (villes, régions, îles, montagnes, fleuves) dans la graphie de la traduction. Les noms qui désignent aussi un personnage (Argos, Europe, Égine, dieux-fleuves…) ne sont comptés qu'en emploi de lieu (« à Argos », « roi d'Argos »), pas après « fils de », « fille de »… « qid_carte » : identifiant Wikidata si le lieu figure déjà sur la carte du site.",
+  "genere_le": "2026-10-23",
+  "nb_lieux": 167,
+  "nb_mentions": 874,
+  "lieux": [
+    {
+      "rang": 1,
+      "lieu": "Thèbes",
+      "occurrences": 42,
+      "type": "ville",
+      "comptage": "toutes les mentions",
+      "qid_carte": "Q11225429"
+    },
+    {
+      "rang": 2,
+      "lieu": "Troie",
+      "occurrences": 38,
+      "type": "ville",
+      "comptage": "toutes les mentions",
+      "qid_carte": "Q22647"
+    },
+    {
+      "rang": 3,
+      "lieu": "Athènes",
+      "occurrences": 29,
+      "type": "ville",
+      "comptage": "toutes les mentions",
+      "qid_carte": "Q1524"
+    },
+    {
+      "rang": 4,
+      "lieu": "Argos",
+      "occurrences": 27,
+      "type": "ville",
+      "comptage": "emplois de lieu seulement",
+      "qid_carte": "Q13533353"
+    },
+    {
+      "rang": 5,
+      "lieu": "Mycènes",
+      "occurrences": 22,
+      "type": "ville",
+      "comptage": "toutes les mentions",
+      "qid_carte": "Q132564"
+    },
+    {
+      "rang": 6,
+      "lieu": "Péloponnèse",
+      "occurrences": 20,
+      "type": "région",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 7,
+      "lieu": "Crète",
+      "occurrences": 19,
+      "type": "île",
+      "comptage": "toutes les mentions",
+      "qid_carte": "Q34374"
+    },
+    {
+      "rang": 8,
+      "lieu": "Hadès",
+      "occurrences": 18,
+      "type": "monde souterrain",
+      "comptage": "emplois de lieu seulement",
+      "qid_carte": null
+    },
+    {
+      "rang": 9,
+      "lieu": "Arcadie",
+      "occurrences": 17,
+      "type": "région",
+      "comptage": "toutes les mentions",
+      "qid_carte": "Q12898802"
+    },
+    {
+      "rang": 10,
+      "lieu": "Delphes",
+      "occurrences": 17,
+      "type": "sanctuaire",
+      "comptage": "toutes les mentions",
+      "qid_carte": "Q75459"
+    },
+    {
+      "rang": 11,
+      "lieu": "Egypte",
+      "occurrences": 15,
+      "type": "pays",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 12,
+      "lieu": "Grèce",
+      "occurrences": 15,
+      "type": "région",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 13,
+      "lieu": "Libye",
+      "occurrences": 14,
+      "type": "région",
+      "comptage": "emplois de lieu seulement",
+      "qid_carte": null
+    },
+    {
+      "rang": 14,
+      "lieu": "Thrace",
+      "occurrences": 13,
+      "type": "région",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 15,
+      "lieu": "Chypre",
+      "occurrences": 11,
+      "type": "île",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 16,
+      "lieu": "Corinthe",
+      "occurrences": 11,
+      "type": "ville",
+      "comptage": "toutes les mentions",
+      "qid_carte": "Q103011"
+    },
+    {
+      "rang": 17,
+      "lieu": "Ilion",
+      "occurrences": 11,
+      "type": "ville",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 18,
+      "lieu": "Mysie",
+      "occurrences": 11,
+      "type": "région",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 19,
+      "lieu": "Thessalie",
+      "occurrences": 10,
+      "type": "région",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 20,
+      "lieu": "Ténédos",
+      "occurrences": 10,
+      "type": "île",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 21,
+      "lieu": "Attique",
+      "occurrences": 9,
+      "type": "région",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 22,
+      "lieu": "Calydon",
+      "occurrences": 9,
+      "type": "ville",
+      "comptage": "emplois de lieu seulement",
+      "qid_carte": null
+    },
+    {
+      "rang": 23,
+      "lieu": "Europe",
+      "occurrences": 9,
+      "type": "continent",
+      "comptage": "emplois de lieu seulement",
+      "qid_carte": null
+    },
+    {
+      "rang": 24,
+      "lieu": "Pylos",
+      "occurrences": 9,
+      "type": "ville",
+      "comptage": "emplois de lieu seulement",
+      "qid_carte": "Q7263152"
+    },
+    {
+      "rang": 25,
+      "lieu": "Sparte",
+      "occurrences": 9,
+      "type": "ville",
+      "comptage": "toutes les mentions",
+      "qid_carte": "Q5690"
+    },
+    {
+      "rang": 26,
+      "lieu": "Tartare",
+      "occurrences": 9,
+      "type": "monde souterrain",
+      "comptage": "emplois de lieu seulement",
+      "qid_carte": null
+    },
+    {
+      "rang": 27,
+      "lieu": "Trachis",
+      "occurrences": 9,
+      "type": "ville",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 28,
+      "lieu": "Lemnos",
+      "occurrences": 8,
+      "type": "île",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 29,
+      "lieu": "Sicile",
+      "occurrences": 8,
+      "type": "île",
+      "comptage": "toutes les mentions",
+      "qid_carte": "Q1460"
+    },
+    {
+      "rang": 30,
+      "lieu": "Tirynthe",
+      "occurrences": 8,
+      "type": "ville",
+      "comptage": "toutes les mentions",
+      "qid_carte": "Q217379"
+    },
+    {
+      "rang": 31,
+      "lieu": "Aulis",
+      "occurrences": 7,
+      "type": "port",
+      "comptage": "toutes les mentions",
+      "qid_carte": "Q4821780"
+    },
+    {
+      "rang": 32,
+      "lieu": "Eleusis",
+      "occurrences": 7,
+      "type": "ville",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 33,
+      "lieu": "Elide",
+      "occurrences": 7,
+      "type": "région",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 34,
+      "lieu": "Isthme",
+      "occurrences": 7,
+      "type": "lieu",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 35,
+      "lieu": "Lacédémone",
+      "occurrences": 7,
+      "type": "ville",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 36,
+      "lieu": "Messène",
+      "occurrences": 7,
+      "type": "ville",
+      "comptage": "emplois de lieu seulement",
+      "qid_carte": null
+    },
+    {
+      "rang": 37,
+      "lieu": "Argolide",
+      "occurrences": 6,
+      "type": "région",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 38,
+      "lieu": "Béotie",
+      "occurrences": 6,
+      "type": "région",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 39,
+      "lieu": "Colchide",
+      "occurrences": 6,
+      "type": "région",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 40,
+      "lieu": "Cos",
+      "occurrences": 6,
+      "type": "île",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 41,
+      "lieu": "Eubée",
+      "occurrences": 6,
+      "type": "île",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 42,
+      "lieu": "Evènos",
+      "occurrences": 6,
+      "type": "fleuve",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 43,
+      "lieu": "Ida",
+      "occurrences": 6,
+      "type": "montagne",
+      "comptage": "emplois de lieu seulement",
+      "qid_carte": null
+    },
+    {
+      "rang": 44,
+      "lieu": "Iolcos",
+      "occurrences": 6,
+      "type": "ville",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 45,
+      "lieu": "Lerne",
+      "occurrences": 6,
+      "type": "lieu",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 46,
+      "lieu": "Phocide",
+      "occurrences": 6,
+      "type": "région",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 47,
+      "lieu": "Phthie",
+      "occurrences": 6,
+      "type": "région",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 48,
+      "lieu": "Pélion",
+      "occurrences": 6,
+      "type": "montagne",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 49,
+      "lieu": "Achéloos",
+      "occurrences": 5,
+      "type": "fleuve",
+      "comptage": "emplois de lieu seulement",
+      "qid_carte": null
+    },
+    {
+      "rang": 50,
+      "lieu": "Asopos",
+      "occurrences": 5,
+      "type": "fleuve",
+      "comptage": "emplois de lieu seulement",
+      "qid_carte": null
+    },
+    {
+      "rang": 51,
+      "lieu": "Caphèreus",
+      "occurrences": 5,
+      "type": "cap",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 52,
+      "lieu": "Cyllène",
+      "occurrences": 5,
+      "type": "montagne",
+      "comptage": "emplois de lieu seulement",
+      "qid_carte": null
+    },
+    {
+      "rang": 53,
+      "lieu": "Délos",
+      "occurrences": 5,
+      "type": "île",
+      "comptage": "toutes les mentions",
+      "qid_carte": "Q173148"
+    },
+    {
+      "rang": 54,
+      "lieu": "Erythéia",
+      "occurrences": 5,
+      "type": "île",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 55,
+      "lieu": "Etolie",
+      "occurrences": 5,
+      "type": "région",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 56,
+      "lieu": "Inachos",
+      "occurrences": 5,
+      "type": "fleuve",
+      "comptage": "emplois de lieu seulement",
+      "qid_carte": null
+    },
+    {
+      "rang": 57,
+      "lieu": "Ismaros",
+      "occurrences": 5,
+      "type": "ville",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 58,
+      "lieu": "Italie",
+      "occurrences": 5,
+      "type": "pays",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 59,
+      "lieu": "Messénie",
+      "occurrences": 5,
+      "type": "région",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 60,
+      "lieu": "Mégare",
+      "occurrences": 5,
+      "type": "ville",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 61,
+      "lieu": "Némée",
+      "occurrences": 5,
+      "type": "ville",
+      "comptage": "toutes les mentions",
+      "qid_carte": "Q748108"
+    },
+    {
+      "rang": 62,
+      "lieu": "Phères",
+      "occurrences": 5,
+      "type": "ville",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 63,
+      "lieu": "Phénicie",
+      "occurrences": 5,
+      "type": "région",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 64,
+      "lieu": "Rhodes",
+      "occurrences": 5,
+      "type": "île",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 65,
+      "lieu": "Scamandre",
+      "occurrences": 5,
+      "type": "fleuve",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 66,
+      "lieu": "Syrie",
+      "occurrences": 5,
+      "type": "pays",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 67,
+      "lieu": "Sériphos",
+      "occurrences": 5,
+      "type": "île",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 68,
+      "lieu": "Asie",
+      "occurrences": 4,
+      "type": "continent",
+      "comptage": "emplois de lieu seulement",
+      "qid_carte": null
+    },
+    {
+      "rang": 69,
+      "lieu": "Cilicie",
+      "occurrences": 4,
+      "type": "région",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 70,
+      "lieu": "Elis",
+      "occurrences": 4,
+      "type": "ville",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 71,
+      "lieu": "Epire",
+      "occurrences": 4,
+      "type": "région",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 72,
+      "lieu": "Iles Echinades",
+      "occurrences": 4,
+      "type": "île",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 73,
+      "lieu": "Ithaque",
+      "occurrences": 4,
+      "type": "île",
+      "comptage": "toutes les mentions",
+      "qid_carte": "Q187471"
+    },
+    {
+      "rang": 74,
+      "lieu": "Marathon",
+      "occurrences": 4,
+      "type": "lieu",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 75,
+      "lieu": "Naxos",
+      "occurrences": 4,
+      "type": "île",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 76,
+      "lieu": "Olympe",
+      "occurrences": 4,
+      "type": "montagne",
+      "comptage": "emplois de lieu seulement",
+      "qid_carte": null
+    },
+    {
+      "rang": 77,
+      "lieu": "Onchestos",
+      "occurrences": 4,
+      "type": "ville",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 78,
+      "lieu": "Psôphis",
+      "occurrences": 4,
+      "type": "ville",
+      "comptage": "emplois de lieu seulement",
+      "qid_carte": null
+    },
+    {
+      "rang": 79,
+      "lieu": "Sicyone",
+      "occurrences": 4,
+      "type": "ville",
+      "comptage": "emplois de lieu seulement",
+      "qid_carte": null
+    },
+    {
+      "rang": 80,
+      "lieu": "Tégée",
+      "occurrences": 4,
+      "type": "ville",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 81,
+      "lieu": "Arabie",
+      "occurrences": 3,
+      "type": "pays",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 82,
+      "lieu": "Caucase",
+      "occurrences": 3,
+      "type": "montagne",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 83,
+      "lieu": "Cléonaï",
+      "occurrences": 3,
+      "type": "ville",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 84,
+      "lieu": "Ethiopie",
+      "occurrences": 3,
+      "type": "pays",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 85,
+      "lieu": "Larissa",
+      "occurrences": 3,
+      "type": "ville",
+      "comptage": "emplois de lieu seulement",
+      "qid_carte": null
+    },
+    {
+      "rang": 86,
+      "lieu": "Locride",
+      "occurrences": 3,
+      "type": "région",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 87,
+      "lieu": "Malée",
+      "occurrences": 3,
+      "type": "cap",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 88,
+      "lieu": "Memphis",
+      "occurrences": 3,
+      "type": "ville",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 89,
+      "lieu": "Oechalie",
+      "occurrences": 3,
+      "type": "ville",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 90,
+      "lieu": "Olénos",
+      "occurrences": 3,
+      "type": "ville",
+      "comptage": "emplois de lieu seulement",
+      "qid_carte": null
+    },
+    {
+      "rang": 91,
+      "lieu": "Pallène",
+      "occurrences": 3,
+      "type": "péninsule",
+      "comptage": "emplois de lieu seulement",
+      "qid_carte": null
+    },
+    {
+      "rang": 92,
+      "lieu": "Paros",
+      "occurrences": 3,
+      "type": "île",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 93,
+      "lieu": "Pholoè",
+      "occurrences": 3,
+      "type": "montagne",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 94,
+      "lieu": "Phrygie",
+      "occurrences": 3,
+      "type": "région",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 95,
+      "lieu": "Phylacè",
+      "occurrences": 3,
+      "type": "ville",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 96,
+      "lieu": "Pise",
+      "occurrences": 3,
+      "type": "ville",
+      "comptage": "emplois de lieu seulement",
+      "qid_carte": null
+    },
+    {
+      "rang": 97,
+      "lieu": "Strymon",
+      "occurrences": 3,
+      "type": "fleuve",
+      "comptage": "emplois de lieu seulement",
+      "qid_carte": null
+    },
+    {
+      "rang": 98,
+      "lieu": "Stymphale",
+      "occurrences": 3,
+      "type": "lac",
+      "comptage": "emplois de lieu seulement",
+      "qid_carte": null
+    },
+    {
+      "rang": 99,
+      "lieu": "Styx",
+      "occurrences": 3,
+      "type": "fleuve",
+      "comptage": "emplois de lieu seulement",
+      "qid_carte": null
+    },
+    {
+      "rang": 100,
+      "lieu": "Thasos",
+      "occurrences": 3,
+      "type": "île",
+      "comptage": "emplois de lieu seulement",
+      "qid_carte": null
+    },
+    {
+      "rang": 101,
+      "lieu": "Trézène",
+      "occurrences": 3,
+      "type": "ville",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 102,
+      "lieu": "Égine",
+      "occurrences": 3,
+      "type": "île",
+      "comptage": "emplois de lieu seulement",
+      "qid_carte": "Q191082"
+    },
+    {
+      "rang": 103,
+      "lieu": "Aiaiè",
+      "occurrences": 2,
+      "type": "île",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 104,
+      "lieu": "Alphée",
+      "occurrences": 2,
+      "type": "fleuve",
+      "comptage": "emplois de lieu seulement",
+      "qid_carte": null
+    },
+    {
+      "rang": 105,
+      "lieu": "Aïnos",
+      "occurrences": 2,
+      "type": "ville",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 106,
+      "lieu": "Carie",
+      "occurrences": 2,
+      "type": "région",
+      "comptage": "toutes les mentions",
+      "qid_carte": "Q193214"
+    },
+    {
+      "rang": 107,
+      "lieu": "Colophon",
+      "occurrences": 2,
+      "type": "ville",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 108,
+      "lieu": "Eridan",
+      "occurrences": 2,
+      "type": "fleuve",
+      "comptage": "emplois de lieu seulement",
+      "qid_carte": null
+    },
+    {
+      "rang": 109,
+      "lieu": "Eryx",
+      "occurrences": 2,
+      "type": "montagne",
+      "comptage": "emplois de lieu seulement",
+      "qid_carte": null
+    },
+    {
+      "rang": 110,
+      "lieu": "Gérènia",
+      "occurrences": 2,
+      "type": "ville",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 111,
+      "lieu": "Hellespont",
+      "occurrences": 2,
+      "type": "mer",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 112,
+      "lieu": "Hyria",
+      "occurrences": 2,
+      "type": "ville",
+      "comptage": "emplois de lieu seulement",
+      "qid_carte": null
+    },
+    {
+      "rang": 113,
+      "lieu": "Ladon",
+      "occurrences": 2,
+      "type": "fleuve",
+      "comptage": "emplois de lieu seulement",
+      "qid_carte": null
+    },
+    {
+      "rang": 114,
+      "lieu": "Lycie",
+      "occurrences": 2,
+      "type": "région",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 115,
+      "lieu": "Ossa",
+      "occurrences": 2,
+      "type": "montagne",
+      "comptage": "emplois de lieu seulement",
+      "qid_carte": null
+    },
+    {
+      "rang": 116,
+      "lieu": "Parthénion",
+      "occurrences": 2,
+      "type": "montagne",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 117,
+      "lieu": "Phlégrai",
+      "occurrences": 2,
+      "type": "lieu",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 118,
+      "lieu": "Piérie",
+      "occurrences": 2,
+      "type": "région",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 119,
+      "lieu": "Salamine",
+      "occurrences": 2,
+      "type": "île",
+      "comptage": "emplois de lieu seulement",
+      "qid_carte": null
+    },
+    {
+      "rang": 120,
+      "lieu": "Sardaigne",
+      "occurrences": 2,
+      "type": "île",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 121,
+      "lieu": "Scythie",
+      "occurrences": 2,
+      "type": "région",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 122,
+      "lieu": "Tartessos",
+      "occurrences": 2,
+      "type": "ville",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 123,
+      "lieu": "Thermodon",
+      "occurrences": 2,
+      "type": "fleuve",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 124,
+      "lieu": "Thrinacie",
+      "occurrences": 2,
+      "type": "île",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 125,
+      "lieu": "Troade",
+      "occurrences": 2,
+      "type": "région",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 126,
+      "lieu": "Tyrrhénie",
+      "occurrences": 2,
+      "type": "région",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 127,
+      "lieu": "Tènos",
+      "occurrences": 2,
+      "type": "île",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 128,
+      "lieu": "Abdère",
+      "occurrences": 1,
+      "type": "ville",
+      "comptage": "toutes les mentions",
+      "qid_carte": "Q132527193"
+    },
+    {
+      "rang": 129,
+      "lieu": "Acarnanie",
+      "occurrences": 1,
+      "type": "région",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 130,
+      "lieu": "Achaïe",
+      "occurrences": 1,
+      "type": "région",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 131,
+      "lieu": "Achéron",
+      "occurrences": 1,
+      "type": "fleuve",
+      "comptage": "emplois de lieu seulement",
+      "qid_carte": null
+    },
+    {
+      "rang": 132,
+      "lieu": "Aiolia",
+      "occurrences": 1,
+      "type": "île",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 133,
+      "lieu": "Amyclées",
+      "occurrences": 1,
+      "type": "ville",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 134,
+      "lieu": "Anaphè",
+      "occurrences": 1,
+      "type": "île",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 135,
+      "lieu": "Anauros",
+      "occurrences": 1,
+      "type": "fleuve",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 136,
+      "lieu": "Bosphore",
+      "occurrences": 1,
+      "type": "détroit",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 137,
+      "lieu": "Chios",
+      "occurrences": 1,
+      "type": "île",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 138,
+      "lieu": "Chrysè",
+      "occurrences": 1,
+      "type": "ville",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 139,
+      "lieu": "Cithéron",
+      "occurrences": 1,
+      "type": "montagne",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 140,
+      "lieu": "Corcyre",
+      "occurrences": 1,
+      "type": "île",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 141,
+      "lieu": "Crommyon",
+      "occurrences": 1,
+      "type": "lieu",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 142,
+      "lieu": "Cythère",
+      "occurrences": 1,
+      "type": "île",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 143,
+      "lieu": "Céphallénie",
+      "occurrences": 1,
+      "type": "île",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 144,
+      "lieu": "Dictè",
+      "occurrences": 1,
+      "type": "montagne",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 145,
+      "lieu": "Dodone",
+      "occurrences": 1,
+      "type": "sanctuaire",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 146,
+      "lieu": "Epidaure",
+      "occurrences": 1,
+      "type": "ville",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 147,
+      "lieu": "Etna",
+      "occurrences": 1,
+      "type": "montagne",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 148,
+      "lieu": "Eurotas",
+      "occurrences": 1,
+      "type": "fleuve",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 149,
+      "lieu": "Ibérie",
+      "occurrences": 1,
+      "type": "région",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 150,
+      "lieu": "Imbros",
+      "occurrences": 1,
+      "type": "île",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 151,
+      "lieu": "Laconie",
+      "occurrences": 1,
+      "type": "région",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 152,
+      "lieu": "Lesbos",
+      "occurrences": 1,
+      "type": "île",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 153,
+      "lieu": "Ligurie",
+      "occurrences": 1,
+      "type": "région",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 154,
+      "lieu": "Lyrnessos",
+      "occurrences": 1,
+      "type": "ville",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 155,
+      "lieu": "Mantinée",
+      "occurrences": 1,
+      "type": "ville",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 156,
+      "lieu": "Mégaride",
+      "occurrences": 1,
+      "type": "région",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 157,
+      "lieu": "Nil",
+      "occurrences": 1,
+      "type": "fleuve",
+      "comptage": "emplois de lieu seulement",
+      "qid_carte": null
+    },
+    {
+      "rang": 158,
+      "lieu": "Oeta",
+      "occurrences": 1,
+      "type": "montagne",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 159,
+      "lieu": "Ogygie",
+      "occurrences": 1,
+      "type": "île",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 160,
+      "lieu": "Orchomène",
+      "occurrences": 1,
+      "type": "ville",
+      "comptage": "emplois de lieu seulement",
+      "qid_carte": "Q1855083"
+    },
+    {
+      "rang": 161,
+      "lieu": "Parnasse",
+      "occurrences": 1,
+      "type": "montagne",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 162,
+      "lieu": "Phase",
+      "occurrences": 1,
+      "type": "fleuve",
+      "comptage": "emplois de lieu seulement",
+      "qid_carte": null
+    },
+    {
+      "rang": 163,
+      "lieu": "Platées",
+      "occurrences": 1,
+      "type": "ville",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 164,
+      "lieu": "Propontide",
+      "occurrences": 1,
+      "type": "mer",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 165,
+      "lieu": "Pénée",
+      "occurrences": 1,
+      "type": "fleuve",
+      "comptage": "emplois de lieu seulement",
+      "qid_carte": null
+    },
+    {
+      "rang": 166,
+      "lieu": "Samothrace",
+      "occurrences": 1,
+      "type": "île",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    },
+    {
+      "rang": 167,
+      "lieu": "Thespies",
+      "occurrences": 1,
+      "type": "ville",
+      "comptage": "toutes les mentions",
+      "qid_carte": null
+    }
+  ]
+}

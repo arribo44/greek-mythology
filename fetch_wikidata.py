@@ -8,6 +8,7 @@ DATAS/wikidata.json (cache utilisé par build_graph.py). Les lieux sont récupé
 Usage : .venv/bin/python fetch_wikidata.py
 """
 import json
+import sys
 import time
 import urllib.parse
 import urllib.request
@@ -72,10 +73,18 @@ def label(entity, lang):
     return value.get("value") if value.get("language") == lang else None
 
 
-def main():
+def main(missing_only=False):
+    """--manquants : ne récupère que les personnages absents du cache et les y ajoute."""
     chars = pd.read_csv(ROOT / "DATAS" / "characters.csv")
+    extra = ROOT / "DATAS" / "characters_textes.csv"   # personnages ajoutés d'après les textes antiques
+    if extra.exists():
+        chars = pd.concat([chars, pd.read_csv(extra)], ignore_index=True)
     qids = sorted(set(chars["id"].dropna()))
     data, referenced = {}, set()
+    cached = json.loads(OUT.read_text()) if missing_only and OUT.exists() else {}
+    qids = [q for q in qids if q not in cached]
+    if missing_only:
+        print(f"{len(qids)} personnage(s) absent(s) du cache : {', '.join(qids) or 'aucun'}")
 
     for n, chunk in enumerate(batches(qids), 1):
         print(f"personnages : lot {n}/{(len(qids) - 1) // BATCH + 1}")
@@ -114,6 +123,7 @@ def main():
             for v in values:
                 v["label"], v["label_en"] = labels.get(v["qid"], (v["qid"], v["qid"]))
 
+    data = {**cached, **data}
     OUT.write_text(json.dumps(data, ensure_ascii=False, indent=1))
     n_family = sum(len(d["claims"].get(k, [])) for d in data.values()
                    for k in ("father", "mother", "spouse", "partner", "child", "sibling"))
@@ -121,4 +131,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    main(missing_only="--manquants" in sys.argv)
