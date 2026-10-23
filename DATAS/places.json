@@ -1,0 +1,2414 @@
+{
+ "places": {
+  "Q124616317": {
+   "fr": "Tomb of Kynortas in Sparta near the Skias",
+   "en": "Tomb of Kynortas in Sparta near the Skias",
+   "lat": 37.0737,
+   "lon": 22.4309,
+   "approx": true
+  },
+  "Q124616332": {
+   "fr": "Tomb of Agamemnon with statue at Amyklai",
+   "en": "Tomb of Agamemnon with statue at Amyklai",
+   "lat": 37.0292,
+   "lon": 22.4483,
+   "approx": true
+  },
+  "Q124616558": {
+   "fr": "Hérôon de Pleuron à Sparte",
+   "en": "Heroon of Pleuron at Sparta",
+   "lat": 37.0737,
+   "lon": 22.4309,
+   "approx": true
+  },
+  "Q124616568": {
+   "fr": "Hérôon d'Œbale à Sparte",
+   "en": "Heroon of Oibalos at Sparta",
+   "lat": 37.0737,
+   "lon": 22.4309,
+   "approx": true
+  },
+  "Q124616569": {
+   "fr": "Hérôon de Télècle à Sparte",
+   "en": "Heroon of Teleclus at Sparta, near Asklepieion",
+   "lat": 37.0737,
+   "lon": 22.4309,
+   "approx": true
+  },
+  "Q124644626": {
+   "fr": "Hérôon de Pandion à Mégare",
+   "en": "Pandion hero shrine in Megara",
+   "lat": 37.9944,
+   "lon": 23.3383,
+   "approx": true
+  },
+  "Q124645116": {
+   "fr": "tomb of Tereus in Megara",
+   "en": "tomb of Tereus in Megara",
+   "lat": 37.9944,
+   "lon": 23.3383,
+   "approx": true
+  },
+  "Q136487332": {
+   "fr": "Tomb of Nisos, Athens",
+   "en": "Tomb of Nisos, Athens",
+   "lat": 38.0,
+   "lon": 23.7,
+   "approx": true
+  },
+  "Q136487353": {
+   "fr": "Tomb of Thersandros in agora of Elaia",
+   "en": "Tomb of Thersandros in agora of Elaia",
+   "lat": 38.0,
+   "lon": 29.0,
+   "approx": true
+  },
+  "Q136487385": {
+   "fr": "Tomb of Andraimon and Gorgê at Amphissa",
+   "en": "Tomb of Andraimon and Gorgê at Amphissa",
+   "lat": 38.5253,
+   "lon": 22.3753,
+   "approx": true
+  },
+  "Q136487410": {
+   "fr": "Tomb of Electra in Mycenae",
+   "en": "Tomb of Electra in Mycenae",
+   "lat": 37.7308,
+   "lon": 22.7561,
+   "approx": true
+  },
+  "Q136487411": {
+   "fr": "Tomb of Opheltes in Nemea",
+   "en": "Tomb of Opheltes in Nemea",
+   "lat": 37.4,
+   "lon": 22.3,
+   "approx": true
+  },
+  "Q136487408": {
+   "fr": "tombeau de Clytemnestre et d'Égisthe",
+   "en": "Tomb of Clytemnestra and Aigisthus at Mycenae",
+   "lat": 37.7308,
+   "lon": 22.7561,
+   "approx": true
+  },
+  "Q136487415": {
+   "fr": "Agamemnon's tomb in Mycenae",
+   "en": "Agamemnon's tomb in Mycenae",
+   "lat": 37.7308,
+   "lon": 22.7561,
+   "approx": true
+  },
+  "Q136487423": {
+   "fr": "tomb of Crotopus in Argos",
+   "en": "tomb of Crotopus in Argos",
+   "lat": 37.4,
+   "lon": 22.3,
+   "approx": true
+  },
+  "Q136487433": {
+   "fr": "Tomb of Sisyphus at the Isthmus, nonexistent",
+   "en": "Tomb of Sisyphus at the Isthmus, nonexistent",
+   "lat": 37.4,
+   "lon": 22.3,
+   "approx": true
+  },
+  "Q136487436": {
+   "fr": "Tomb of Epopeus at Sicyon",
+   "en": "Tomb of Epopeus at Sicyon",
+   "lat": 37.9805,
+   "lon": 22.7227,
+   "approx": true
+  },
+  "Q136487482": {
+   "fr": "Tomb of Oedipus in the Areios Pagos",
+   "en": "Tomb of Oedipus in the Areios Pagos",
+   "lat": 37.9722,
+   "lon": 23.7236,
+   "approx": true
+  },
+  "Q136487502": {
+   "fr": "Tomb of Minyas at Orchomenos",
+   "en": "Tomb of Minyas at Orchomenos",
+   "lat": 38.493,
+   "lon": 22.981,
+   "approx": true
+  },
+  "Q136487505": {
+   "fr": "Tomb of Menelaus and Helen at the Menelaion",
+   "en": "Tomb of Menelaus and Helen at the Menelaion",
+   "lat": 37.1133,
+   "lon": 22.4528,
+   "approx": true
+  },
+  "Q136487511": {
+   "fr": "Tomb of Sthenelos in Kylarabis gymnasium, Argos",
+   "en": "Tomb of Sthenelos in Kylarabis gymnasium, Argos",
+   "lat": 37.6333,
+   "lon": 22.7292,
+   "approx": true
+  },
+  "Q82070": {
+   "fr": "Tyr",
+   "en": "Tyre",
+   "lat": 33.2667,
+   "lon": 35.2,
+   "approx": false
+  },
+  "Q170054": {
+   "fr": "district régional d'Arcadie",
+   "en": "Arcadia Regional Unit",
+   "lat": 37.4936,
+   "lon": 22.3559,
+   "approx": false
+  },
+  "Q187471": {
+   "fr": "Ithaque",
+   "en": "Ithaca",
+   "lat": 38.4167,
+   "lon": 20.6667,
+   "approx": false
+  },
+  "Q200200": {
+   "fr": "Assur",
+   "en": "Assur",
+   "lat": 35.4567,
+   "lon": 43.2625,
+   "approx": false
+  },
+  "Q208566": {
+   "fr": "Skyros",
+   "en": "Scyros",
+   "lat": 38.903,
+   "lon": 24.5654,
+   "approx": false
+  },
+  "Q217379": {
+   "fr": "Tirynthe",
+   "en": "Tiryns",
+   "lat": 37.5994,
+   "lon": 22.7997,
+   "approx": false
+  },
+  "Q1091243": {
+   "fr": "labyrinthe du Minotaure",
+   "en": "Labyrinth of Knossos",
+   "lat": 35.2981,
+   "lon": 25.1631,
+   "approx": false
+  },
+  "Q1363688": {
+   "fr": "Corinthe antique",
+   "en": "Ancient Corinth",
+   "lat": 37.9058,
+   "lon": 22.8787,
+   "approx": false
+  },
+  "Q7263152": {
+   "fr": "Pýlos",
+   "en": "Pylos",
+   "lat": 36.9139,
+   "lon": 21.6964,
+   "approx": false
+  },
+  "Q11225429": {
+   "fr": "Thèbes",
+   "en": "Thebes",
+   "lat": 38.3239,
+   "lon": 23.3172,
+   "approx": false
+  },
+  "Q13533353": {
+   "fr": "Argos",
+   "en": "Argos",
+   "lat": 37.6306,
+   "lon": 22.7215,
+   "approx": false
+  },
+  "Q107550037": {
+   "fr": "Oechalia",
+   "en": "Oechalia"
+  },
+  "Q122146471": {
+   "fr": "palace of Helios",
+   "en": "palace of Helios"
+  },
+  "Q124616311": {
+   "fr": "Tomb of Talthybius at agora of Aigion",
+   "en": "Tomb of Talthybius at agora of Aigion",
+   "lat": 38.252,
+   "lon": 22.09,
+   "approx": false
+  },
+  "Q124616315": {
+   "fr": "Tomb of Idas and Lynkeas at Sparta near Skias",
+   "en": "Tomb of Idas and Lynkeas at Sparta near Skias",
+   "lat": 37.2,
+   "lon": 21.8,
+   "approx": false
+  },
+  "Q124616312": {
+   "fr": "Tomb of Talthybius near the Hellenion at Sparta",
+   "en": "Tomb of Talthybius near the Hellenion at Sparta",
+   "lat": 37.001,
+   "lon": 22.5,
+   "approx": false
+  },
+  "Q124616580": {
+   "fr": "Hérôon de Lacédémon à Sparte",
+   "en": "Heroon of Lakedaimon son of Taygete at Alesiai",
+   "lat": 37.0433,
+   "lon": 22.4135,
+   "approx": false
+  },
+  "Q124644554": {
+   "fr": "tombe de Pandion II au rocher d'Athéna Aithyia",
+   "en": "Tomb of Pandion II at Rock of Athena Aithyia",
+   "lat": 37.976,
+   "lon": 23.3637,
+   "approx": false
+  },
+  "Q124644600": {
+   "fr": "Tomb of Eumolpos on Sacred Way near Eleusis",
+   "en": "Tomb of Eumolpos on Sacred Way near Eleusis",
+   "lat": 38.023,
+   "lon": 23.601,
+   "approx": false
+  },
+  "Q124644650": {
+   "fr": "Hérôon d'Alcathoos à Mégare",
+   "en": "hero shrine of Alkathoos in Megara",
+   "lat": 37.9947,
+   "lon": 23.3432,
+   "approx": false
+  },
+  "Q124646569": {
+   "fr": "sanctuaire d'Hippothoon proche d'Éleusis",
+   "en": "hero shrine of Hippothoon near Eleusis",
+   "lat": 38.0476,
+   "lon": 23.5524,
+   "approx": false
+  },
+  "Q136487354": {
+   "fr": "Tomb of Hector near Thebes",
+   "en": "Tomb of Hector near Thebes"
+  },
+  "Q136487358": {
+   "fr": "Tomb of Oecles on Megalopolis-Mainalos road",
+   "en": "Tomb of Oecles on Megalopolis-Mainalos road"
+  },
+  "Q136487424": {
+   "fr": "Tomb of Eriphyle in Argos",
+   "en": "Tomb of Eriphyle in Argos"
+  },
+  "Q136487529": {
+   "fr": "Tombe de Pénélope",
+   "en": "Tomb of Penelope, right of Mantineia-Orchomenos road"
+  },
+  "Q1460": {
+   "fr": "Sicile",
+   "en": "Sicily",
+   "lat": 37.6,
+   "lon": 14.0167,
+   "approx": false
+  },
+  "Q5690": {
+   "fr": "Sparte",
+   "en": "Sparta",
+   "lat": 37.0819,
+   "lon": 22.4236,
+   "approx": false
+  },
+  "Q22647": {
+   "fr": "Troie",
+   "en": "Troy",
+   "lat": 39.9575,
+   "lon": 26.2389,
+   "approx": false
+  },
+  "Q124616331": {
+   "fr": "Tomb of Tyndareus in Sparta",
+   "en": "Tomb of Tyndareus in Sparta",
+   "lat": 37.1133,
+   "lon": 22.4528,
+   "approx": true
+  },
+  "Q124644557": {
+   "fr": "Hérôon d'Andromaque à Pergame",
+   "en": "hero shrine of Andromache in Pergamon",
+   "lat": 39.1167,
+   "lon": 27.1833,
+   "approx": true
+  },
+  "Q124644627": {
+   "fr": "Tomb of Hippolyta in Megara",
+   "en": "Tomb of Hippolyta in Megara",
+   "lat": 37.9944,
+   "lon": 23.3383,
+   "approx": true
+  },
+  "Q124644634": {
+   "fr": "tomb of Timalkos at bouleuterion of Megara",
+   "en": "tomb of Timalkos at bouleuterion of Megara",
+   "lat": 37.9944,
+   "lon": 23.3383,
+   "approx": true
+  },
+  "Q136487327": {
+   "fr": "Tomb of Orpheus near Libêthra",
+   "en": "Tomb of Orpheus near Libêthra",
+   "lat": 40.0247,
+   "lon": 22.5342,
+   "approx": true
+  },
+  "Q136487334": {
+   "fr": "Tomb of Deukalion, Athens",
+   "en": "Tomb of Deukalion, Athens",
+   "lat": 38.0,
+   "lon": 23.7,
+   "approx": true
+  },
+  "Q136487341": {
+   "fr": "Tomb of Deianeira near Herakleia under Oita",
+   "en": "Tomb of Deianeira near Herakleia under Oita",
+   "lat": 38.7903,
+   "lon": 22.4349,
+   "approx": true
+  },
+  "Q136487344": {
+   "fr": "Tomb of Arcesilaus on Herkyna river at Lebadeia",
+   "en": "Tomb of Arcesilaus on Herkyna river at Lebadeia",
+   "lat": 38.4388,
+   "lon": 22.8795,
+   "approx": true
+  },
+  "Q136487374": {
+   "fr": "tomb of Orpheus in Thrace",
+   "en": "tomb of Orpheus in Thrace",
+   "lat": 42.0,
+   "lon": 26.0,
+   "approx": true
+  },
+  "Q136487373": {
+   "fr": "Tomb of Tantalus son of Zeus on Mt. Sipylos",
+   "en": "Tomb of Tantalus son of Zeus on Mt. Sipylos",
+   "lat": 38.7494,
+   "lon": 28.1228,
+   "approx": true
+  },
+  "Q136487386": {
+   "fr": "Tomb of Echemos at Tegea",
+   "en": "Tomb of Echemos at Tegea",
+   "lat": 37.4553,
+   "lon": 22.4205,
+   "approx": true
+  },
+  "Q136487398": {
+   "fr": "Tomb of Leitos in Plataea",
+   "en": "Tomb of Leitos in Plataea",
+   "lat": 38.2156,
+   "lon": 23.2669,
+   "approx": true
+  },
+  "Q136487403": {
+   "fr": "Tomb of Nestor in Pylos",
+   "en": "Tomb of Nestor in Pylos",
+   "lat": 36.9164,
+   "lon": 21.7794,
+   "approx": true
+  },
+  "Q136487404": {
+   "fr": "tomb of Tisamenus at Sparta",
+   "en": "tomb of Tisamenus at Sparta",
+   "lat": 37.0737,
+   "lon": 22.4309,
+   "approx": true
+  },
+  "Q136487414": {
+   "fr": "tombeau de Cassandre",
+   "en": "Tomb of Cassandra at Mycenae",
+   "lat": 37.7308,
+   "lon": 22.7561,
+   "approx": true
+  },
+  "Q136487412": {
+   "fr": "Tomb of Atreus and those killed by Aegisthus at Mycenae",
+   "en": "Tomb of Atreus and those killed by Aegisthus at Mycenae",
+   "lat": 37.7308,
+   "lon": 22.7561,
+   "approx": true
+  },
+  "Q136487416": {
+   "fr": "Tomb of Phaedra in Troizen",
+   "en": "Tomb of Phaedra in Troizen",
+   "lat": 37.4964,
+   "lon": 23.3624,
+   "approx": true
+  },
+  "Q136487422": {
+   "fr": "Tomb of Cylarabis in Kylarabis gymnasium, Argos",
+   "en": "Tomb of Cylarabis in Kylarabis gymnasium, Argos",
+   "lat": 37.6333,
+   "lon": 22.7292,
+   "approx": true
+  },
+  "Q136487438": {
+   "fr": "battlefield burial of Megareos",
+   "en": "battlefield burial of Megareos",
+   "lat": 37.9851,
+   "lon": 23.3402,
+   "approx": true
+  },
+  "Q136487471": {
+   "fr": "Tomb of Danaus in Argos",
+   "en": "Tomb of Danaus in Argos",
+   "lat": 37.4,
+   "lon": 22.3,
+   "approx": true
+  },
+  "Q136487475": {
+   "fr": "Tomb of Deianeira in Argos",
+   "en": "Tomb of Deianeira in Argos",
+   "lat": 37.4,
+   "lon": 22.3,
+   "approx": true
+  },
+  "Q136487473": {
+   "fr": "Tomb of Lycurgus, son of Aleus, in Lepreon",
+   "en": "Tomb of Lycurgus, son of Aleus, in Lepreon",
+   "lat": 37.4403,
+   "lon": 21.7246,
+   "approx": true
+  },
+  "Q136487503": {
+   "fr": "Tomb of Orion in Tanagra",
+   "en": "Tomb of Orion in Tanagra",
+   "lat": 38.2544,
+   "lon": 23.5327,
+   "approx": true
+  },
+  "Q75459": {
+   "fr": "Delphes",
+   "en": "Delphi",
+   "lat": 38.4822,
+   "lon": 22.5017,
+   "approx": false
+  },
+  "Q132564": {
+   "fr": "Mycènes",
+   "en": "Mycenae",
+   "lat": 37.7308,
+   "lon": 22.7561,
+   "approx": false
+  },
+  "Q191082": {
+   "fr": "Égine",
+   "en": "Aegina",
+   "lat": 37.73,
+   "lon": 23.49,
+   "approx": false
+  },
+  "Q204757": {
+   "fr": "Karpathos",
+   "en": "Karpathos",
+   "lat": 35.5833,
+   "lon": 27.1333,
+   "approx": false
+  },
+  "Q215516": {
+   "fr": "mont Hélicon",
+   "en": "Mount Helicon",
+   "lat": 38.3522,
+   "lon": 22.825,
+   "approx": false
+  },
+  "Q340272": {
+   "fr": "Achilleion",
+   "en": "Achilleion",
+   "lat": 39.9133,
+   "lon": 26.1556,
+   "approx": false
+  },
+  "Q403366": {
+   "fr": "Ééa",
+   "en": "Aeaea"
+  },
+  "Q748108": {
+   "fr": "Némée",
+   "en": "Nemea",
+   "lat": 37.809,
+   "lon": 22.7103,
+   "approx": false
+  },
+  "Q929659": {
+   "fr": "cap Misène",
+   "en": "Cape Miseno",
+   "lat": 40.7777,
+   "lon": 14.0894,
+   "approx": false
+  },
+  "Q1197400": {
+   "fr": "croûton",
+   "en": "crouton"
+  },
+  "Q1428361": {
+   "fr": "île de Cerne",
+   "en": "Kerne"
+  },
+  "Q1432654": {
+   "fr": "Hélice",
+   "en": "Helike",
+   "lat": 38.2205,
+   "lon": 22.1443,
+   "approx": false
+  },
+  "Q1607754": {
+   "fr": "Héraion d'Argos",
+   "en": "Argive Heraion",
+   "lat": 37.6919,
+   "lon": 22.7747,
+   "approx": false
+  },
+  "Q2696558": {
+   "fr": "île de Pharos",
+   "en": "Pharos",
+   "lat": 31.2142,
+   "lon": 29.885,
+   "approx": false
+  },
+  "Q2723626": {
+   "fr": "Thèbe sous le Placos",
+   "en": "Thebe",
+   "lat": 39.5974,
+   "lon": 27.0202,
+   "approx": false
+  },
+  "Q3038108": {
+   "fr": "Doulichion",
+   "en": "Dulichium"
+  },
+  "Q4821780": {
+   "fr": "Aulis",
+   "en": "Aulis",
+   "lat": 38.4333,
+   "lon": 23.5925,
+   "approx": false
+  },
+  "Q56754242": {
+   "fr": "Cirrha",
+   "en": "Cirrha",
+   "lat": 38.4289,
+   "lon": 22.4506,
+   "approx": false
+  },
+  "Q107031178": {
+   "fr": "Tombe d'Endymion (Olympie)",
+   "en": "Tomb of Endymion (Olympia)",
+   "lat": 37.637,
+   "lon": 21.6336,
+   "approx": false
+  },
+  "Q124616307": {
+   "fr": "Tomb of Hyakinthos at Amyklai",
+   "en": "Tomb of Hyakinthos at Amyklai",
+   "lat": 37.0363,
+   "lon": 22.4502,
+   "approx": false
+  },
+  "Q124616308": {
+   "fr": "Tombe d'Oreste près du sanctuaire des Moires à Sparte",
+   "en": "Tomb of Orestes near sanctuary of the Fates at Sparta",
+   "lat": 37.001,
+   "lon": 22.5,
+   "approx": false
+  },
+  "Q124616325": {
+   "fr": "Tomb of Oionos beside Herakleion sanctuary in Sparta",
+   "en": "Tomb of Oionos beside Herakleion sanctuary in Sparta",
+   "lat": 37.0821,
+   "lon": 22.4237,
+   "approx": false
+  },
+  "Q124616572": {
+   "fr": "Hérôon de Cadmos à Sparte",
+   "en": "Heroon of Cadmos son of Agenor  in Sparta",
+   "lat": 37.0821,
+   "lon": 22.4237,
+   "approx": false
+  },
+  "Q124644585": {
+   "fr": "tombe d'Ajax",
+   "en": "Tomb of Ajax the Great",
+   "lat": 39.9916,
+   "lon": 26.242,
+   "approx": false
+  },
+  "Q124644620": {
+   "fr": "Tomb of Alkmene at Megara",
+   "en": "Tomb of Alkmene at Megara",
+   "lat": 37.998,
+   "lon": 23.346,
+   "approx": false
+  },
+  "Q124644629": {
+   "fr": "Tomb of Megareus at Megara",
+   "en": "Tomb of Megareus at Megara",
+   "lat": 37.999,
+   "lon": 23.339,
+   "approx": false
+  },
+  "Q124644643": {
+   "fr": "Hérôon d'Ino à Mégare",
+   "en": "hero shrine of Ino in Megara",
+   "lat": 37.9947,
+   "lon": 23.3431,
+   "approx": false
+  },
+  "Q124644644": {
+   "fr": "Hérôon d'Iphigénie à Mégare",
+   "en": "hero shrine of Iphigeneia in Megara",
+   "lat": 37.9947,
+   "lon": 23.3431,
+   "approx": false
+  },
+  "Q124646270": {
+   "fr": "tombeau d'Eurysthée",
+   "en": "Tomb of Eurystheus between Megara and Isthmia",
+   "lat": 37.9844,
+   "lon": 23.2848,
+   "approx": false
+  },
+  "Q132527193": {
+   "fr": "Abdère",
+   "en": "Ancient Abdera",
+   "lat": 40.9337,
+   "lon": 24.9733,
+   "approx": false
+  },
+  "Q136487366": {
+   "fr": "Tomb of Anchises at foot of Mt. Anchisia",
+   "en": "Tomb of Anchises at foot of Mt. Anchisia"
+  },
+  "Q136487441": {
+   "fr": "Tomb of Orestes outside Tegea",
+   "en": "Tomb of Orestes outside Tegea"
+  },
+  "Q136487452": {
+   "fr": "Tomb of Callisto in Arcadia",
+   "en": "Tomb of Callisto in Arcadia"
+  },
+  "Q136487458": {
+   "fr": "Tomb monument of Orpheus in Pieria",
+   "en": "Tomb monument of Orpheus in Pieria"
+  },
+  "Q136487459": {
+   "fr": "Mnema of the Finger near Ake",
+   "en": "Mnema of the Finger near Ake"
+  },
+  "Q136487514": {
+   "fr": "Tomb of Licymnius near Kylarabis gymnasium, Argos",
+   "en": "Tomb of Licymnius near Kylarabis gymnasium, Argos"
+  },
+  "Q136487523": {
+   "fr": "Tomb of Tydeus near Thebes",
+   "en": "Tomb of Tydeus near Thebes"
+  },
+  "Q527": {
+   "fr": "ciel",
+   "en": "sky"
+  },
+  "Q575": {
+   "fr": "nuit",
+   "en": "night"
+  },
+  "Q1524": {
+   "fr": "Athènes",
+   "en": "Athens",
+   "lat": 37.9842,
+   "lon": 23.7281,
+   "approx": false
+  },
+  "Q34374": {
+   "fr": "Crète",
+   "en": "Crete",
+   "lat": 35.3097,
+   "lon": 24.8933,
+   "approx": false
+  },
+  "Q124616309": {
+   "fr": "Tomb of Aphareus son of Perieres",
+   "en": "Tomb of Aphareus son of Perieres",
+   "lat": 37.0737,
+   "lon": 22.4309,
+   "approx": true
+  },
+  "Q124616552": {
+   "fr": "Hérôon d'Amphiaraos à Sparte",
+   "en": "Heroon of Amphiaraus son of Oecles",
+   "lat": 37.0737,
+   "lon": 22.4309,
+   "approx": true
+  },
+  "Q124616556": {
+   "fr": "Hérôon d'Hippolytos à Sparte",
+   "en": "Heroon of Hippolytos at Sparta",
+   "lat": 37.0737,
+   "lon": 22.4309,
+   "approx": true
+  },
+  "Q124616567": {
+   "fr": "Hérôon de Cléodaios à Sparte",
+   "en": "Heroa of Kleodaios at Sparta",
+   "lat": 37.0737,
+   "lon": 22.4309,
+   "approx": true
+  },
+  "Q124616571": {
+   "fr": "Hérôon d'Amphiloque à Sparte",
+   "en": "Heroon of Amphilochus at Sparta",
+   "lat": 37.0737,
+   "lon": 22.4309,
+   "approx": true
+  },
+  "Q124644608": {
+   "fr": "Tomb of Alope, road from Eleusis to Megara",
+   "en": "Tomb of Alope, road from Eleusis to Megara",
+   "lat": 38.5,
+   "lon": 23.0,
+   "approx": true
+  },
+  "Q136487342": {
+   "fr": "Tomb of Teiresias by Tilphousê spring past Haliartos",
+   "en": "Tomb of Teiresias by Tilphousê spring past Haliartos",
+   "lat": 38.9,
+   "lon": 22.5333,
+   "approx": true
+  },
+  "Q136487340": {
+   "fr": "Tomb of Silenus in Judaea",
+   "en": "Tomb of Silenus in Judaea",
+   "lat": 41.9,
+   "lon": 12.5,
+   "approx": true
+  },
+  "Q136487360": {
+   "fr": "Tomb of Alkmaion at Psophis",
+   "en": "Tomb of Alkmaion at Psophis",
+   "lat": 37.8717,
+   "lon": 21.8929,
+   "approx": true
+  },
+  "Q136487368": {
+   "fr": "Tomb of Silenus at Pergamon",
+   "en": "Tomb of Silenus at Pergamon",
+   "lat": 39.1167,
+   "lon": 27.1833,
+   "approx": true
+  },
+  "Q136487389": {
+   "fr": "Tomb of Arcas by altar of Hera at Mantineia",
+   "en": "Tomb of Arcas by altar of Hera at Mantineia",
+   "lat": 37.6167,
+   "lon": 22.3833,
+   "approx": true
+  },
+  "Q136487394": {
+   "fr": "Tomb of Linos in Thebes",
+   "en": "Tomb of Linos in Thebes",
+   "lat": 38.3192,
+   "lon": 23.3174,
+   "approx": true
+  },
+  "Q136487401": {
+   "fr": "tomb of Oxylos in Agora of Elis",
+   "en": "tomb of Oxylos in Agora of Elis",
+   "lat": 37.8918,
+   "lon": 21.3751,
+   "approx": true
+  },
+  "Q136487407": {
+   "fr": "Tomb of Temenus in Temenion",
+   "en": "Tomb of Temenus in Temenion",
+   "lat": 37.6526,
+   "lon": 22.6291,
+   "approx": true
+  },
+  "Q136487426": {
+   "fr": "Tomb of Linus the poet at Argos",
+   "en": "Tomb of Linus the poet at Argos",
+   "lat": 37.6306,
+   "lon": 22.7215,
+   "approx": true
+  },
+  "Q136487428": {
+   "fr": "Tomb of Talaus in Argos agora",
+   "en": "Tomb of Talaus in Argos agora",
+   "lat": 37.6333,
+   "lon": 22.7292,
+   "approx": true
+  },
+  "Q136487432": {
+   "fr": "Tomb of Neleus at the Isthmus, nonexistent",
+   "en": "Tomb of Neleus at the Isthmus, nonexistent",
+   "lat": 37.4,
+   "lon": 22.3,
+   "approx": true
+  },
+  "Q136487442": {
+   "fr": "tomb of Aegyptus at Patrae in Sarapis sanctuary",
+   "en": "tomb of Aegyptus at Patrae in Sarapis sanctuary",
+   "lat": 38.2433,
+   "lon": 21.7385,
+   "approx": true
+  },
+  "Q136487451": {
+   "fr": "Tomb of Tityus near Panopeos",
+   "en": "Tomb of Tityus near Panopeos",
+   "lat": 38.4388,
+   "lon": 22.8795,
+   "approx": true
+  },
+  "Q136487456": {
+   "fr": "Tomb of Myrtilus at Pheneos",
+   "en": "Tomb of Myrtilus at Pheneos",
+   "lat": 37.9156,
+   "lon": 22.533,
+   "approx": true
+  },
+  "Q136487466": {
+   "fr": "Tomb of Memnon near Aisepos river",
+   "en": "Tomb of Memnon near Aisepos river",
+   "lat": 40.2,
+   "lon": 26.4,
+   "approx": true
+  },
+  "Q136487472": {
+   "fr": "Tomb of Phoroneus in Argos",
+   "en": "Tomb of Phoroneus in Argos",
+   "lat": 37.4,
+   "lon": 22.3,
+   "approx": true
+  },
+  "Q136487521": {
+   "fr": "Tomb of Lycurgus at Nemea",
+   "en": "Tomb of Lycurgus at Nemea",
+   "lat": 37.4,
+   "lon": 22.3,
+   "approx": true
+  },
+  "Q136487528": {
+   "fr": "Tomb of Hippolytus in Troizen",
+   "en": "Tomb of Hippolytus in Troizen",
+   "lat": 37.4964,
+   "lon": 23.3624,
+   "approx": true
+  },
+  "Q103011": {
+   "fr": "Corinthe",
+   "en": "Corinth",
+   "lat": 37.9386,
+   "lon": 22.9272,
+   "approx": false
+  },
+  "Q129296": {
+   "fr": "Santorin",
+   "en": "Santorini",
+   "lat": 36.415,
+   "lon": 25.4325,
+   "approx": false
+  },
+  "Q173148": {
+   "fr": "Délos",
+   "en": "Delos",
+   "lat": 37.3912,
+   "lon": 25.2712,
+   "approx": false
+  },
+  "Q203979": {
+   "fr": "Milos",
+   "en": "Milos",
+   "lat": 36.6875,
+   "lon": 24.4325,
+   "approx": false
+  },
+  "Q209576": {
+   "fr": "Icarie",
+   "en": "Icaria",
+   "lat": 37.5833,
+   "lon": 26.1667,
+   "approx": false
+  },
+  "Q285086": {
+   "fr": "mont Cynthe",
+   "en": "Cynthus",
+   "lat": 37.395,
+   "lon": 25.272,
+   "approx": false
+  },
+  "Q775676": {
+   "fr": "mont Othrys",
+   "en": "Mount Othrys",
+   "lat": 39.0169,
+   "lon": 22.7097,
+   "approx": false
+  },
+  "Q782278": {
+   "fr": "Naupacte",
+   "en": "Nafpaktos",
+   "lat": 38.3917,
+   "lon": 21.8275,
+   "approx": false
+  },
+  "Q1521549": {
+   "fr": "Enfers grecs",
+   "en": "Greek underworld"
+  },
+  "Q1619976": {
+   "fr": "Hippodameion",
+   "en": "Hippodameion",
+   "lat": 37.638,
+   "lon": 21.6296,
+   "approx": false
+  },
+  "Q1855083": {
+   "fr": "Orchomène",
+   "en": "Orchomenus",
+   "lat": 37.7257,
+   "lon": 22.3144,
+   "approx": false
+  },
+  "Q3134722": {
+   "fr": "Hespérie",
+   "en": "Hesperia"
+  },
+  "Q8257871": {
+   "fr": "district régional de Béotie",
+   "en": "Boeotia Regional Unit",
+   "lat": 38.4333,
+   "lon": 22.8833,
+   "approx": false
+  },
+  "Q12898802": {
+   "fr": "Arcadie",
+   "en": "Arcadia",
+   "lat": 37.6,
+   "lon": 22.2,
+   "approx": false
+  },
+  "Q70054479": {
+   "fr": "mont Olympe",
+   "en": "Olympus"
+  },
+  "Q107439070": {
+   "fr": "Cheval de Troie",
+   "en": "Trojan Horse"
+  },
+  "Q112572697": {
+   "fr": "Hades",
+   "en": "Hades"
+  },
+  "Q124644567": {
+   "fr": "tomb memorial to Erysichthon at Prasiai",
+   "en": "tomb memorial to Erysichthon at Prasiai",
+   "lat": 37.8652,
+   "lon": 24.0376,
+   "approx": false
+  },
+  "Q125925203": {
+   "fr": "Sanctuary of Pythian Apollo at Delphi",
+   "en": "Sanctuary of Pythian Apollo at Delphi",
+   "lat": 38.4825,
+   "lon": 22.5015,
+   "approx": false
+  },
+  "Q134728272": {
+   "fr": "Tumulus of Achilles",
+   "en": "Tumulus of Achilles",
+   "lat": 39.9171,
+   "lon": 26.1591,
+   "approx": false
+  },
+  "Q136487369": {
+   "fr": "Grave mound of Icarus on Ikaria",
+   "en": "Grave mound of Icarus on Ikaria"
+  },
+  "Q136487430": {
+   "fr": "tombeau de Thyeste",
+   "en": "Tomb of Thyestes near Mycenae"
+  },
+  "Q136487439": {
+   "fr": "Tomb of Hippolytus on south slope of Acropolis of Athens",
+   "en": "Tomb of Hippolytus on south slope of Acropolis of Athens"
+  },
+  "Q136487443": {
+   "fr": "Tombeaux des fils d'Œdipe",
+   "en": "Tombs of the children of Oedipus near Thebes"
+  },
+  "Q136487463": {
+   "fr": "Tomb of Laius and his servant on road to Delphi",
+   "en": "Tomb of Laius and his servant on road to Delphi"
+  },
+  "Q136487478": {
+   "fr": "Tomb of Neoptolemos at Delphi",
+   "en": "Tomb of Neoptolemos at Delphi"
+  },
+  "Q23792": {
+   "fr": "Palestine",
+   "en": "Palestine",
+   "lat": 31.6253,
+   "lon": 35.1453,
+   "approx": false
+  },
+  "Q44112": {
+   "fr": "Cyrène",
+   "en": "Cyrene",
+   "lat": 32.823,
+   "lon": 21.8573,
+   "approx": false
+  },
+  "Q124616336": {
+   "fr": "Burial of Semele at Brasiai",
+   "en": "Burial of Semele at Brasiai",
+   "lat": 37.1657,
+   "lon": 22.8544,
+   "approx": true
+  },
+  "Q124644623": {
+   "fr": "Hyllos's tomb in Megara",
+   "en": "Hyllos's tomb in Megara",
+   "lat": 37.9944,
+   "lon": 23.3383,
+   "approx": true
+  },
+  "Q136487365": {
+   "fr": "Tomb of Iphicles on hill at Pheneos",
+   "en": "Tomb of Iphicles on hill at Pheneos",
+   "lat": 37.9156,
+   "lon": 22.533,
+   "approx": true
+  },
+  "Q136487370": {
+   "fr": "Tomb of Oinopion at Chios",
+   "en": "Tomb of Oinopion at Chios",
+   "lat": 38.5,
+   "lon": 25.3,
+   "approx": true
+  },
+  "Q136487396": {
+   "fr": "Tomb of Semele in Thebes",
+   "en": "Tomb of Semele in Thebes",
+   "lat": 38.3192,
+   "lon": 23.3174,
+   "approx": true
+  },
+  "Q136487421": {
+   "fr": "Tomb of Helenus at Argos",
+   "en": "Tomb of Helenus at Argos",
+   "lat": 37.4,
+   "lon": 22.3,
+   "approx": true
+  },
+  "Q136487447": {
+   "fr": "tombe d'Augé à Pergame",
+   "en": "Tomb of Auge in Pergamon",
+   "lat": 39.1167,
+   "lon": 27.1833,
+   "approx": true
+  },
+  "Q136487455": {
+   "fr": "Tomb of Pittheus in Troizen",
+   "en": "Tomb of Pittheus in Troizen",
+   "lat": 37.4964,
+   "lon": 23.3624,
+   "approx": true
+  },
+  "Q136487457": {
+   "fr": "Tomb of Gorgophone in Argos agora",
+   "en": "Tomb of Gorgophone in Argos agora",
+   "lat": 37.6333,
+   "lon": 22.7292,
+   "approx": true
+  },
+  "Q136487496": {
+   "fr": "Heroon of Hyrnetho in Hyrnethion",
+   "en": "Heroon of Hyrnetho in Hyrnethion",
+   "lat": 37.6127,
+   "lon": 23.0712,
+   "approx": true
+  },
+  "Q136487510": {
+   "fr": "Tomb of Oeneus in Oenoe",
+   "en": "Tomb of Oeneus in Oenoe",
+   "lat": 37.6526,
+   "lon": 22.6291,
+   "approx": true
+  },
+  "Q136487518": {
+   "fr": "Grave of Melicertes at the Isthmus",
+   "en": "Grave of Melicertes at the Isthmus",
+   "lat": 37.4,
+   "lon": 22.3,
+   "approx": true
+  },
+  "Q136487516": {
+   "fr": "supposed tomb of Prometheus in Argos",
+   "en": "supposed tomb of Prometheus in Argos",
+   "lat": 37.6306,
+   "lon": 22.7215,
+   "approx": true
+  },
+  "Q136487526": {
+   "fr": "Tomb of Phocus in Aigina",
+   "en": "Tomb of Phocus in Aigina",
+   "lat": 38.5,
+   "lon": 25.3,
+   "approx": true
+  },
+  "Q189901": {
+   "fr": "Argos",
+   "en": "Argos",
+   "lat": 37.6333,
+   "lon": 22.7292,
+   "approx": false
+  },
+  "Q193214": {
+   "fr": "Carie",
+   "en": "Caria",
+   "lat": 37.5,
+   "lon": 28.0,
+   "approx": false
+  },
+  "Q1234913": {
+   "fr": "Éléonte",
+   "en": "Elaeus",
+   "lat": 40.0597,
+   "lon": 26.2306,
+   "approx": false
+  },
+  "Q65121329": {
+   "fr": "Chryse",
+   "en": "Chryse",
+   "lat": 39.5851,
+   "lon": 26.9281,
+   "approx": false
+  },
+  "Q107031179": {
+   "fr": "Tomb of Oinomaos (Olympia)",
+   "en": "Tomb of Oinomaos (Olympia)",
+   "lat": 37.6388,
+   "lon": 21.6238,
+   "approx": false
+  },
+  "Q124644568": {
+   "fr": "tomb memorial to Kranaos at Lamptrai",
+   "en": "tomb memorial to Kranaos at Lamptrai",
+   "lat": 37.851,
+   "lon": 23.836,
+   "approx": false
+  },
+  "Q124644569": {
+   "fr": "tomb of Ion at Potami",
+   "en": "tomb of Ion at Potami",
+   "lat": 37.78,
+   "lon": 24.05,
+   "approx": false
+  },
+  "Q124646268": {
+   "fr": "Tomb of Autonoe at Ereneia",
+   "en": "Tomb of Autonoe at Ereneia",
+   "lat": 38.119,
+   "lon": 23.332,
+   "approx": false
+  },
+  "Q136487402": {
+   "fr": "Tomb of Thrasymedes outside Pylos",
+   "en": "Tomb of Thrasymedes outside Pylos",
+   "lat": 36.9653,
+   "lon": 21.6601,
+   "approx": false
+  },
+  "Q6343": {
+   "fr": "Carthage",
+   "en": "Carthage",
+   "lat": 36.8526,
+   "lon": 10.3235,
+   "approx": false
+  }
+ },
+ "links": [
+  {
+   "character": "Q102561",
+   "kind": "burial",
+   "place": "Q136487433"
+  },
+  {
+   "character": "Q1052888",
+   "kind": "birth",
+   "place": "Q7263152"
+  },
+  {
+   "character": "Q1060267",
+   "kind": "burial",
+   "place": "Q136487511"
+  },
+  {
+   "character": "Q1065774",
+   "kind": "burial",
+   "place": "Q124616580"
+  },
+  {
+   "character": "Q1076578",
+   "kind": "burial",
+   "place": "Q124644554"
+  },
+  {
+   "character": "Q1076578",
+   "kind": "burial",
+   "place": "Q124644626"
+  },
+  {
+   "character": "Q1077936",
+   "kind": "birth",
+   "place": "Q22647"
+  },
+  {
+   "character": "Q1124866",
+   "kind": "burial",
+   "place": "Q124616315"
+  },
+  {
+   "character": "Q1125040",
+   "kind": "burial",
+   "place": "Q136487424"
+  },
+  {
+   "character": "Q1125049",
+   "kind": "burial",
+   "place": "Q124644600"
+  },
+  {
+   "character": "Q1132777",
+   "kind": "burial",
+   "place": "Q136487423"
+  },
+  {
+   "character": "Q1136201",
+   "kind": "burial",
+   "place": "Q136487332"
+  },
+  {
+   "character": "Q1138506",
+   "kind": "burial",
+   "place": "Q124645116"
+  },
+  {
+   "character": "Q1152356",
+   "kind": "birth",
+   "place": "Q200200"
+  },
+  {
+   "character": "Q1162217",
+   "kind": "burial",
+   "place": "Q124616568"
+  },
+  {
+   "character": "Q1167892",
+   "kind": "birth",
+   "place": "Q5690"
+  },
+  {
+   "character": "Q122248",
+   "kind": "birth",
+   "place": "Q11225429"
+  },
+  {
+   "character": "Q1258032",
+   "kind": "birth",
+   "place": "Q5690"
+  },
+  {
+   "character": "Q1258032",
+   "kind": "burial",
+   "place": "Q124616569"
+  },
+  {
+   "character": "Q1258989",
+   "kind": "birth",
+   "place": "Q5690"
+  },
+  {
+   "character": "Q1266363",
+   "kind": "birth",
+   "place": "Q5690"
+  },
+  {
+   "character": "Q1280328",
+   "kind": "birth",
+   "place": "Q5690"
+  },
+  {
+   "character": "Q128176",
+   "kind": "burial",
+   "place": "Q124616332"
+  },
+  {
+   "character": "Q128176",
+   "kind": "burial",
+   "place": "Q136487415"
+  },
+  {
+   "character": "Q1289213",
+   "kind": "burial",
+   "place": "Q136487353"
+  },
+  {
+   "character": "Q129866",
+   "kind": "residence",
+   "place": "Q1091243"
+  },
+  {
+   "character": "Q1304531",
+   "kind": "burial",
+   "place": "Q124646569"
+  },
+  {
+   "character": "Q130890",
+   "kind": "burial",
+   "place": "Q136487482"
+  },
+  {
+   "character": "Q131157",
+   "kind": "burial",
+   "place": "Q136487408"
+  },
+  {
+   "character": "Q131651",
+   "kind": "burial",
+   "place": "Q136487410"
+  },
+  {
+   "character": "Q1320718",
+   "kind": "burial",
+   "place": "Q208566"
+  },
+  {
+   "character": "Q1333846",
+   "kind": "residence",
+   "place": "Q187471"
+  },
+  {
+   "character": "Q1340816",
+   "kind": "birth",
+   "place": "Q13533353"
+  },
+  {
+   "character": "Q1340816",
+   "kind": "death",
+   "place": "Q1363688"
+  },
+  {
+   "character": "Q134270",
+   "kind": "residence",
+   "place": "Q122146471"
+  },
+  {
+   "character": "Q1347568",
+   "kind": "burial",
+   "place": "Q136487436"
+  },
+  {
+   "character": "Q1358973",
+   "kind": "burial",
+   "place": "Q136487358"
+  },
+  {
+   "character": "Q1367860",
+   "kind": "burial",
+   "place": "Q124616311"
+  },
+  {
+   "character": "Q1367860",
+   "kind": "burial",
+   "place": "Q124616312"
+  },
+  {
+   "character": "Q1411680",
+   "kind": "burial",
+   "place": "Q124616558"
+  },
+  {
+   "character": "Q1417968",
+   "kind": "burial",
+   "place": "Q124644650"
+  },
+  {
+   "character": "Q1419140",
+   "kind": "burial",
+   "place": "Q136487411"
+  },
+  {
+   "character": "Q1423058",
+   "kind": "residence",
+   "place": "Q1460"
+  },
+  {
+   "character": "Q1433820",
+   "kind": "birth",
+   "place": "Q5690"
+  },
+  {
+   "character": "Q1466343",
+   "kind": "burial",
+   "place": "Q136487502"
+  },
+  {
+   "character": "Q1466824",
+   "kind": "burial",
+   "place": "Q124616317"
+  },
+  {
+   "character": "Q1538212",
+   "kind": "burial",
+   "place": "Q136487385"
+  },
+  {
+   "character": "Q159666",
+   "kind": "burial",
+   "place": "Q136487354"
+  },
+  {
+   "character": "Q159666",
+   "kind": "death",
+   "place": "Q22647"
+  },
+  {
+   "character": "Q161419",
+   "kind": "residence",
+   "place": "Q170054"
+  },
+  {
+   "character": "Q164061",
+   "kind": "burial",
+   "place": "Q136487505"
+  },
+  {
+   "character": "Q165170",
+   "kind": "birth",
+   "place": "Q82070"
+  },
+  {
+   "character": "Q165769",
+   "kind": "burial",
+   "place": "Q136487529"
+  },
+  {
+   "character": "Q1672196",
+   "kind": "birth",
+   "place": "Q107550037"
+  },
+  {
+   "character": "Q1672196",
+   "kind": "death",
+   "place": "Q217379"
+  },
+  {
+   "character": "Q170473",
+   "kind": "death",
+   "place": "Q22647"
+  },
+  {
+   "character": "Q170779",
+   "kind": "birth",
+   "place": "Q22647"
+  },
+  {
+   "character": "Q170779",
+   "kind": "burial",
+   "place": "Q136487414"
+  },
+  {
+   "character": "Q170779",
+   "kind": "death",
+   "place": "Q132564"
+  },
+  {
+   "character": "Q172725",
+   "kind": "burial",
+   "place": "Q124644585"
+  },
+  {
+   "character": "Q174353",
+   "kind": "burial",
+   "place": "Q136487327"
+  },
+  {
+   "character": "Q174353",
+   "kind": "burial",
+   "place": "Q136487374"
+  },
+  {
+   "character": "Q174353",
+   "kind": "burial",
+   "place": "Q136487458"
+  },
+  {
+   "character": "Q176022",
+   "kind": "birth",
+   "place": "Q5690"
+  },
+  {
+   "character": "Q176283",
+   "kind": "residence",
+   "place": "Q215516"
+  },
+  {
+   "character": "Q1777717",
+   "kind": "burial",
+   "place": "Q929659"
+  },
+  {
+   "character": "Q178417",
+   "kind": "residence",
+   "place": "Q1428361"
+  },
+  {
+   "character": "Q178417",
+   "kind": "residence",
+   "place": "Q403366"
+  },
+  {
+   "character": "Q178417",
+   "kind": "residence",
+   "place": "Q527"
+  },
+  {
+   "character": "Q1784620",
+   "kind": "birth",
+   "place": "Q22647"
+  },
+  {
+   "character": "Q178641",
+   "kind": "birth",
+   "place": "Q191082"
+  },
+  {
+   "character": "Q1795033",
+   "kind": "burial",
+   "place": "Q136487422"
+  },
+  {
+   "character": "Q182101",
+   "kind": "burial",
+   "place": "Q136487373"
+  },
+  {
+   "character": "Q185670",
+   "kind": "birth",
+   "place": "Q575"
+  },
+  {
+   "character": "Q186271",
+   "kind": "burial",
+   "place": "Q340272"
+  },
+  {
+   "character": "Q186271",
+   "kind": "death",
+   "place": "Q22647"
+  },
+  {
+   "character": "Q187602",
+   "kind": "residence",
+   "place": "Q403366"
+  },
+  {
+   "character": "Q189821",
+   "kind": "death",
+   "place": "Q1607754"
+  },
+  {
+   "character": "Q190543",
+   "kind": "burial",
+   "place": "Q124644620"
+  },
+  {
+   "character": "Q191481",
+   "kind": "residence",
+   "place": "Q204757"
+  },
+  {
+   "character": "Q191481",
+   "kind": "residence",
+   "place": "Q2696558"
+  },
+  {
+   "character": "Q192407",
+   "kind": "burial",
+   "place": "Q124616308"
+  },
+  {
+   "character": "Q192407",
+   "kind": "burial",
+   "place": "Q136487441"
+  },
+  {
+   "character": "Q192407",
+   "kind": "burial",
+   "place": "Q136487459"
+  },
+  {
+   "character": "Q192469",
+   "kind": "burial",
+   "place": "Q136487412"
+  },
+  {
+   "character": "Q192673",
+   "kind": "burial",
+   "place": "Q124644644"
+  },
+  {
+   "character": "Q192673",
+   "kind": "death",
+   "place": "Q4821780"
+  },
+  {
+   "character": "Q192946",
+   "kind": "burial",
+   "place": "Q124616331"
+  },
+  {
+   "character": "Q193267",
+   "kind": "burial",
+   "place": "Q136487403"
+  },
+  {
+   "character": "Q19376",
+   "kind": "birth",
+   "place": "Q2723626"
+  },
+  {
+   "character": "Q19376",
+   "kind": "burial",
+   "place": "Q124644557"
+  },
+  {
+   "character": "Q199438",
+   "kind": "residence",
+   "place": "Q748108"
+  },
+  {
+   "character": "Q201261",
+   "kind": "burial",
+   "place": "Q136487503"
+  },
+  {
+   "character": "Q203673",
+   "kind": "burial",
+   "place": "Q136487452"
+  },
+  {
+   "character": "Q205251",
+   "kind": "birth",
+   "place": "Q34374"
+  },
+  {
+   "character": "Q206187",
+   "kind": "birth",
+   "place": "Q191082"
+  },
+  {
+   "character": "Q206214",
+   "kind": "residence",
+   "place": "Q11225429"
+  },
+  {
+   "character": "Q207273",
+   "kind": "burial",
+   "place": "Q124616307"
+  },
+  {
+   "character": "Q207715",
+   "kind": "burial",
+   "place": "Q136487334"
+  },
+  {
+   "character": "Q210303",
+   "kind": "burial",
+   "place": "Q124644627"
+  },
+  {
+   "character": "Q210883",
+   "kind": "burial",
+   "place": "Q136487471"
+  },
+  {
+   "character": "Q211326",
+   "kind": "birth",
+   "place": "Q5690"
+  },
+  {
+   "character": "Q211326",
+   "kind": "burial",
+   "place": "Q136487473"
+  },
+  {
+   "character": "Q211326",
+   "kind": "death",
+   "place": "Q56754242"
+  },
+  {
+   "character": "Q211953",
+   "kind": "burial",
+   "place": "Q136487366"
+  },
+  {
+   "character": "Q212087",
+   "kind": "burial",
+   "place": "Q124646270"
+  },
+  {
+   "character": "Q212818",
+   "kind": "burial",
+   "place": "Q136487416"
+  },
+  {
+   "character": "Q2194100",
+   "kind": "burial",
+   "place": "Q136487398"
+  },
+  {
+   "character": "Q223690",
+   "kind": "burial",
+   "place": "Q124644643"
+  },
+  {
+   "character": "Q22878",
+   "kind": "birth",
+   "place": "Q22647"
+  },
+  {
+   "character": "Q22878",
+   "kind": "death",
+   "place": "Q22647"
+  },
+  {
+   "character": "Q2335647",
+   "kind": "burial",
+   "place": "Q136487514"
+  },
+  {
+   "character": "Q2417746",
+   "kind": "birth",
+   "place": "Q5690"
+  },
+  {
+   "character": "Q247446",
+   "kind": "burial",
+   "place": "Q124644629"
+  },
+  {
+   "character": "Q247446",
+   "kind": "burial",
+   "place": "Q124644634"
+  },
+  {
+   "character": "Q247446",
+   "kind": "burial",
+   "place": "Q136487438"
+  },
+  {
+   "character": "Q250506",
+   "kind": "burial",
+   "place": "Q136487523"
+  },
+  {
+   "character": "Q2537664",
+   "kind": "birth",
+   "place": "Q5690"
+  },
+  {
+   "character": "Q2551733",
+   "kind": "birth",
+   "place": "Q1524"
+  },
+  {
+   "character": "Q2641175",
+   "kind": "burial",
+   "place": "Q124616325"
+  },
+  {
+   "character": "Q2714687",
+   "kind": "birth",
+   "place": "Q5690"
+  },
+  {
+   "character": "Q2715690",
+   "kind": "birth",
+   "place": "Q170054"
+  },
+  {
+   "character": "Q2718734",
+   "kind": "birth",
+   "place": "Q3038108"
+  },
+  {
+   "character": "Q2718734",
+   "kind": "death",
+   "place": "Q187471"
+  },
+  {
+   "character": "Q272000",
+   "kind": "burial",
+   "place": "Q136487341"
+  },
+  {
+   "character": "Q272000",
+   "kind": "burial",
+   "place": "Q136487475"
+  },
+  {
+   "character": "Q272047",
+   "kind": "burial",
+   "place": "Q107031178"
+  },
+  {
+   "character": "Q27613",
+   "kind": "burial",
+   "place": "Q124616572"
+  },
+  {
+   "character": "Q2803572",
+   "kind": "burial",
+   "place": "Q136487404"
+  },
+  {
+   "character": "Q2803572",
+   "kind": "burial",
+   "place": "Q1432654"
+  },
+  {
+   "character": "Q2803572",
+   "kind": "burial",
+   "place": "Q5690"
+  },
+  {
+   "character": "Q2860691",
+   "kind": "burial",
+   "place": "Q136487344"
+  },
+  {
+   "character": "Q2993240",
+   "kind": "residence",
+   "place": "Q75459"
+  },
+  {
+   "character": "Q2993260",
+   "kind": "burial",
+   "place": "Q136487386"
+  },
+  {
+   "character": "Q308055",
+   "kind": "burial",
+   "place": "Q132527193"
+  },
+  {
+   "character": "Q308398",
+   "kind": "death",
+   "place": "Q1197400"
+  },
+  {
+   "character": "Q322639",
+   "kind": "burial",
+   "place": "Q136487478"
+  },
+  {
+   "character": "Q322639",
+   "kind": "death",
+   "place": "Q125925203"
+  },
+  {
+   "character": "Q328354",
+   "kind": "burial",
+   "place": "Q1619976"
+  },
+  {
+   "character": "Q329690",
+   "kind": "burial",
+   "place": "Q124616567"
+  },
+  {
+   "character": "Q330584",
+   "kind": "burial",
+   "place": "Q124616552"
+  },
+  {
+   "character": "Q331327",
+   "kind": "birth",
+   "place": "Q191082"
+  },
+  {
+   "character": "Q334817",
+   "kind": "burial",
+   "place": "Q136487443"
+  },
+  {
+   "character": "Q338201",
+   "kind": "burial",
+   "place": "Q124616556"
+  },
+  {
+   "character": "Q338201",
+   "kind": "burial",
+   "place": "Q136487439"
+  },
+  {
+   "character": "Q338201",
+   "kind": "burial",
+   "place": "Q136487528"
+  },
+  {
+   "character": "Q34041",
+   "kind": "burial",
+   "place": "Q136487369"
+  },
+  {
+   "character": "Q34041",
+   "kind": "burial",
+   "place": "Q209576"
+  },
+  {
+   "character": "Q35500",
+   "kind": "residence",
+   "place": "Q70054479"
+  },
+  {
+   "character": "Q368157",
+   "kind": "burial",
+   "place": "Q136487521"
+  },
+  {
+   "character": "Q37122",
+   "kind": "birth",
+   "place": "Q70054479"
+  },
+  {
+   "character": "Q37122",
+   "kind": "residence",
+   "place": "Q70054479"
+  },
+  {
+   "character": "Q37340",
+   "kind": "birth",
+   "place": "Q173148"
+  },
+  {
+   "character": "Q37340",
+   "kind": "birth",
+   "place": "Q285086"
+  },
+  {
+   "character": "Q37340",
+   "kind": "residence",
+   "place": "Q70054479"
+  },
+  {
+   "character": "Q3734203",
+   "kind": "death",
+   "place": "Q203979"
+  },
+  {
+   "character": "Q393054",
+   "kind": "birth",
+   "place": "Q5690"
+  },
+  {
+   "character": "Q39503",
+   "kind": "birth",
+   "place": "Q285086"
+  },
+  {
+   "character": "Q404844",
+   "kind": "burial",
+   "place": "Q136487442"
+  },
+  {
+   "character": "Q409834",
+   "kind": "birth",
+   "place": "Q129296"
+  },
+  {
+   "character": "Q409834",
+   "kind": "death",
+   "place": "Q44112"
+  },
+  {
+   "character": "Q41410",
+   "kind": "residence",
+   "place": "Q112572697"
+  },
+  {
+   "character": "Q41746",
+   "kind": "burial",
+   "place": "Q134728272"
+  },
+  {
+   "character": "Q41746",
+   "kind": "burial",
+   "place": "Q340272"
+  },
+  {
+   "character": "Q41746",
+   "kind": "death",
+   "place": "Q22647"
+  },
+  {
+   "character": "Q440230",
+   "kind": "birth",
+   "place": "Q5690"
+  },
+  {
+   "character": "Q44204",
+   "kind": "residence",
+   "place": "Q775676"
+  },
+  {
+   "character": "Q45967",
+   "kind": "residence",
+   "place": "Q112572697"
+  },
+  {
+   "character": "Q461212",
+   "kind": "birth",
+   "place": "Q12898802"
+  },
+  {
+   "character": "Q461212",
+   "kind": "birth",
+   "place": "Q3134722"
+  },
+  {
+   "character": "Q463898",
+   "kind": "burial",
+   "place": "Q136487463"
+  },
+  {
+   "character": "Q464091",
+   "kind": "burial",
+   "place": "Q136487340"
+  },
+  {
+   "character": "Q464091",
+   "kind": "burial",
+   "place": "Q136487368"
+  },
+  {
+   "character": "Q474888",
+   "kind": "burial",
+   "place": "Q124616571"
+  },
+  {
+   "character": "Q491615",
+   "kind": "burial",
+   "place": "Q124644567"
+  },
+  {
+   "character": "Q506550",
+   "kind": "burial",
+   "place": "Q136487443"
+  },
+  {
+   "character": "Q506781",
+   "kind": "burial",
+   "place": "Q136487466"
+  },
+  {
+   "character": "Q509010",
+   "kind": "birth",
+   "place": "Q5690"
+  },
+  {
+   "character": "Q575252",
+   "kind": "burial",
+   "place": "Q136487401"
+  },
+  {
+   "character": "Q576282",
+   "kind": "death",
+   "place": "Q107439070"
+  },
+  {
+   "character": "Q577552",
+   "kind": "residence",
+   "place": "Q7263152"
+  },
+  {
+   "character": "Q578378",
+   "kind": "burial",
+   "place": "Q124616309"
+  },
+  {
+   "character": "Q591089",
+   "kind": "burial",
+   "place": "Q136487360"
+  },
+  {
+   "character": "Q606422",
+   "kind": "burial",
+   "place": "Q136487389"
+  },
+  {
+   "character": "Q611124",
+   "kind": "residence",
+   "place": "Q22647"
+  },
+  {
+   "character": "Q615912",
+   "kind": "burial",
+   "place": "Q136487456"
+  },
+  {
+   "character": "Q622504",
+   "kind": "burial",
+   "place": "Q136487430"
+  },
+  {
+   "character": "Q632592",
+   "kind": "birth",
+   "place": "Q5690"
+  },
+  {
+   "character": "Q633041",
+   "kind": "birth",
+   "place": "Q103011"
+  },
+  {
+   "character": "Q636796",
+   "kind": "burial",
+   "place": "Q136487407"
+  },
+  {
+   "character": "Q637955",
+   "kind": "burial",
+   "place": "Q136487432"
+  },
+  {
+   "character": "Q647496",
+   "kind": "burial",
+   "place": "Q136487394"
+  },
+  {
+   "character": "Q647496",
+   "kind": "burial",
+   "place": "Q136487426"
+  },
+  {
+   "character": "Q649624",
+   "kind": "burial",
+   "place": "Q136487472"
+  },
+  {
+   "character": "Q656881",
+   "kind": "burial",
+   "place": "Q136487342"
+  },
+  {
+   "character": "Q656887",
+   "kind": "burial",
+   "place": "Q136487451"
+  },
+  {
+   "character": "Q657562",
+   "kind": "burial",
+   "place": "Q124644608"
+  },
+  {
+   "character": "Q658523",
+   "kind": "residence",
+   "place": "Q5690"
+  },
+  {
+   "character": "Q660196",
+   "kind": "burial",
+   "place": "Q23792"
+  },
+  {
+   "character": "Q660196",
+   "kind": "burial",
+   "place": "Q8257871"
+  },
+  {
+   "character": "Q6612",
+   "kind": "residence",
+   "place": "Q1521549"
+  },
+  {
+   "character": "Q666525",
+   "kind": "death",
+   "place": "Q75459"
+  },
+  {
+   "character": "Q666525",
+   "kind": "death",
+   "place": "Q782278"
+  },
+  {
+   "character": "Q666652",
+   "kind": "birth",
+   "place": "Q1855083"
+  },
+  {
+   "character": "Q668054",
+   "kind": "burial",
+   "place": "Q136487428"
+  },
+  {
+   "character": "Q673432",
+   "kind": "birth",
+   "place": "Q44112"
+  },
+  {
+   "character": "Q673432",
+   "kind": "death",
+   "place": "Q44112"
+  },
+  {
+   "character": "Q729332",
+   "kind": "burial",
+   "place": "Q136487421"
+  },
+  {
+   "character": "Q732066",
+   "kind": "residence",
+   "place": "Q11225429"
+  },
+  {
+   "character": "Q738007",
+   "kind": "burial",
+   "place": "Q136487518"
+  },
+  {
+   "character": "Q738862",
+   "kind": "burial",
+   "place": "Q136487365"
+  },
+  {
+   "character": "Q747657",
+   "kind": "residence",
+   "place": "Q70054479"
+  },
+  {
+   "character": "Q749966",
+   "kind": "burial",
+   "place": "Q136487510"
+  },
+  {
+   "character": "Q750580",
+   "kind": "burial",
+   "place": "Q136487455"
+  },
+  {
+   "character": "Q760213",
+   "kind": "burial",
+   "place": "Q136487447"
+  },
+  {
+   "character": "Q762520",
+   "kind": "death",
+   "place": "Q22647"
+  },
+  {
+   "character": "Q776139",
+   "kind": "burial",
+   "place": "Q124616336"
+  },
+  {
+   "character": "Q776139",
+   "kind": "burial",
+   "place": "Q136487396"
+  },
+  {
+   "character": "Q828579",
+   "kind": "residence",
+   "place": "Q193214"
+  },
+  {
+   "character": "Q830706",
+   "kind": "burial",
+   "place": "Q136487496"
+  },
+  {
+   "character": "Q83160",
+   "kind": "burial",
+   "place": "Q136487516"
+  },
+  {
+   "character": "Q83160",
+   "kind": "burial",
+   "place": "Q189901"
+  },
+  {
+   "character": "Q836311",
+   "kind": "burial",
+   "place": "Q136487526"
+  },
+  {
+   "character": "Q847268",
+   "kind": "burial",
+   "place": "Q124644623"
+  },
+  {
+   "character": "Q847890",
+   "kind": "burial",
+   "place": "Q107031179"
+  },
+  {
+   "character": "Q852301",
+   "kind": "residence",
+   "place": "Q65121329"
+  },
+  {
+   "character": "Q853462",
+   "kind": "burial",
+   "place": "Q124644569"
+  },
+  {
+   "character": "Q871361",
+   "kind": "burial",
+   "place": "Q1234913"
+  },
+  {
+   "character": "Q905162",
+   "kind": "birth",
+   "place": "Q82070"
+  },
+  {
+   "character": "Q905162",
+   "kind": "death",
+   "place": "Q6343"
+  },
+  {
+   "character": "Q928411",
+   "kind": "burial",
+   "place": "Q124644568"
+  },
+  {
+   "character": "Q937216",
+   "kind": "burial",
+   "place": "Q136487370"
+  },
+  {
+   "character": "Q94072",
+   "kind": "burial",
+   "place": "Q124646268"
+  },
+  {
+   "character": "Q950523",
+   "kind": "burial",
+   "place": "Q136487457"
+  },
+  {
+   "character": "Q956906",
+   "kind": "burial",
+   "place": "Q136487402"
+  }
+ ]
+}

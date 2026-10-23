@@ -1,0 +1,112 @@
+The Achilleid (; Latin: Achillēis) is an unfinished epic poem by Publius Papinius Statius that was intended to present the life of Achilles from his youth to his death at Troy. Only about one and a half books (1,127 dactylic hexameters) were completed before the poet's death. What remains is an account of the hero's early life with the centaur Chiron, and an episode in which his mother, Thetis, disguised him as a girl on the island of Scyros, before he joined the Greek expedition against Troy.
+
+
+== Composition ==
+Based upon three references to the poem in the Silvae, the Achilleid seems to have been composed between 94 and 96 CE. At Silvae 4. 7. 21–24, Statius complains that he lacks the motivation to make progress upon his "Achilles" without the company of his friend C. Vibius Maximus who was travelling in Dalmatia (and to whom the poem is addressed).
+Statius apparently overcame this self-described writer's block, for in a poem from the posthumously published fifth book of the Silvae he refers to an upcoming recitation of a section from the Achilleid. This reference is believed to date from the summer of 95, and Statius presumably died later that year or early in the next, leaving the Achilleid unfinished.
+
+
+== Poetic models ==
+Statius' primary models are Homer and the poems of the Epic Cycle which touch on the life of Achilles. In the opening of the Achilleid, Statius asks that his poem not stop with the death of Hector (nec in Hectore tracto sistere 1.6) as the Iliad does but that it continue through the whole Trojan cycle, invoking these two important models. His style in the Achilleid has been seen as far more reminiscent of Ovid than Virgil, his major influence in the composition of the Thebaid. Statius tried to revise the image of the Homeric Achilles with the Achilleid, just as Ovid did for the Virgilian Aeneas. While doing this, they also exploited the tension between the accepted epic narrative and competing traditions pertaining to the heroes' lives.
+On account of its unfinished state, the Achilleid is often referred to as a "fragment", but this is a misleading label. Fragments are typically pieces of writing that have become seriously destroyed in the process of being transmitted to its audience. Statius' Achilleid is a work that is partially completed that had already been polished and presented to the world in his lifetime. The structure of the narrative is deliberate and balanced. The first words of the poem are the pseudo-Homeric patronymic that introduces Achilles through his father's father, while the last word of the poem is mother. Achilles' childhood experiences are then told in the space left vacant by his two absentee parents.
+
+
+== Contents ==
+
+
+=== Book 1 ===
+Lines 1–13. The introduction states the goals and scope of the epic, including the intention to cover the entire life of Achilles, not simply up to Hector's death as was done in the Iliad.
+The Achilleid opens with a traditional epic invocation of the Muses and Apollo, requesting inspiration for the poet's work and outlining the content of the poem to follow. The Muses are the first to be addressed (Ach. 1.1–7):
+
+As in Vergil's Aeneid and Statius' own Thebaid, the very first words present the poem's primary topic, expanded with a clause joined by the Latin enclitic conjunction -que. While the structure of the first line puts the Achilleid within the Vergilian tradition of martial epic, Philip Hardie sees the last line quoted above as an indication of Statius' debt to Ovid. Specifically, the choice of the verb deducere, "to lead down", evokes the invocation in the Metamorphoses in which Ovid asks the gods to lead down (deducite) to his own time a "perpetual song" (perpetuum carmen), with which Hardie also compares Statius' "Troy's whole story" (tota Troia, literally: "all of Troy").
+Lines 14–19. Statius praises Domitian and dedicates the epic to this emperor.
+Lines 20–94. Thetis, worrying that the Greek troops preparing to head to Troy will soon come to recruit her son and thus greatly endanger his life (for he is fated to die if he goes to Troy), asks Neptune if he will sink the Trojan fleet carrying Paris and Helen. Neptune denies this request, stating that the war is fated.
+Lines 95–197. Thetis goes to Thessaly, where the centaur Chiron has been raising and tutoring Achilles. She tells Chiron that she wants to take her son back and then enjoys a night of eating, singing, and drinking with them in his cave.
+Lines 198–282. Thetis decides that she must hide Achilles on Lycomedes' island of Scyros and takes him there while he sleeps. Once he wakes, she tries to convince him to hide himself there disguised as a girl. He refuses to accept this plan despite her promises that no one else will ever find out.
+Lines 283–396. Achilles is finally convinced to follow his mother's advice when he witnesses the daughters of King Lycomedes performing a dance at a festival of Pallas. Achilles is immediately struck by the outstanding beauty of one of these women, Deidamia, and so agrees to disguise himself as a woman and live among the king's daughters in order to be near her. Thetis dresses her son in women's clothing and teaches him how to act feminine, then presents her "daughter" to King Lycomedes and asks for him to care for and protect her among his own daughters. The king agrees to her request.
+One of the main themes up through this section, and as an undercurrent for the rest of the book, is that of maternal anxiety on the part of Thetis. Some authors have made note of the strong emphasis on and significance of Thetis and her concern here, especially as compared to in other Classical works.
+Konstan points out that many scholars have interpreted the depiction of Achilles disguised as a girl as symbolizing his maturation from a child living among women to an adult. Konstan believes that Statius in fact focuses more on the humorous aspects of the story, thus providing a comedic contrast to the serious tones of war by "delight[ing] in the naughty humor of the situation and the deflation of epic pretentiousness".
+Lines 397–466. The Argives (Greeks) in various regions prepare for the Trojan War.
+Lines 467–559. The Greeks muster their forces at Aulis but notice that Achilles is missing. The prophet Calchas sees in a trance that Achilles has been hidden on Scyros, and Ulysses and Diomedes depart to fetch him.
+Lines 560–674. Achilles continues to fall in love with Deidamia, who has by now discovered his true identity and is helping him to maintain his disguise. Achilles rapes Deidamia in a sacred grove and she makes the conscious decision to forgive him for this indiscretion and keep it a secret. She becomes pregnant and gives birth to their child (Neoptolemus, although he is never referred to by name in the Achilleid).
+Lines 675–818. Ulysses and Diomedes arrive at Scyros, are entertained by Lycomedes, and set out gifts for his daughters. 
+Lines 819–926. When Achilles alone is attracted by the shield and helmet and not the more womanly items, his identity is revealed, as Ulysses had intended. Achilles, now convinced to follow the Greek heroes to war, explains for the first time his relationship with Deidamia and their baby son and persuades Lycomedes to allow him to officially marry his daughter.
+Lines 927–60. Deidamia sees the future and recites a speech of despair, expressing her hope that Achilles will one day return to her.
+
+
+=== Book 2 ===
+Lines 1–22. After praying to his mother for forgiveness, Achilles sets sail from Scyros with Ulysses and Diomedes.
+Lines 23–48. Deidamia and Achilles each grieve, separately, for the loss of the other. Ulysses tries to take Achilles' mind off his wife.
+Lines 49–85. Ulysses tells the story of the events leading up to the war on which they are about to embark and expresses his indignation at Paris' reckless abduction of Helen and the threat that he feels toward society as a whole as a result.
+Lines 86–167. Per Diomedes' request, Achilles tells of his youth, his hunting exploits, and the teachings of Chiron. The poem ends with the closure of Achilles' narrative.
+
+
+== Influence of and critical responses to the Achilleid ==
+
+The Achilleid has generally received far more positive criticism than the Thebaid. One branch of this focuses on comparisons between the two poems; many scholars see a drastic difference between the "serious" and "Iliadic" Thebaid and the playful "Ovidian" Achilleid. Some have seen the Achilleid as Statius' attempt to write an entirely new multi-generic type of epic as a challenge to the Virgilian model. Others have noted the importance of female emotions and feminine characteristics in the poem. Finally, some have interpreted the character of Achilles as a subversive foil for Domitian.
+Critics have also said that the Achilleid was a failure because Statius wrote it as an attempt to constitute an alternative epic tradition, which he was unsuccessful in doing. However, it has also been argued that Statius' alternative epic tradition has influenced some of his successors. Claudian's De raptu Proserpinae emulated Statius' alternative epic tradition, leaving his work seemingly unfinished. Claudian believed that the inevitability of Homeric and Virgilian narrative was the cause of Statius' inability to proceed. Other writers such as Dante Alighieri borrowed from Statius and thought highly of his style; Giovanni Boccaccio was inspired by him; and Geoffrey Chaucer studied and imitated Statius. The influences of Statius and the Achilleid are also clearly seen in Edmund Spenser's The Faerie Queene, especially in one Canto of Book III.
+Statius' Achilleid also had a great impact in the realm of opera in the late seventeenth and early eighteenth centuries across Europe. These operas raised the issues of transvestitism, biological sex, and social gender. When a woman played the character of Achilles, the audience saw a woman playing the role of a man pretending to be a woman. When a castrato played Achilles, the unveiling of the "girl" forced the observation of a contrast between the fictional character who sheds his false gender identity on Scyros and the singer who cannot. Some directors such as Giulio Strozzi, Ippolito Bentivoglio, and Carlo Capece, chose to embody the spirit of Carnival: the greatest hero of antiquity puts on a female disguise to pursue his love and sexual desires. For later writers such as Pietro Metastasio and Paolo Rolli, the myth teaches that gender is essential, in that the masculinity of Achilles is a primal force of nature that cannot be hidden, and it is a crucial component of his heroism. The first treatment of the "Achilleid" for the operatic stage was La finta pazza ("the woman feigning madness") performed in Venice in 1641. Following that was the opera, Achille in Sciro, first performed in Ferrara in 1663.
+
+
+== Women in the Achilleid ==
+In ancient epic, women have been portrayed through various roles that help, hinder, and protect characters from disaster. Greek poets, such as Homer, have generally illustrated women as victims of conflict, the cause of conflict, negotiators among combatant men, and mourners of the dead. Roman poets, like Virgil, describe women in a similar light, but they also tend to complicate the portrayal of women, often depicting them as hindering a hero's destiny and stirring conflict among men.
+In the Achilleid, classicist P. J. Heslin argues that Statius upholds the Roman trend of portraying women as "heroic blockers" with the development of Thetis' character. In the Achilleid, Thetis is a prophet, protector, and hinderer to Achilles. She desperately tries to protect Achilles from going off to fight the Trojan War, knowing that he will die in battle if he goes. Thetis's initial reaction of anger to this knowledge (inspiring her idea to sink Paris's fleet) imitates the classic anger of the goddess Juno. However, her surge in anger does not help her protect Achilles. Thetis's supplication of Neptune mirrors Venus's supplication of Neptune in the Aeneid, except Thetis's attempt fails whereas Venus's succeeds. Thetis's maternal instinct to protect her child from danger fulfills one of the typical roles women play in ancient epic. She also hinders the course of Achilles' fate by trying to change his destiny, which is to become one of the most glorified heroes in Greek history.
+The other major female character in the Achilleid is Deidamia. Heslin argues that Achilles rapes Deidamia in order to assert his masculinity because dressing and acting like a woman makes him feel belittled. Deidamia's rape is just another example from epic tales that shows women as property, ultimately in the control of men. Her obedience to Achilles is further exemplified by her silence after the rape. After marrying Achilles, Deidamia then fulfills the role of the faithful wife waiting for her husband to return home from war.
+Heslin illuminates how the expectations for the behavior of Roman women during Statius's life can also be seen in the Achilleid through Thetis's instructions on how Achilles should act on Scyros. Thetis criticizes his "masculine" mannerisms and leaves him on Scyros to learn more about how to act in a womanly fashion. Hence, this instruction on "womanliness" can be interpreted as insight into Rome's feminine world during Statius's lifetime.
+
+
+== Manuscripts ==
+There are only a few manuscripts of the Achilleid:
+
+Trivulziano 792, 1391–1410, Milan, Archivio storico civico e Biblioteca Trivulziana
+A 5 inf., 1401–1500, Milan, Biblioteca Ambrosiana
+H 166 inf, 1401–1450, Milan, Biblioteca Ambrosiana
+AE._XII.52, 1413, Milan, Biblioteca nazionale Braidense
+It.173/15=alfa.K.3.29, 1401–1650, Modena, Biblioteca Estense
+Lat.211=alfa.P.6.14, 1401–1500, Modena, Biblioteca Estense
+Lat.939=alfa.M,9.22, 1401–1500, Modena, Biblioteca Estense
+Ms.Pal.0069, 1401–1450, Parma, Biblioteca Palatina
+Manoscritti, 98,1401-1500, Poppi, Biblioteca comunale Riliana
+Ms.1721, 1401–1500, Rome, Biblioteca Angelica
+Ms.B 30/1-2, Rome, Biblioteca Vallicelliana
+Ms.C 95, Rome, Biblioteca Vallicelliana
+
+
+== Notes ==
+
+
+== Bibliography ==
+Editions, translations, Commentaries
+McNelis, Charles (2024) Statius: Achilleid. Edited with introduction, translation, and commentary (Oxford) [ISBN 978-0-19-887145-3
+Shackleton Bailey, D.R. (2003a) Statius II. Thebaid, Books 1–7. Achilleid, Loeb Classical Library no. 207 (Cambridge, MA) ISBN 0-674-01208-9.
+Shackleton Bailey, D.R. (2003b) Statius III. Thebaid, Books 8–12. Achilleid, Loeb Classical Library no. 495 (Cambridge, MA) ISBN 0-674-01209-7.
+Discussions
+Abad Del Vecchio, Julene (2024) The Dark Side of Statius' Achilleid. Epic Distorted (Oxford) ISBN 9780198895206.
+Bitto, Gregor (2016) Vergimus in senium. Statius' Achilleis als Alterswerk [Vergimus in senium. Statius' Achilleis as a work of old age]. (Göttingen) ISBN 978-3-525-20871-7.
+Coleman, K.M. (1988) Statius: Silvae IV (Oxford) ISBN 978-0-19-814031-3.
+Coleman, K.M. (2003) "Recent Scholarship on the Epics" in: Shackleton Bailey (2003a) 9–37.
+Cowan, R. (2005) Introduction to the Bristol reprint of Dilke, Statius: Achilleid (Exeter) ISBN 1-904675-11-5.
+Davis, P.J. (2006) "Allusion to Ovid and others in Statius' Achilleid", Ramus 35: 129–43.
+Dilke, O.A.W. (1954) Statius: Achilleid (Cambridge).
+Fantham, E. (1979) "Statius' Achilles and his Trojan model", Classical Quarterly 29: 457–62.
+Feeney, D. (2004) "Tenui ... Latens Discrimine: Spotting the Differences in Statius' Achilleid", Materiali e discussioni per l'analisi dei testi classici 52: 85–105.
+Foley, P. Helene (2005) A Companion To Ancient Epic: Women in Ancient Epic ISBN 978-1-4051-0524-8.
+Hardie, P. (1993) The Epic Successors of Virgil: A Study in the Dynamics of a Tradition (Cambridge) ISBN 978-0-521-42562-9.
+Heslin, P.J. (2005) The Transvestite Achilles: Gender and Genre in Statius' Achilleid (Cambridge) ISBN 978-0-521-85145-9.
+McNelis, C. (2009) "In the Wake of Latona: Thetis at Statius, Achilleid 1.198–216", Classical Quarterly 59: 238–46.
+McNelis, C. (2015) "Similes and Gender in the Achilleid", in: W. Dominik, C. Newlands, and K. Gervais (eds.) Brill's Companion to Statius (Leiden) at 189–206.
+McNelis, C. (2015) "Statius' Achilleid and the Cypria", in: M. Fantuzzi and C. Tsagalis (eds.) The Greek Epic Cycle and its Reception (Oxford) at 578–595.
+McNelis, C. (2020) "Bacchus, Hercules and Literary History in Statius' Achilleid", Classical Journal 115: 442–55.
+Mendelsohn, D. (1990) "Empty Nest, Abandoned Cave: Maternal Anxiety in Achilleid 1", Classical Antiquity 9: 295–308.
+Newlands, C. (2004) "Statius and Ovid: Transforming the Landscape", TAPA 134: 133–55.
+Parkes, R. (2008) "The Return of the Seven: Allusion to the Thebaid in Statius' Achilleid", American Journal of Philology 129: 381–402.
+Sanna, S. (2007) "Achilles, the Wise Lover and His Seductive Strategies (Statius, Achilleid 1.560–92)", Classical Quarterly 57: 207–15.
+Sigurjónsson, Björn (2023). Sic notus Achilles? Episches Narrativ und Intertextualität in Statius' Achilleis [Sic notus Achilles? Epic narrative and intertextuality in Statius' Achilleis]. Tübingen: Narr Francke Attempto. ISBN 9783381107216.
+Slavitt, David (1997) Broken Columns: Two Roman Epic Fragments (Philadelphia) ISBN 978-0-8122-3424-4.
+Vessey, D.W.T.C. (1982) "Flavian Epic", in: E.J. Kenney & W.V. Claussen (eds.) The Cambridge History of Classical Literature, II: Latin Literature (Cambridge) at 558–96. ISBN 978-0-521-21043-0.
+
+
+== External links ==
+ The full text of Achilleid at Wikisource (multiple English translations)
+Lat.211=alfa.P.6.14, 1401–1500, Modena, Biblioteca Estense.
+ Achilleid public domain audiobook at LibriVox

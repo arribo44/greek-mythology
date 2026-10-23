@@ -1,0 +1,245 @@
+[[Fichier:Odysseus Sirens BM E440 n2.jpg|vignette|droite|Ulysse et les Sirènes. Détail d'un stamnos attique à figures rouges du Peintre de la Sirène (vase éponyme), vers 480-470 av. J.-C. Provenance : Vulci. Conservé au British Museum (Londres).]]
+'''{{w|Ulysse}}''' ou '''Odysseus''' (en grec ancien {{lang|grc|Ὀδυσσεύς}} / ''Odysseús'', en latin ''{{lang|la|Ulixes}}'', puis par déformation ''{{lang|la|Ulysses}}'') est l'un des héros les plus célèbres de la mythologie grecque. Roi d'Ithaque, fils de Laërte et d'Anticlée, il est marié à [[Pénélope]] ; tous deux ont un fils, Télémaque. Ulysse est renommé pour sa ''mètis'', cette « intelligence rusée » qui rend son conseil très apprécié dans la guerre de Troie à laquelle il participe. C'est encore par la ''mètis'' qu'il se distingue dans le long périple qu'il connaît au retour de Troie, chanté dans l’''[[Odyssée]]'', attribuée dans l'Antiquité au poète légendaire [[Homère]]. 
+
+== Littérature ==
+=== ''Iliade'' (VIIIe siècle avant J.-C.) ===
+{{citation|L'ingénieux Ulysse sur lui lève un œil sombre et dit : "Atride, quel mot s'est échappé de l'enclos de tes dents ?"
+|original=<poem>Τὸν δ' ἄρ' ὑπόδρα ἰδὼν προσέφη πολύμητις Ὀδυσσεύς·
+Ἀτρεΐδη ποῖόν σε ἔπος φύγεν ἕρκος ὀδόντων.  </poem>
+|langue=grc
+|précisions=}}
+{{Réf Livre
+|auteur=[[Homère]]
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'[[Iliade]]
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|page=171
+|section=chant IV, vers 350-351
+|s=L'Iliade
+}}
+
+{{citation|Il n'est pas de guerrier qui puisse affronter le combat une journée entière, jusqu'au soleil couché, s'il n'a goûté au pain.
+|original=<poem>Οὐ γὰρ ἀνὴρ πρόπαν ἦμαρ ἐς ἠέλιον καταδύντα
+ἄκμηνος σίτοιο δυνήσεται ἄντα μάχεσθαι.  </poem>
+|langue=grc
+|précisions=Ulysse.}}
+{{Réf Livre
+|auteur=[[Homère]]
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'[[Iliade]]
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|tome=3 (chants XVII à XXIV)
+|page=117
+|section=chant XIX, vers 162-163
+|s=L'Iliade
+}}
+
+=== ''Odyssée'' (VIIIe siècle avant J.-C.) ===
+{{citation|<poem>Ô Muse, conte-moi l’aventure de l’Inventif :
+celui qui pilla Troie, qui pendant des années erra,
+voyant beaucoup de villes, découvrant beaucoup d’usages,
+souffrant beaucoup d’angoisses dans son âme sur la mer
+pour défendre sa vie et le retour de ses marins
+sans en pouvoir sauver un seul, quoi qu'il en eût ;
+par leur propre fureur ils furent perdus en effet,
+ces enfants qui touchèrent aux troupeaux du dieu d'En Haut,
+le Soleil qui leur prit le bonheur du retour…
+À nous aussi, Fille de Zeus, conte un peu ces exploits !</poem>
+|original=<poem>Ἄνδρα μοι ἔννεπε, Μοῦσα, πολύτροπον, ὃς μάλα πολλὰ
+πλάγχθη, ἐπεὶ Τροίης ἱερὸν πτολίεθρον ἔπερσε·
+πολλῶν δ’ ἀνθρώπων ἴδεν ἄστεα καὶ νόον ἔγνω,
+πολλὰ δ’ ὅ γ’ ἐν πόντῳ πάθεν ἄλγεα ὃν κατὰ θυμόν,
+ἀρνύμενος ἥν τε ψυχὴν καὶ νόστον ἑταίρων.
+ἀλλ᾽ οὐδ᾽ ὣς ἑτάρους ἐρρύσατο, ἱέμενός περ:
+αὐτῶν γὰρ σφετέρῃσιν ἀτασθαλίῃσιν ὄλοντο,
+νήπιοι, οἳ κατὰ βοῦς Ὑπερίονος Ἠελίοιο
+ἤσθιον: αὐτὰρ ὁ τοῖσιν ἀφείλετο νόστιμον ἦμαρ.
+τῶν ἁμόθεν γε, θεά, θύγατερ Διός, εἰπὲ καὶ ἡμῖν.</poem>
+|langue=grc
+|précisions=Invocation à la Muse formant le prélude de l'épopée. "L'Inventif" (l'expression est aussi traduite par "l'homme aux mille ruses") est Ulysse.}}
+{{Réf Livre
+|auteur=[[Homère]]
+|éditeur=La Découverte/Syros
+|collection=La Découverte Poche
+|titre=L'[[Odyssée]]
+|année=2004 (première parution de cette traduction : 1955)
+|traducteur=Philippe Jaccottet
+|page=12
+|section=chant I, 1-5
+|s=L'Odyssée
+}}
+
+{{citation|<poem>Et néanmoins, j'espère, je désire à tout moment
+me retrouver chez moi et vivre l'heure du retour.</poem>
+|original=<poem>Ἀλλὰ καὶ ὧς ἐθέλω καὶ ἐέλδομαι ἤματα πάντα
+οἴκαδέ τ' ἐλθέμεναι καὶ νόστιμον ἦμαρ ἰδέσθαι. </poem>
+|langue=grc
+|précisions=Ulysse, à Calypso.}}
+{{Réf Livre
+|auteur=[[Homère]]
+|éditeur=La Découverte/Syros
+|collection=La Découverte Poche
+|titre=L'[[Odyssée]]
+|année=2004 (première parution de cette traduction : 1955)
+|traducteur=Philippe Jaccottet
+|page=90
+|section=chant V, 219-220
+|s=L'Odyssée
+}}
+
+{{citation|<poem>Et Personne est mon nom.</poem>
+|original=<poem>Οὖτις ἐμοί γ' ὄνομα.</poem>
+|langue=grc
+|précisions=Ulysse, au Cyclope Polyphème.}}
+{{Réf Livre
+|auteur=[[Homère]]
+|éditeur=La Découverte/Syros
+|collection=La Découverte Poche
+|titre=L'[[Odyssée]]
+|année=2004 (première parution de cette traduction : 1955)
+|traducteur=Philippe Jaccottet
+|page=152
+|section=chant IX, 366
+|s=L'Odyssée
+}}
+
+{{citation|<poem>Trois fois je m'élançai, mon coeur me pressait de l'étreindre,
+trois fois hors de mes mains, pareille à une ombre ou un songe,
+elle s'enfuit.</poem>
+|original=<poem>Τρὶς μὲν ἐφωρμήθην, ἑλέειν τέ με θυμὸς ἀνώγει,
+τρὶς δέ μοι ἐκ χειρῶν σκιῇ εἴκελον ἢ καὶ ὀνείρῳ
+ἔπτατ'. </poem>
+|langue=grc
+|précisions=Ulysse, parvenu au pays des morts, tente de serrer contre lui l'ombre de sa mère défunte.}}
+{{Réf Livre
+|auteur=[[Homère]]
+|éditeur=La Découverte/Syros
+|collection=La Découverte Poche
+|titre=L'[[Odyssée]]
+|année=2004 (première parution de cette traduction : 1955)
+|traducteur=Philippe Jaccottet
+|page=183-184
+|section=chant XI, 206-208
+|s=L'Odyssée
+}}
+
+{{citation|<poem>Il y a l'heure des paroles et l'heure du sommeil.</poem>
+|original=<poem>Ὥρη μὲν πολέων μύθων, ὥρη δὲ καὶ ὕπνου. </poem>
+|langue=grc
+|précisions=Ulysse}}
+{{Réf Livre
+|auteur=[[Homère]]
+|éditeur=La Découverte/Syros
+|collection=La Découverte Poche
+|titre=L'[[Odyssée]]
+|année=2004 (première parution de cette traduction : 1955)
+|traducteur=Philippe Jaccottet
+|page=188
+|section=chant XI, 379
+|s=L'Odyssée
+}}
+
+{{citation|<poem>Amis, serions-nous donc nouveaux dans le malheur ?</poem>
+|original=<poem>Ὦ φίλοι, οὐ γάρ πώ τι κακῶν ἀδαήμονές εἰμεν. </poem>
+|langue=grc
+|précisions=Ulysse harangue ses compagnons avant d'affronter Charybde et Scylla.}}
+{{Réf Livre
+|auteur=[[Homère]]
+|éditeur=La Découverte/Syros
+|collection=La Découverte Poche
+|titre=L'[[Odyssée]]
+|année=2004 (première parution de cette traduction : 1955)
+|traducteur=Philippe Jaccottet
+|page=204
+|section=chant XII, 209
+|s=L'Odyssée
+}}
+
+{{citation|<poem>Ulysse l'endurant se sentit plein de joie
+à la vue de son île et baisa la terre du blé.</poem>
+|original=<poem>Γήθησέν τ' ἄρ' ἔπειτα πολύτλας δῖος Ὀδυσσεὺς
+χαίρων ᾗ γαίῃ, κύσε δὲ ζείδωρον ἄρουραν. </poem>
+|langue=grc
+|précisions=}}
+{{Réf Livre
+|auteur=[[Homère]]
+|éditeur=La Découverte/Syros
+|collection=La Découverte Poche
+|titre=L'[[Odyssée]]
+|année=2004 (première parution de cette traduction : 1955)
+|traducteur=Philippe Jaccottet
+|page=221
+|section=chant XIII, 353-354
+|s=L'Odyssée
+}}
+
+{{citation|<poem>Cela dit, il baisa son fils et, le long de ses joues
+laissa couler les pleurs qu'il avait longtemps contenus.</poem>
+|original=<poem>Υἱὸν κύσε, κὰδ δὲ παρειῶν
+δάκρυον ἧκε χαμᾶζε· πάρος δ' ἔχε νωλεμὲς αἰεί. </poem>
+|langue=grc
+|précisions=Ulysse retrouve son fils Télémaque et se fait reconnaître de lui.}}
+{{Réf Livre
+|auteur=[[Homère]]
+|éditeur=La Découverte/Syros
+|collection=La Découverte Poche
+|titre=L'[[Odyssée]]
+|année=2004 (première parution de cette traduction : 1955)
+|traducteur=Philippe Jaccottet
+|page=265
+|section=chant XVI, 190-191
+|s=L'Odyssée
+}}
+
+{{citation|Patience, mon cœur !
+|original=τέτλαθι δή, κραδίη.
+|langue=grc
+|précisions=Ulysse s'exhortant lui-même au calme en voyant les exactions des prétendants de Pénélope.}}
+{{Réf Livre
+|auteur=[[Homère]]
+|éditeur=Gallimard
+|collection=Bibliothèque de la Pléiade
+|titre=L'[[Odyssée]]
+|année=1955
+|traducteur= Victor Bérard
+|page=819
+|section=chant XX
+|vers=18
+|s=L'Odyssée
+}}
+
+=== Joachim du Bellay, ''Les Regrets'' (1558) ===
+{{Citation|citation=Heureux qui, comme Ulysse, a fait un beau voyage,}}
+{{Réf Livre
+|auteur=[[Joachim du Bellay]]
+|titre=Les œuvres françoises de Joachim Du Bellay,… / rev. et de nouveau augm. de plusieurs poésies non encore auparavant imprimées
+|éditeur=impr. de F. Morel
+|année=1569
+|année d'origine=1558
+|partie=Les regrets et autres œuvres poétiques de I. du Bellay, gentilhomme angevin
+|section=XXXI
+|vers=1
+|page=44
+|s=Les Regrets (du Bellay)#XXXI}}
+{{Choisie citation du jour
+|puce=*
+|année=2010
+|mois=septembre
+|jour=1
+|commentaire=
+|}}
+
+== Articles connexes ==
+* ''[[Ulysse 31]]'', série télévisée d'animation franco-japonaise adaptée de l’''Odyssée''.
+* ''[[O'Brother]]'', film des [[Joel et Ethan Coen|frères Coen]], réécriture humoristique de l’''Odyssée''.
+
+== Liens externes ==
+{{Autres projets
+|w=Ulysse
+|commons=Category:Odysseus}}
+
+[[Catégorie:Être humain de la mythologie grecque]]

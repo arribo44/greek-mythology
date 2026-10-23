@@ -1,0 +1,72 @@
+The Bibliotheca (Ancient Greek: Βιβλιοθήκη, romanized: Bibliothēkē, lit. 'Library') is a compendium of Greek myths and heroic legends, genealogical tables and histories arranged in three books, generally dated to the first or second century AD. The work is commonly described as having been written by Apollodorus (or sometimes Pseudo-Apollodorus), a result of its false attribution to the 2nd-century BC scholar Apollodorus of Athens.
+
+
+== Overview ==
+The Bibliotheca of Pseudo-Apollodorus is a comprehensive collection of myths, genealogies and histories that presents a continuous history of Greek mythology from the earliest gods and the origin of the world to the death of Odysseus. The narratives are organized by genealogy, chronology and geography in summaries of myth. The myths are sourced from a wide number of sources like early epic, early Hellenistic poets, and mythographical summaries of tales. Homer and Hesiod are the most frequently named along with other poets. Oral tradition and the plays written by Aeschylus, Sophocles and Euripides also factored into the compilation of myth in the Bibliotheca. The Bibliotheca was written in the first or second century CE by an author who is referred to as Pseudo-Apollodorus to differentiate from Apollodorus of Athens, who did not write the Bibliotheca. Most extant manuscripts of the text end during the narration of Theseus's exploits, with there surviving only two codices, discovered in the 19th century, which transmit the remainder of the work. In the later scholarship it is used as a reference material.
+
+
+== Authorship ==
+A certain "Apollodorus" is indicated as author on some surviving manuscripts, this Apollodorus has been mistakenly identified with Apollodorus of Athens (born c. 180 BCE), a student of Aristarchus of Samothrace who also worked in Alexandria. It is known—from references in the minor scholia on Homer—that Apollodorus of Athens did leave a similar comprehensive repertory on mythology, in the form of a verse chronicle. The mistaken attribution was made by scholars following mention of the name by Photius I of Constantinople, though Photius did not name him as the Athenian and the name was in common use at the time. For chronological reasons, Apollodorus of Athens could not have written the book, the author of the Bibliotheca is at times referred to as the "Pseudo-Apollodorus", to distinguish him from Apollodorus of Athens. Modern works often simply call him "Apollodorus". The work is generally dated to the first or second centuries AD.
+
+
+== Manuscript tradition ==
+The first mention of the work is by Photius, patriarch of Constantinople in 9th century CE, in his "account of books read". The last section of the Bibliotheca, which breaks off during the section on Theseus, is missing in surviving manuscripts. However, Photius had the full work and mentions that the lost section had myths about the heroes of the Trojan War. Byzantine author John Tzetes, who lived in Constantinople in the twelfth century, often cited the Bibliotheca in his writings. The Bibliotheca was almost lost in the 13th century, surviving in one now-incomplete manuscript, which was copied for Cardinal Bessarion in the 15th century. Any surviving manuscripts of the Bibliotheca are descended from a fourteenth-century manuscript in the Bibliothèque nationale de France, in Paris.
+
+
+== Printed editions ==
+The first printed edition of the Bibliotheca of Pseudo-Apollodorus was published in Rome in 1555. Benedetto Egio (Benedictus Aegius) of Spoleto, was the first to divide the text in three books. Hieronymus Commelinus published an improved text at Heidelberg, 1559. The first text based on comparative manuscripts was that of Christian Gottlob Heyne, Göttingen, 1782–83. Subsequent editions Jurgen Muller (1841) and Richard Wagner (1894) collated earlier manuscripts. In 1921 Sir James George Frazer published an epitome of the book by conflating two manuscript summaries of the text, which included the lost section.
+
+
+== Scholarship ==
+The Bibliotheca has been referenced in scholarship throughout history. As a mythographical work it has influenced scholarship on Greek mythology. An epigram recorded by the important intellectual Patriarch Photius I of Constantinople expressed its purpose:
+
+It has the following not ungraceful epigram: "Draw your knowledge of the past from me and read the ancient tales of learned lore. Look neither at the page of Homer, nor of elegy, nor tragic muse, nor epic strain. Seek not the vaunted verse of the cycle; but look in me and you will find in me all that the world contains".
+Photius is one of the first surviving reviews of the use of the Bibliotheca in the field. Throughout the 12th and 13th centuries CE, the Bibliotheca was referred to in scholarship about Ancient Greece most often found in letters from scholars of the time. Much of the modern scholarship on the work has focused on the interpretation of its manuscripts by various translators and compilers of the Bibliotheca in later editions. A critical view of past interpretations, compilations, and organization has also been a source of contention. The sources of information that may have informed the creation of the Bibliotheca are also studied in the modern scholarship. The question of authorship is another area of study that has shaped the interpretation of the work throughout history.
+
+
+== See also ==
+ Ancient Greece portal
+
+
+== References ==
+
+
+=== Notes ===
+
+
+=== Citations ===
+
+
+=== Works cited ===
+Acerbo, Stefano (2021), "Leggere e scrivere le tradizioni mitiche: il lavoro del mitografo nella sezione teogonica della «Biblioteca» di Apollodoro", Athenaeum: Studi di Letteratura e Storia dell’Antichità, 109: 417-437.
+Aldrich, Keith (1975), The Library of Greek Mythology, Lawrence, Kansas: Coronado Press, ISBN 0872910725
+Diller, Aubrey (1935), "The Text History of the Bibliotheca of Pseudo-Apollodorus", Transactions and Proceedings of the American Philological Association, 66: 296–313, doi:10.2307/283301, JSTOR 283301
+Diller, Aubrey. 1983. "The Text History of the Bibliotheca of Pseudo-Apollodorus." Pp. 199–216 in Studies in Greek Manuscript Tradition, edited by A. Diller. Amsterdam: A. M. Hakkert. ISBN 902560837X.
+Dowden, Ken. 1992. The Uses of Greek Mythology. London: Routledge. ISBN 978-0-415-06135-3. Internet Archive.
+Fletcher, K. F. B. 2008. "Systematic Genealogies in Apollodorus’ Bibliotheca and the Exclusion of Rome from Greek Myth." Classical Antiquity 27:59–91. JSTOR 10.1525/ca.2008.27.1.59.
+Hard, Robin. 1997. Apollodorus: The Library of Greek Mythology. Oxford: Oxford University Press. ISBN 978-0-199-53632-0.
+Hard, Robin (2004), The Routledge Handbook of Greek Mythology: Based on H.J. Rose's "Handbook of Greek Mythology" (7th ed.), London: Routledge, ISBN 978-0-415-18636-0
+Higbie, Carolyn. 2007. "Hellenistic Mythographers." Pp. 237–54 in The Cambridge Companion to Greek Mythology, edited by R. D. Woodard. Cambridge: Cambridge University Press. ISBN 9780521845205.
+Huys, Marc. 1997. "Euripides and the Tales from Euripides: Sources of Apollodoros' Bibliotheca?" Rheinisches Museum 140 308–27. JSTOR 41234289.
+Kenens, Ulrike. 2013. "Text and Transmission of Ps.-Apollodorus’ Bibliotheca: Avenues for Future Research." Pp. 95–114 in Writing Myth: Mythography in the Ancient World, edited by S. M. Trzaskoma and R. S. Smith. Leuven, Belgium: Peeters. ISBN 9789042929111.
+Kenens, Ulrike. 2011. "The Sources of Ps.-Apollodorus' Library: A Case Study." Quaderni Urbinati di Cultura Classica 97:129–46. JSTOR 23048902.
+Michels, Johanna Astrid, Agenorid Myth in the Bibliotheca of PseudoApollodorus. A Philological Commentary of Bibl. III.1-56 and a  Study into the Composition and Organization of the Handbook, Berlin-Boston: De Gruyter, ISBN 978-3-11-060279-1.
+Scully, Stephen. 2015. "Echoes of the Theogony in the Hellenistic and Roman Periods." In Hesiod's 'Theogony', From Near Eastern Creation Myths to 'Paradise Lost'. New York: Oxford University Press. ISBN 9780190253967.
+Simpson, Michael, ed. (1976), Gods and Heroes of the Greeks: The "Library" of Apollodorus, Amherst: University of Massachusetts Press, ISBN 978-0-870-23206-0
+Smith, R. Scott; Trzaskoma, Stephen M., eds. (2007), Apollodorus' Library and Hyginus' Fabulae: Two Handbooks of Greek Mythology, Indianapolis, Indiana: Hackett Publishing, ISBN 978-0-87220-820-9
+Trzaskoma, Stephen. 2013. "Citation, Organization and Authorial Presence in Ps.-Apollodorus’ Bibliotheca." Pp. 75–94 in Writing Myth: Mythography in the Ancient World, edited by S. M. Trzaskoma and R. S. Smith. Leuven, Belgium: Peeters. ISBN 9789042929111.
+Trzaskoma, Stephen M. and R. Scott Smith. 2008. "Hellas in the Bibliotheke of Apollodorus." Philologus 152(1):90–6. doi:10.1524/phil.2008.0016.
+
+
+== External links ==
+
+ Greek Wikisource has original text related to this article: (Ψευδο-)Ἀπολλόδωρος
+Apollodorus The Library translated by J. G. Frazer
+Works by Apollodorus at Perseus Digital Library
+Mythographoi. Scriptores poetiace historiae graeci, Antonius Westermann (ed.), Brunsvigae sumptum fecit Georgius Westermann, 1843, pagg. 1-123.
+Apollodori Bibliotheca, Immanuel Bekker (ed.), Lipsiae sumptibus et typis B. G. Teubneri, 1854.
+Mythographi graeci, Richardus Wagner (ed.), vol. 1, Lipsiae in aedibus B. G. Teubneri, 1894: pp. 1-169 (the epitome in pp. 171-237).
+Apollodorus, The Library translated by J. G. Frazer
+Apollodorus the Mythographer
+Online text: Apollodorus The Library translated by J. G. Frazer (condensed text)
+Michels, Johanna Astrid (2022). Agenorid Myth in the Bibliotheca of Pseudo-Apollodorus: A Philological Commentary of Bibl. III.1-56 and a Study Into the Composition and Organization of the Handbook. De Gruyter. ISBN 9783110610529. Retrieved 2024-08-25.

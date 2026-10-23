@@ -1,0 +1,40 @@
+The Fabulae is a Latin handbook of mythology, attributed to an author named Hyginus, who is generally believed to have been separate from Gaius Julius Hyginus. The work consists of 277 very brief and plainly, even crudely, told myths (such as Agnodice) and celestial genealogies.
+
+
+== Date, authorship, and composition ==
+In the earliest published edition of the Fabulae, produced in 1535 by Jacob Micyllus, the work is attributed to "Gaius Julius Hyginus, freedman of Augustus", an ascription which may have been present in the manuscript itself, or may have added by Micyllus himself. There were numerous works which were attributed in antiquity to Gaius Julius Hyginus. Although the work may not have been composed after his lifetime (which was around the 1st century BC/AD), modern scholarship for the most part rejects the idea that this Hyginus was the author of the work. According to R. Scott Smith, it is reasonable to suppose that the Hyginus who authored the work lived during the latter half of the 2nd century AD. A handful of scholars, however, do hold that Gaius Julius Hyginus was in fact the author of the work.
+The author of the Fabulae is characterised by H. J. Rose, as adulescentem imperitum, semidoctum, stultum—"an ignorant youth, semi-learned, stupid"—but valuable for the use made of works of Greek writers of tragedy that are now lost. Arthur L. Keith, reviewing H. J. Rose's edition (1934) of Hygini Fabulae, wondered "at the caprices of Fortune who has allowed many of the plays of an Aeschylus, the larger portion of Livy's histories, and other priceless treasures to perish, while this school-boy's exercise has survived to become the pabulum of scholarly effort." Hyginus' compilation represents in primitive form what every educated Roman in the age of the Antonines was expected to know of Greek myth, at the simplest level. The Fabulae are a mine of information today, when so many more nuanced versions of the myths have been lost.
+
+
+== Content ==
+Alongside the Bibliotheca of the Greek mythographer Apollodorus, the Fabulae is one of the most comprehensive handbooks of mythology to survive from antiquity. The work consists of various narratives and lists, which are organised into a number of distinct sections, rather than being presented in a continuous narrative. The work begins with a theogony (an account of the origin of the gods), which outlines a genealogy of the gods. It is a somewhat peculiar account,  beginning with a figure unattested elsewhere, Mist (Caligo), who is placed before even Chaos, the earliest being in the Theogony of Hesiod. This theogony, which is untitled in the text itself, may have been attached to the work at a later date. After the theogony comes a number of sections which tell of various mythical stories (sections 1–220), and then sections which consist of lists (sections 221–277), often of names of mythological figures, or of myths; a number of such lists are also present in the part of the work devoted mostly to mythical narratives (sections 1–220).
+Though composed in Latin, and reliant upon Latin literature to a limited extent, the work is almost entirely concerned with Greek mythology, with it containing little in the way of Roman mythical content. Among Hyginus' sources are the scholia on Apollonius of Rhodes' Argonautica, which were dated to about the time of Tiberius by Apollonius' editor R. Merkel, in the preface to his edition of Apollonius (Leipzig, 1854). In the work, there are also some passages which were translated from earlier Greek texts.
+
+
+== Textual history ==
+In fact the text of the Fabulae was all but lost: a single surviving manuscript from the abbey of Freising, in a Beneventan script datable c. 900, formed the material for the first printed edition, negligently and uncritically transcribed by Jacob Micyllus, 1535, who may have supplied it with the title we know it by. In the course of printing, following the usual practice, by which the manuscripts printed in the 15th and 16th centuries have rarely survived their treatment at the printshop, the manuscript was pulled apart: only two small fragments of it have turned up, significantly as stiffening in book bindings. Another fragmentary text, dating from the 5th century is in the Vatican Library.
+
+
+== Editions and translations ==
+Mary A. Grant, The Myths of Hyginus, Lawrence, University of Kansas Press, 1960. ToposText.
+Marshall, Peter K., Hyginus <Mythographus>: Fabulae, Bibliotheca Teubneriana, Munich and Leipzig, K. G. Saur Verlag, 2002. ISBN 3598712375. doi:10.1515/9783110975512.
+Smith, Scott R., and Stephen M. Trzaskoma, Apollodorus' Library and Hyginus' Fabulae: Two Handbooks of Greek Mythology, Indianapolis and Cambridge, Hackett Publishing, 2007. ISBN 9780872208216. Internet Archive.
+
+
+== Notes ==
+
+
+== References ==
+Fletcher, "Hyginus, Fabulae", in The Oxford Handbook of Greek and Roman Mythography, pp. 199–210, edited by R. Scott Smith and Stephen M. Trzaskoma, Oxford University Press, 2022. ISBN 978-0-190-64831-2.
+Hard, Robin (2004), The Routledge Handbook of Greek Mythology: Based on H.J. Rose's "Handbook of Greek Mythology", London and New York, Routledge, 2004. ISBN 020344633X. doi:10.4324/9780203446331. Google Books.
+Hard, Robin (2015), Eratosthenes and Hyginus: Constellation Myths, With Aratus's Phaenomena, Oxford, Oxford University Press, 2015. ISBN 9780198716983.
+Marshall, Peter K., Hyginus <Mythographus>: Fabulae, Bibliotheca Teubneriana, Munich and Leipzig, K. G. Saur Verlag, 2002. ISBN 3598712375. doi:10.1515/9783110975512.
+Rose, Herbert Jennings (ed.), Hygini Fabulae (Leiden: A.W. Sijthoff, 1934 [2nd ed. 1963]). The standard text, in Latin.
+Smith, R. Scott, "Mythography in Latin", in The Oxford Handbook of Greek and Roman Mythography, pp. 97–114, edited by R. Scott Smith and Stephen M. Trzaskoma, Oxford University Press, 2022. ISBN 978-0-190-64831-2.
+Smith, Scott R., and Stephen M. Trzaskoma, Apollodorus' Library and Hyginus' Fabulae: Two Handbooks of Greek Mythology, Indianapolis and Cambridge, Hackett Publishing, 2007. ISBN 9780872208216. Internet Archive.
+
+
+== External links ==
+Online Text: Hyginus, Fabulae translated by Mary Grant
+Online Text of Hyginus. excerpted (in Latin)
+Online Digital copy of the first Latin edition by Jacob Micyllus (Basel, 1535)

@@ -1,0 +1,82 @@
+Greek lyric is the body of lyric poetry written in dialects of Ancient Greek. Lyric poetry is poetry sung to music, traditionally played on a lyre. It is primarily associated with the early 7th to the early 5th centuries BC, sometimes called the "Lyric Age of Greece", but continued to be written into the Hellenistic and Imperial periods.
+
+
+== Background ==
+Lyric is one of three broad categories of poetry in classical antiquity, along with drama and epic, according to the scheme of the "natural forms of poetry" developed by Goethe in the early nineteenth century. (Drama is considered a form of poetry here because both tragedy and comedy were written in verse in ancient Greece.) Culturally, Greek lyric is the product of the political, social and intellectual milieu of the Greek polis ('city-state').
+Much of Greek lyric is occasional poetry, composed for public or private performance by a soloist or chorus to mark particular occasions. The symposium ('drinking party') was one setting in which lyric poems were performed. 'Lyric' was sometimes sung to the accompaniment of either a string instrument (particularly the lyre or kithara) or a wind instrument (most often the reed pipe called aulos). Whether the accompaniment was a string or wind instrument, the term for such accompanied lyric was melic poetry (from the Greek word for 'song' melos). Lyric could also be sung without any instrumental accompaniment. This latter form is called meter and it is recited rather than sung, strictly speaking.
+Modern surveys of "Greek lyric" often include relatively short poems composed for similar purposes or circumstances that were not strictly "song lyrics" in the modern sense, such as elegies and iambics. The Greeks themselves did not include elegies nor iambus within melic poetry, since they had different metres and different musical instruments. The Edinburgh Companion to Ancient Greece and Rome offers the following clarification: "'melic' is a musical definition, 'elegy' is a metrical definition, whereas 'iambus' refers to a genre and its characteristics subject matter. (...) The fact that these categories are artificial and potentially misleading should prompt us to approach Greek lyric poetry with an open mind, without preconceptions about what 'type' of poetry we are reading."
+Greek lyric poems celebrate athletic victories (epinikia), commemorate the dead, exhort soldiers to valor, and offer religious devotion in the forms of hymns, paeans, and dithyrambs. Partheneia, "maiden-songs," were sung by choruses of maidens at festivals. Love poems praise the beloved, express unfulfilled desire, proffer seductions, or blame the former lover for a breakup. In this last mood, love poetry might blur into invective, a poetic attack aimed at insulting or shaming a personal enemy, an art at which Archilochus, the earliest known Greek lyric poet, excelled. The themes of Greek lyric include "politics, war, sports, drinking, money, youth, old age, death, the heroic past, the gods," and hetero- and homosexual love.
+In the 3rd century BC, the encyclopedic movement at Alexandria anthologized a canon of the nine melic poets: Alcaeus, Alcman, Anacreon, Bacchylides, Ibycus, Pindar, Sappho, Simonides, and Stesichorus. Only a small sampling of lyric poetry from Archaic Greece, the period when it first flourished, survives. For example, the poems of Sappho are said to have filled nine papyrus rolls in the Library of Alexandria, with the first book alone containing more than 1,300 lines of verse. In modern times, only one of Sappho's poems exists intact, with fragments from other sources that would scarcely fill a chapbook.
+
+
+== Meters ==
+
+Greek poetry meters are based on patterns of long and short syllables (in contrast to English verse, which is determined by stress), and lyric poetry is characterized by a great variety of metrical forms. Apart from the shift between long and short syllables, stress must be considered when reading Greek poetry. The interplay between the metric "shifts", the stressed syllables and caesuras is an integral part of the poetry. It allows the poet to stress certain words and shape the meaning of the poem.
+There are two main divisions within the meters of ancient Greek poetry: lyric and non-lyric meters. "Lyric meters (literally, meters sung to a lyre) are usually less regular than non-lyric meters. The lines are made up of feet of different kinds, and can be of varying lengths. Some lyric meters were used for monody (solo songs), such as some of the poems of Sappho and Alcaeus; others were used for choral dances, such as the choruses of tragedies and the victory odes of Pindar."
+The lyric meters' families are the Ionic, the Aeolic (based on the choriamb, which can generate varied kinds of verse, such as the glyconian or the Sapphic stanza), and the Dactylo-epitrite. The Doric choral songs were composed in complex triadic forms of strophe, antistrophe, and epode, with the first two parts of the triad having the same metrical pattern, and the epode a different form.
+
+
+== Bibliography ==
+
+
+=== Translations ===
+
+
+==== Anthologies ====
+Lattimore, R. (1955), Greek Lyrics, Chicago{{citation}}:  CS1 maint: location missing publisher (link).
+Miller, A.M. (1996), Greek Lyric: An Anthology in Translation, Indianapolis, ISBN 978-0872202917{{citation}}:  CS1 maint: location missing publisher (link).
+West, M.L. (2008), Greek Lyric Poetry, Oxford, ISBN 978-0199540396{{citation}}:  CS1 maint: location missing publisher (link).
+
+
+==== Loeb Classical Library ====
+Campbell, David A. (1982), Greek Lyric, Volume I: Sappho and Alcaeus, Loeb Classical Library, vol. 142, Cambridge, Massachusetts, ISBN 9780674991576{{citation}}:  CS1 maint: location missing publisher (link).
+Campbell, David A. (1988), Greek Lyric, Volume II: Anacreon, Anacreontea, Choral Lyric from Olympus to Alcman, Loeb Classical Library, vol. 143, Cambridge, Massachusetts, ISBN 9780674991583{{citation}}:  CS1 maint: location missing publisher (link).
+Campbell, David A. (1991), Greek Lyric, Volume III: Stesichorus, Ibycus, Simonides, and Others, Loeb Classical Library, vol. 476, Cambridge, Massachusetts, ISBN 9780674995253{{citation}}:  CS1 maint: location missing publisher (link).
+Campbell, David A. (1992), Greek Lyric, Volume IV: Bacchylides, Corinna, and Others, Loeb Classical Library, vol. 461, Cambridge, Massachusetts, ISBN 9780674995086{{citation}}:  CS1 maint: location missing publisher (link).
+Campbell, David A. (1993), Greek Lyric, Volume V: The New School of Poetry and Anonymous Songs and Hymns, Loeb Classical Library, vol. 144, Cambridge, Massachusetts, ISBN 9780674995598{{citation}}:  CS1 maint: location missing publisher (link).
+Gerber, D.E. (1999a), Greek Elegiac Poetry: From the Seventh to the Fifth Centuries BC, Loeb Classical Library, vol. 258, Cambridge, Massachusetts, ISBN 9780674995826{{citation}}:  CS1 maint: location missing publisher (link).
+Gerber, D.E. (1999b), Greek Iambic Poetry: From the Seventh to the Fifth Centuries BC, Loeb Classical Library, vol. 259, Cambridge, Massachusetts, ISBN 9780674995819{{citation}}:  CS1 maint: location missing publisher (link).
+
+
+=== Critical editions ===
+
+
+==== Lyric ====
+Page, D.L. (1962), Poetae Melici Graeci, Oxford{{citation}}:  CS1 maint: location missing publisher (link).
+Page, D.L. (1974), Supplementum lyricis Graecis, Oxford{{citation}}:  CS1 maint: location missing publisher (link).
+Davies, M. (1991), Poetarum Melicorum Graecorum Fragmenta, vol. I. Alcman Stesichorus Ibycus, Oxford, ISBN 978-0-19-814046-7{{citation}}:  CS1 maint: location missing publisher (link).
+Page, D.L.; Lobel, E. (1955), Poetarum Lesbiorum fragmenta, Oxford{{citation}}:  CS1 maint: location missing publisher (link).
+Voigt, E.-M. (1971), Sappho et Alcaeus: fragmenta, Amsterdam{{citation}}:  CS1 maint: location missing publisher (link).
+
+
+==== Elegy and Iambus ====
+West, M.L. (1989–92), Iambi et Elegi Graeci ante Alexandrum cantati (2nd revised ed.), Oxford{{citation}}:  CS1 maint: location missing publisher (link).
+Gentilli, B.; Prato, C. (1988–2002), Poetarum elegiacorum testimonia et fragmenta (2nd enlarged ed.), Berlin{{citation}}:  CS1 maint: location missing publisher (link).
+
+
+=== Scholarship ===
+Bowie, E.L. (1986), "Early Greek Elegy, Symposium and Public Festival", The Journal of Hellenic Studies, 106: 13–35, doi:10.2307/629640, JSTOR 629640, S2CID 162738189.
+Budelmann, F. (2009), The Cambridge Companion to Greek Lyric, Cambridge, ISBN 978-0-521-84944-9{{citation}}:  CS1 maint: location missing publisher (link).
+Budelmann, F. (2009a). "Introducing Greek Lyric". In Budelmann (2009), pp. 1–18.
+Carey, C. "Genre, Occasion and Performance". In Budelmann (2009), pp. 21–38.
+Calame, C. (1998), "La poésie lyrique grecque, un genre inexistant?", Littérature, 111 (3): 87–110, doi:10.3406/litt.1998.2492.
+Calame, C. (2001), Choruses of Young Women in Ancient Greece, Lanham, Maryland, ISBN 978-0742515253{{citation}}:  CS1 maint: location missing publisher (link) — translated from the French original of 1977 by D. Collins & J. Orion.
+Campbell, D.A. (1982a), Greek Lyric Poetry (2nd ed.), London, ISBN 978-0-86292-008-1{{citation}}:  CS1 maint: location missing publisher (link).
+da Cunha Corrêa, P. (2009 [1998]). Armas e Varões; A Guerra na Lírica de Arquíloco. 2nd ed. São Paulo: Editora da UNESP
+Davies, M. (1988), "Monody, Choral Lyric, and the Tyranny of the Hand-Book", Classical Quarterly, 38 (1): 52–64, doi:10.1017/s0009838800031268, JSTOR 639205, S2CID 170579271.
+Easterling, P.E.; Knox, B.M.W. (1985), The Cambridge History of Classical Literature: Greek Literature, Cambridge, ISBN 978-0-521-21042-3{{citation}}:  CS1 maint: location missing publisher (link).
+Barron, J.P.; Easterling, P.E.; Knox, B.M.W. "Elegy and Iambus". In Easterling & Knox (1985), pp. 117–64.
+Bulloch, A.W. "Hellenistic Poetry". In Easterling & Knox (1985), pp. 541–621.
+Campbell, D.A. "Monody". In Easterling & Knox (1985), pp. 202–21.
+Segal, C. (1985a). "Archaic Choral Lyric". In Easterling & Knox (1985), pp. 165–201.
+Segal, C. (1985b). "Choral Lyric in the Fifth Century". In Easterling & Knox (1985), pp. 222–44.
+Gerber, D.E. (1997), A Companion to the Greek Lyric Poets, Leiden, ISBN 978-9-004-09944-9{{citation}}:  CS1 maint: location missing publisher (link).
+Gerber, D.E. (1997a). "General Introduction". In Gerber (1997), pp. 1–9.
+Hutchinson, G.O. (2001), Greek Lyric Poetry: A Commentary on Selected Larger Pieces, Oxford, ISBN 978-0-19-924017-3{{citation}}:  CS1 maint: location missing publisher (link).
+Kurke, L. (2000), "The Strangeness of "Song Culture": Archaic Greek Poetry", in O. Taplin (ed.), Literature in the Greek & Roman Worlds: A New Perspective, Oxford, pp. 58–87, ISBN 978-0-192-10020-7{{citation}}:  CS1 maint: location missing publisher (link).
+Nagy, G. (2007), "Lyric and Greek Myth", in R.D. Woodward (ed.), The Cambridge Companion to Greek Mythology, Cambridge, pp. 19–51, ISBN 978-0-521-60726-1{{citation}}:  CS1 maint: location missing publisher (link).
+Rutherford, I. (2012), Oxford Readings in Greek Lyric Poetry, Oxford, ISBN 9780199216192{{citation}}:  CS1 maint: location missing publisher (link).
+Swift, Laura Ann (2022). A companion to Greek lyric. Hoboken (NJ): John Wiley & Sons, Inc. ISBN 9781119122623.
+
+
+== References ==

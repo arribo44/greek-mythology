@@ -1,0 +1,258 @@
+Les Métamorphoses (en latin Metamorphōseōn librī, « Livres des métamorphoses ») sont un long poème latin d'Ovide, dont la composition débute probablement en l'an 1. L'œuvre comprend quinze livres (près de douze mille vers) écrits en hexamètres dactyliques et regroupe plusieurs centaines de récits courts sur le thème des métamorphoses issus de la mythologie grecque et de la mythologie romaine, organisés selon une structure complexe et souvent imbriqués les uns dans les autres. La structure générale du poème suit une progression chronologique, depuis la création du monde jusqu'à l'époque où vit l'auteur, c'est-à-dire le règne de l'empereur Auguste.
+Fameux dès l'Antiquité, le poème devient un classique de la littérature latine traduit dans le monde entier et connaît une postérité abondante jusqu'à l'époque actuelle. Il a suscité de nombreux commentaires et analyses et a inspiré de nombreux artistes de l'Antiquité jusqu'à nos jours.
+
+
+== Historique ==
+
+Ovide compose les Métamorphoses au tout début du Ier siècle, sous le règne de l'empereur Auguste. Cette période historique est marquée par la fin des guerres civiles qui ont meurtri les Romains, et par l'avènement de l'Empire qui est, nonobstant la sauvegarde des institutions républicaines et la volonté de marquer le retour à un âge d'or, l'expression en réalité d'un pouvoir personnel. Néanmoins, l'empereur Auguste œuvre beaucoup au développement des arts, notamment de la littérature, en protégeant de nombreux poètes tels Virgile et Horace qui contribuent à propager cette idée de renouveau. Ce soutien aux écrivains consécutif à la prise du pouvoir par Auguste procède d'une recherche d'unification des sujets de l'Empire derrière une culture, un patrimoine commun. L'enjeu idéologique exige alors la création d'une mythologie impériale, à la dimension politique évidente.
+Les Métamorphoses sont rédigées alors qu'Ovide est déjà un poète reconnu (il a publié plusieurs recueils poétiques, dont Les Amours et L'Art d'aimer). Les Métamorphoses ne sont pas totalement terminées lorsqu'il est exilé à Tomis (l'actuelle Constanța en Roumanie, au bord de la mer Noire), peut-être en raison de son précédent ouvrage L'Art d'aimer, où il se permet de critiquer le régime en place et mène la licence à un point qui put déranger la volonté augustéenne de restaurer un certain ordre moral. C'est dans cet exil qu'il termine ses jours à une date imprécise, sans doute autour de l'an 17 ou 18.
+Au-delà du contexte politique, l'époque littéraire est particulièrement féconde. Ce Ier siècle est marqué par la réalisation des monuments de la littérature latine, comme l’Énéide de Virgile, qui s'inspire des mythes helléniques pour composer un poème fondateur dans la culture romaine. Cette réécriture de la matière grecque est omniprésente chez Ovide, qui s'inspire semblablement de l’Iliade et de l’Odyssée d'Homère ainsi que de la Théogonie d'Hésiode. Par ailleurs, les Métamorphoses sont le seul poème d'Ovide composé en hexamètres dactyliques, vers habituellement réservé à l'épopée.
+
+
+== Projet de l'auteur ==
+
+Le projet de l'auteur est complexe et novateur. Ce manifeste poétique endosse le vers de l'épopée sans pour autant en avoir les mêmes objectifs. Ovide ne souhaite pas comme Virgile écrire un texte à la gloire d'Auguste ou à la gloire de Rome. Le poète choisit de mettre en scène des métamorphoses dont il puise l'origine dans les récits mythologiques, les récits épiques et les tragédies. Le terme de métamorphose est déjà en lui-même inédit car il a été sans doute créé par Ovide lui-même (le mot apparaît pour la première fois dans cet ouvrage). Avant lui, on utilisait le terme de transformation mais non de métamorphose. Il implique donc un mode de réécriture différent de ce qui a précédé dans le temps. Ce terme de métamorphose est donc double : à la fois récit de transformation et à la fois genre littéraire par la transformation du récit en lui-même. C'est ce dernier point qui rend l’œuvre d'Ovide inédite. Le poète a métamorphosé l'épopée, la tragédie et la poésie en un récit poétique unique et complexe dont la réécriture est le point commun. Le projet apparait alors clairement de créer un catalogue de métamorphoses non pas pour expliquer l'organisation du monde comme ont pu le faire les textes précédents dont il s'inspire mais pour donner une vision du monde.
+
+
+=== La personnification chez Ovide ===
+Parmi les nombreuses innovations introduites par Ovide et les nombreux procédés rhétoriques utilisés par le poète pour animer son style, la personnification apparaît comme l'un des éléments centraux. Issue d'une longue tradition qui remonte à la poésie épique archaïque, la personnification permet au poète de donner vie ou forme à des éléments inanimés, informes ou abstraits tels que des idées, des émotions ou des concepts, en les dotant de qualités humaines.
+Les principales personnifications évoquées par Ovide sont Inuidia (l'Envie - Métamorphoses Livre II, 752-832), Fames (la Faim - Métamorphoses Livre VIII, 777-842), Somnus (le Sommeil - Métamorphoses Livre XI, 581-748) et Fama (la Renommée - Métamorphoses Livre XII, 39-63). Dans les deux premiers cas, l'auteur a recours à la description de deux figures humaines, tandis qu'il caractérise le Sommeil et la Renommée à travers la description de deux lieux, une grotte et un palais.
+Description de l'Envie, Métamorphoses Livre II (752-832) :
+« La pâleur habite sur son affreux visage ; son corps horrible est décharné ; son regard louche est sombre et égaré. Une rouille livide couvre ses dents ; son cœur s'abreuve de fiel, et sa langue distille des poisons. Le rire s'éloigne de ses lèvres, ou ne s'y montre qu'à l'aspect d'une grande infortune. Sans cesse agitée par les soucis vigilants, le sommeil fuit ses paupières ; elle souffre et s'irrite du bonheur des mortels. Elle tourmente ; elle est tourmentée elle-même : c'est son supplice. »
+Description de la Faim, Métamorphoses Livre VIII (777-842) :
+« Ses cheveux se hérissent et couvrent son œil éteint ; la Pâleur siège sur son front ; ses lèvres sont livides ; ses dents avides, noircies par la rouille ; sa peau rude, au travers de laquelle on peut voir ses entrailles ; ses os arides et décharnés se soutiennent en squelette courbé ; pour ventre elle a la place que le ventre occupe. Sa poitrine se creuse, et sa gorge desséchée semble pendre à l'épine du dos. La maigreur a grossi ses articulations ; ses genoux pointus ont une jointure énorme, et ses talons s'enflent et s'allongent en dehors. »
+Description de l'antre du Sommeil, Métamorphoses Livre XI (581-748) :
+« Près du pays des Cimmériens, un mont creusé en voûte, recèle un antre profond, du Sommeil nonchalant retraite et palais solitaire. Soit que le soleil se lève à l'orient, soit qu'il arrive au milieu de sa carrière, ou que vers l'Hespérie il abaisse son char, jamais ses rayons ne pénètrent l'obscurité de ces lieux. D'humides brouillards les environnent. Un jour douteux à peine les éclaire. Jamais le chant du coq n'y appelle l'Aurore. Jamais le silence n'y est troublé par la voix des chiens vigilants, par celle de l'oiseau qui, plus fidèle encore, sauva le Capitole. On n'y entend jamais le lion rugissant, l'agneau bêlant, ni l'aquilon sifflant dans le feuillage, ni l'homme et ses clameurs. Le repos muet habite ce désert. […] Au fond (de la caverne obscure) s'élève un lit d'ébène fermé d'un rideau noir. Là, plongé dans un épais duvet, le dieu sans cesse repose ses membres languissants. Autour de lui, sous mille formes vaines, sont couchés des Songes […]. »
+Description du Palais de la Renommée, Métamorphoses Livre XII (39-63) :
+« Entre le ciel et la terre, et le vaste océan, s'élève un antique palais, au milieu de l'univers, aux confins des trois mondes. […] Ses murs sont un airain sonore qui frémit au moindre son, le répète et le répète encore. Le repos est banni de ce palais ; on n'y connaît point le silence. Ce ne sont point cependant des cris, mais les murmures confus de plusieurs voix légères […]. Une foule empressée sans cesse assiège ces portiques, sans cesse va, revient, semant mille rumeurs, amas confus de confuses paroles, mélange obscur du mensonge et de la vérité. Les uns prêtent une oreille attentive à ces récits frivoles ; les autres les répandent ailleurs. Chacun ajoute à ce qu'il vient d'entendre, et le faux croît toujours. La résident la Crédulité facile et l'Erreur téméraire, la vaine Joie, la Crainte au front consterné, la Sédition en ses fureurs soudaine, et les Bruits vagues qui naissent des rapports incertains. De là, la Renommée voit tout ce qui se passe dans le ciel, sur la terre, et sur l'onde, et ses regards curieux embrassent l'univers. »
+
+
+== Structure et résumés ==
+
+
+=== Livre I ===
+
+
+=== Livre II ===
+
+
+=== Livre III ===
+
+
+=== Livre IV ===
+
+
+=== Livre V ===
+
+Les mythes du livre V dans les arts
+
+
+=== Livre VI ===
+Histoires d'Arachné, Niobé, Marsyas, Pélops, Philomèle et Procné, Borée et Orithye, les Boréades.
+
+
+=== Livre VII ===
+Médée, Thésée, Minos, Éaque, les Myrmidons, Céphale et Procris.
+
+
+=== Livre VIII ===
+Nisus et Scylla, Ariane et le Minotaure, Dédale et Icare, le Sanglier de Calydon, Méléagre et Althée, Érysichthon, Philémon et Baucis.
+
+
+=== Livre IX ===
+Le mythe d'Hercule, Nessos, Galanthis, Dryope et Lotis, Iolaüs, Biblis et Caunus, Iphis et Ianthé.
+
+
+=== Livre X ===
+Histoires d'Orphée, Eurydice, Hyacinthe, Pygmalion, Myrrha, Adonis, Atalante, Cyparissus.
+
+
+=== Livre XI ===
+Mort d'Orphée, Midas, Alcyone et Céyx, Ésaque.
+
+
+=== Livre XII ===
+Iphigénie, le combat des Centaures contre les Lapithes, Achille.
+
+
+=== Livre XIII ===
+Le siège de Troie, Glaucus ; Ulysse et Polyphème ; guerre en Italie ; Charybde et Scylla ; Énée ; Acis et Galatée.
+
+
+=== Livre XIV ===
+Scylla, Énée, Vertumne et Pomone, Romulus.
+
+
+=== Livre XV ===
+Numa, Pythagore, Égérie, Hippolyte, Esculape, César, Auguste.
+
+
+== Analyse ==
+
+Les auteurs dont s'inspire Ovide sont des poètes de l'époque hellénistique qui songèrent à regrouper les légendes grecques présentant les métamorphoses des dieux ou des mortels de la mythologie. Parmi ces poètes il faut citer Nicandre de Colophon (IIIe – IIe siècle av. J.-C.), Antigone de Caryste et Parthénios de Nicée (Ier siècle av. J.-C.). Le renouveau du pythagorisme donne aussi une certaine actualité à la doctrine du transformisme.
+Ovide met en scène des centaines de récits de métamorphoses (environ 250) depuis le Chaos originel jusqu'à l'apothéose d'Auguste César, de façon soit développée soit allusive. Le plus difficile est de donner à cette matière hétérogène une certaine unité. Ovide y parvient, non sans artifices, en s'inspirant des catalogues et des généalogies archaïques (comme le Catalogue des femmes d'Hésiode). Toutes les qualités d'Ovide, verve naturelle, art du développement, effets de surprise, adresse dans les transitions, élégance et légèreté de touche se retrouvent dans les Métamorphoses mais avec un dosage particulier afin de correspondre à la durée du poème. Ainsi Ovide recherche le pittoresque avec bonheur et pousse parfois jusqu'à un réalisme brutal comme dans ce portrait de la Faim (VIII, v. 790-799) :
+
+« (...) Elle cherchait la Faim : elle la vit dans un champ pierreux, d'où elle s'efforçait d'arracher, des ongles et des dents, de rares brins d'herbe. Ses cheveux étaient hirsutes, ses yeux caves, sa face livide, ses lèvres grises et gâtées, ses dents rugueuses de tartre. Sa peau sèche aurait laissé voir ses entrailles ; des os décharnés perçaient sous la courbe des reins. Du ventre, rien que la place ; les genoux faisaient une saillie ronde énorme, et les talons s'allongeaient, difformes, sans mesure... »
+
+La psychologie des personnages est variée et s'accompagne quand c'est nécessaire des ressources de la rhétorique voire de la déclamation (dispute d'Ajax et d'Ulysse autour des armes d'Achille (XIII). Quant aux combats, ils ont parfois l'allure épique des grandes épopées. Cependant, Ovide ne renonce pas à sa frivolité ni à la malice du poète qui ne souhaite pas être dupe de son récit, ce qui nuit parfois à l'harmonie d'ensemble de l'œuvre. Enfin Ovide, bien qu'il ait été en contact avec le pythagorisme qui ne cesse à cette époque de faire des progrès dans la haute société romaine, ne le fait intervenir qu'à son dernier chant.
+Ovide a donc créé une nouvelle modalité narrative qui unifie l'ensemble de l’œuvre malgré des contextes variés. Le point commun entre tous ces récits est la métamorphose et la modalité narrative utilisée. L'écriture est toujours une comparaison à un modèle épique, poétique ou tragique. La métamorphose intervient comme une pause narrative descriptive qui permet à l'écriture poétique de prendre toute son ampleur. Elle permet de passer du récit individuel au récit immobile fixé dans l'éternité. La poésie d'Ovide devient donc étiologique car malgré la diversité et l'hétérogénéité des récits, elle fixe des points communs grâce aux recours à une série de figures communes, comme des lieux, des arbres, des animaux. Grâce à Ovide ce mode narratif est entré dans la culture littéraire par la recherche de réinventer et réenchanter le monde.
+
+
+== Éditions ==
+Consulter la liste des éditions de cette œuvre 
+
+
+=== Texte latin ===
+Le texte antique est perdu, mais il existe plus de quatre cents manuscrits du Moyen Âge, complets ou fragmentaires, qui nous sont parvenus. Une liste non exhaustive a été compilée par Franco Munari.
+Les éditions modernes de référence sont celles éditées par William Scovil Anderson (Bibliotheca Teubneriana, 1977) et par Richard John Tarrant (Oxford Classical Texts, 2004).
+
+
+=== Traductions ===
+Parmi les nombreuses traductions françaises de l'œuvre complète, on peut noter celles de : Jean de Vauzelles (1557), Pierre Du Ryer (1693), Antoine Banier (1732), Joseph-Gaspard Dubois-Fontanelle (1767), Barrett (1777), Ange-François Fariau de Saint-Ange (1800), Mathieu-Guillaume-Thérèse Villenave (1806-07), Joseph Cabaret-Dupaty (1862), Georges Lafaye (1925-30), Joseph Chamonard (1936), Danièle Robert (2001), Olivier Sers (2009), Marie Cosnay (2017).
+
+
+=== L'édition de 1557 ===
+
+Une des plus célèbres éditions françaises des Métamorphoses d’Ovide est celle de 1557, publiée sous le titre de La Métamorphose d’Ovide figurée. Révélée par la Maison Tournes (1542-1567) à Lyon, elle résulte de la collaboration de l’éditeur Jean I Tournes et de Bernard Salomon, graveur important du XVIe siècle.
+L'ouvrage est édité au format in-octavo et présente à la fois les textes d’Ovide et 178 illustrations gravées.
+La publication des textes du poète antique est dans les années 1540-1550 une véritable course à la parution pour les éditeurs lyonnais, et le public est particulièrement demandeur d'ouvrages présentant des illustrations. Jean I Tournes se trouve face à une concurrence qui sort elle aussi ses versions. Il publie une première fois en 1546 les deux premiers livres d’Ovide. Il réédite cette version en 1549 avec des illustrations. La traduction des livres des Métamorphoses contribue à cette émulation. Guillaume Roville est son principal concurrent, il fait paraître les textes illustrés par Pierre Eskrich en 1550. Roville publie une première fois en 1550, et à nouveau en 1551. En 1553, il édite cette fois-ci les trois premiers livres grâce à la traduction de Barthélémy Aneau, qui fait suite à la celle des deux premiers livres de Clément Marot.
+La version de 1557 publiée par la Maison Tournes reste cependant celle dont la postérité est la plus importante. Elle est notamment expliquée par la mention de cette parution dans l’historiographie. Les éditions des textes des Métamorphoses du XVIe siècle constituent un changement de paradigme dans la perception des mythes. En effet, si les vers du poète antique étaient principalement lus pour leur portée moralisatrice aux siècles précédents, ils sont alors plutôt perçus pour leur qualité esthétique et hédoniste. Le contexte littéraire de l’époque marqué par l’émergence de la Pléiade est révélateur de ce goût pour la beauté de la poésie.
+« On peut dater de la disparition de l’Art d’aimer et des Remèdes à l’amour la fin d’une ère gothique dans l’édition ovidienne, de même que la publication en 1557 de la Métamorphose figurée marque la mainmise du siècle de la Renaissance sur une œuvre aussi conforme à ses goûts que la Métamorphose moralisée l’avait été aux aspirations des XIVe et XVe siècles ».
+L’œuvre est republiée en 1564 et 1583 en français, bien qu’elle l’ait déjà été en italien par Gabriel Simeoni en 1559 avec quelques gravures supplémentaires.
+Certains exemplaires de 1557 sont aujourd’hui conservés en collections publiques. On les trouve notamment à la Bibliothèque nationale de France, à la Bibliothèque municipale de Lyon, à la Brandeis University Library de Waltham (MA) et à la Library of Congress de Washington D.C. aux États-Unis. Un exemplaire numérique est disponible sur Gallica. Il semblerait qu’un exemplaire soit aussi passé en vente chez Sotheby’s.
+
+
+== Illustrations ==
+
+
+=== Lyon à l'époque moderne ===
+
+Dès la fin du XVe siècle, les illustrations lyonnaises des Métamorphoses d’Ovide témoignent des liens entre la France et l’Italie, dans le contexte des guerres d’Italie, notamment sous Charles VIII. La situation géographique de la ville de Lyon participe aussi du regain des échanges entre les deux pays.
+L’exemple des gravures sur bois de Guillaume II Le Roy met en lumière l’organisation et le fonctionnement de l’imprimerie lyonnaise au XVIe siècle, dans ses relations avec l’Italie. Ses quinze gravures reprennent des modèles italiens d’un exemplaire vénitien des Métamorphoses de 1497, imprimé par Giovanni Rosso Vertellece. Il séjourne un an en Italie et notamment à Venise. Cependant, pour les livres III à VII, Guillaume II Le Roy varie en puisant ses formes dans une édition parmesane de 1505.
+
+En 1512, l'édition de Jacques Ier Huguetan illustre les textes d'une série de quinze vignettes de l'entourage de Guillaume II Le Roy. Ces vignettes sont reprises en 1519, par Jacques Maréchal, dans une édition réutilisant les bois de 1510, que reproduit Guillaume II Le Roy en 1524. Puis en 1527, Jean Crespin édite une nouvelle version des Métamorphoses étonnante. Plutôt qu’en tête de chapitre, permettant d’annoncer le récit à suivre, les images sont positionnées à la fin du chapitre précédent. Cette ordonnance répond à un impératif d’imprimeur de ne laisser aucune page blanche. Ces vignettes figurent aussi dans le Grand Olympe des histoires poëtiques de Romain Morin en 1532.En 1686, paraissent les éditions ad usum Delphini de Lyon de Daniel Crespin. Cet ouvrage est imprimé à Lyon en 1686 par la famille Anisson-Duperron, qui s’appuie sur l’édition hollandaise de référence de Nicolas Heinsius, datée de 1652 à Amsterdam. L'édition de Lyon est elle-même reprise par l'édition d’Oxford de 1696.
+Dans la veine de l'édition ludique ad usum Delphini, les Métamorphoses d'Ovide en rondeaux d'Isaac de Benserade, illustrées notamment par Sébastien Leclerc, sont dédicacées à "Monseigneur le Dauphin". La marque dorée des armes royale sur le plat supérieure de cuir rouge atteste de la préciosité du livre.
+
+
+== Postérité et évocations artistiques ==
+
+
+=== Dans l'Antiquité ===
+Au IIe siècle, l'auteur de langue latine Apulée rédige un roman qu'il intitule « Onze livres de métamorphoses », en latin Metamorphoseon libri XI, dont le titre devient plus tard L'Âne d'or. L'évocation à l’œuvre d'Ovide est évidente tant par le titre choisi que par l'intrigue. En effet, L'Âne d'or met en scène les aventures du personnage Lucius, transformé en âne par accident.
+Les Métamorphoses d'Antoninus Liberalis, seraient postérieures au texte d'Ovide, et reprennent des fables attribuées à des auteurs plus anciens.
+
+
+=== Au Moyen Âge ===
+Dans l'Italie médiévale, l'œuvre d'Ovide a exercé une influence importante. Dans un premier temps, notamment autour des XIIe et XIIIe siècles (communément appelées aetas ovidiana pour les distinguer des aetates précédentes, la virgilienne du VIIIe  au  IXe siècle et l'horatienne du Xe  au  XIe siècle), le corpus érotique d'Ovide, composé des Amores, de l'Ars amandi, de la Remedia amoris, des épîtres des Héroïdes et d'un nombre d'œuvres pseudo-ovidiennes, est particulièrement répandu. C'est entre le XIIIe et le XIVe siècle que la popularité des Métamorphoses d'Ovide s'est progressivement imposée à sa production érotique. On trouve par exemple des références explicites aux Métamorphoses dans l'œuvre de grands poètes de la littérature italienne comme Cino da Pistoia et Dante Alighieri. En effet, les Métamorphoses d'Ovide ont largement influencé la Commedia de Dante, l'un des textes les plus importants de la littérature italienne. La Commedia est caractérisée précisément par la quantité et la variété des références au texte du poète latin. Au niveau micro-textuel, Ovide offre à Dante tout un inventaire d'exemples et d'expressions que le poète florentin reprend et retravaille. Au niveau macro-textuel, Dante s'approprie et « christianise » un concept fondamental d'Ovide, la mutation perpétuelle de toute chose, idée qui, dans la Commedia de Dante, renvoie notamment à la mutation des âmes après la mort et à la mutation de Dante lui-même à travers son voyage dans l'au-delà.
+En 1333, Arrigo Simintendi da Prato composa la première traduction italienne des Métamorphoses.
+Vers le milieu du XIVe siècle, Pétrarque s’est également inspiré de l'exemple ovidien dans ses œuvres, dispersant des fragments d'histoires et de thèmes ovidiens dans ses poèmes.
+La postérité des Métamorphoses d'Ovide au Moyen Âge est aussi marquée par la parution des "Ovide moralisés". Le XIVe siècle correspond à l'apogée de cette littérature. À cette époque, est composé L'Ovide moralisé, une traduction anonyme des Métamorphoses qui amplifie le texte latin et lui ajoute des commentaires expliquant chacune des histoires dans un sens allégorique. De la même manière, en Italie, probablement autour de 1375-1377, Giovanni Bonsignori a traduit en langue vernaculaire les Métamorphoses « in breve sermone », c'est-à-dire en abrégé, proposant un bref résumé de chaque épisode et y ajoutant une explication des prétendues allégories morales dissimulées dans le récit. La version de Bonsignori peut être considérée comme une traduction, ici et là augmentée ou réduite, des allégories ovidiennes que Giovanni del Virgilio avait écrites en latin.
+
+
+=== À l'époque moderne ===
+Dans le contexte de l'Italie de la Renaissance, les Métamorphoses d'Ovide ont été l'une des lectures les plus populaires et les éditions imprimées se sont multipliées, tant en latin que, très vite, en langue vernaculaire, ce qui a encore stimulé la diffusion du texte. Déjà en 1471, respectivement à Bologne et à Rome, Baldassarre Azzoguidi, premier imprimeur bolonais, et Arnold Pannartz et Konrad Sweynheim, moines et imprimeurs, en publient deux éditions en latin. À Venise, en 1497, a été publié par Giovanni Rosso de Vercelli une traduction en langue vernaculaire et en abrégé des Métamorphoses par Giovanni Bonsignori. L'iconographie des illustrations qui accompagnent le texte a été réalisée en suivant le texte vernaculaire et en représentant différents moments de la même narration dans des scènes individuelles. Cette célèbre édition a été réimprimée à plusieurs reprises, par exemple par Lucantonio Giunti en 1501 et 1508 et à nouveau à Venise en 1517 et 1523 par Giorgio de' Rusconi. Une autre version vulgarisée des Métamorphoses est celle très célèbre de Giovanni Andrea dell'Anguillara, publiée à Venise par Giovanni Griffio en 1561. Anguillara ne reste pas non plus totalement fidèle au texte original, mais invente de nouvelles fables en retravaillant librement les parties originales du texte. Diverses critiques lui sont donc adressées, soulignant de manière polémique le manque de fidélité de la version au poème d'Ovide. De toute façon, plusieurs rééditions du texte d'Anguillara ont été publiées en Italie au cours des années suivantes. Par exemple, Francesco de' Franceschi en publie une version en 1563, suivie en 1572 d'une deuxième et en 1575 d’une troisième. L’imprimeur Bernardo Giunti a également publié en 1584 une édition des Métamorphoses par Anguillara. Le volume contient un portrait d'Anguillara lui-même, un frontispice gravé et quinze planches à pleine page par le graveur Giacomo Franco au début de chaque chapitre. Chaque planche rassemble, dans un riche cadre architectural, divers épisodes de la narration d'Ovide liés à des événements de l'histoire romaine et de la mythologie de l'antiquité. La fortune de la version d’Anguillara encore au tournant du siècle est attestée par une autre publication, à nouveau par Bernardo Giunti, en 1592. Il s’agit d’une réimpression fidèle de celle de 1584 en ce qui concerne le texte, mais très différente en ce qui est de l'appareil iconographique : les gravures de Giacomo Franco ont été remplacées, pour des raisons inconnues, par de médiocres illustrations gravées sur bois par un auteur anonyme. Finalement, il est important de mentionner la traduction des Métamorphoses par Lodovico Dolce, que l’auteur publie sous le titre Les transformations. La première et la deuxième éditions sont toutes les deux publiées à Venise en 1553 par Gabriel Giolito. La première édition était ornée de 94 gravures sur bois, alors que, dans la deuxième édition, remaniée et dotée d'une bordure décorative, la chiffre descend à 85.
+Dans la première moitié du XVIIe siècle, les Métamorphoses inspirèrent deux œuvres au poète baroque espagnol Luis de Góngora, la Fable de Pyrame et Thisbé et Fable de Polyphème et Galatée.
+La deuxième moitié du XVIIe siècle marque une mutation dans la conception et les usages faits des Métamorphoses d’Ovide. La traduction commentée de Pierre du Ryer est une des dernières grandes éditions érudites, dans la veine de celle de Nicolas Renouard en début de siècle. En 1617, Renouard publie un ouvrage illustré de vignettes gravées. Donc, à partir des années 1650, la portée morale des récits est parfois annihilée dans des ouvrages parodiques comme celui de Louis Richier, Ovide Bouffon. Dans sa dédicace au comte de Saint Aignan, Richier justifie la perspective burlesque de son œuvre, « Pour le regard d’Ovide, je ne crois pas luy faire tort de traiter en burlesque un sujet qui n’a rien de serieux que dans l’esprit de nos mythologistes ». En parallèle de ce mouvement de réécriture parodique, se développe une conception galante et lyrique de la lecture des Métamorphoses. Le portrait d’Ovide de Mademoiselle de Scudéry dans Clélie le place comme source et modèle à suivre de l’esthétique poétique amoureuse.
+En 1671, Nicolas de Fer édite un Jeu des Métamorphoses d’Ovide. Ce jeu de cinquante-deux peut servir à jouer aux cartes ou au jeu de l’oie. Sur chacune des cartes, Cochin a gravé la scène capitale de la métamorphose de la carte, accompagnée d’un bref récit. L’utilisation des fables d’Ovide comme support ludique rompt avec la tradition érudite des commentaires des Métamorphoses. « Un rapport de familiarité avec Ovide » est établi, sans délaisser l’aspect pédagogique de la fable.
+Aux XVIIe et XVIIIe siècles, les Métamorphoses sont l'inépuisable source d'innombrables œuvres lyriques, de Lully à Gluck et Grétry en passant par Haendel, Dittersdorf ouRameau.
+Les Métamorphoses d'Ovide, en latin et en françois est une édition in-quarto en quatre volumes publiés entre 1767 et 1771 chez Noël-Jacques Pissot et traduite par l'abbé Banier de l'Académie royale des Inscriptions & Belles-Lettres. La publication fait date grâce au nombre important de planches et à la qualité des illustrations qui furent données par les plus grands dessinateurs de l'époque dont François Boucher, Charles Eisen, Hubert-François Bourguignon dit Gravelot et Jean-Michel Moreau le Jeune entre autres. Pierre-François Basan et Noël Le Mire assurèrent la traduction gravée de l'ensemble.
+Au début du XIXe siècle, le livre d'Ovide influence fortement le poète panthéiste Maurice de Guérin.
+
+
+=== À l'époque contemporaine ===
+La Métamorphose, nouvelle de Franz Kafka publiée pour la première fois en 1915.
+En 1951, le compositeur britannique Benjamin Britten compose six pièces pour hautbois intitulées Six métamorphoses d'après Ovide. Elles s'inspirent des métamorphoses de six personnages : Pan, Phaéton, Niobé, Bacchus, Narcisse et Aréthuse.
+En 1971, le groupe anglais de musique rock progressive Genesis publie l'album Nursery Cryme où figure le morceau The Fountain of Salmacis, qui parle d'Hermaphrodite, le fils de Mercure et de Venus, et de la malédiction jetée sur lui à la suite de sa relation avec la nymphe Salmacis.
+En 2000, l'artiste japonaise Yoko Tawada écrit Opium pour Ovide, une adaptation contemporaine de 22 des Métamorphoses d'Ovide à des femmes allemandes d'aujourd'hui.
+Le collectif LFKs et son metteur en scène, cinéaste, écrivain et plasticien Jean Michel Bruyère ont réalisé, sur le mythe de Diane et Actéon, une série de 600 courts-métrages et moyen-métrages, une installation 360° interactive, Si poteris narrare licet en 2002, une installation 360° en 3D La Dispersion du Fils (de 2008 à 2016) et une performance en plein air, Une Brutalité pastorale (2000).
+En 2006 la musicienne Patricia Barber a édité chez Blue Note Records Mythologies, un album consacré à sa vision des Métamorphoses.
+Les Métamorphoses d'Ovide, adaptation jeunesse par Laurence Gillot, Nathan, 2011.
+Le film Métamorphoses, du réalisateur français Christophe Honoré, sorti en 2014, s'inspire librement de quelques-uns des récits de métamorphoses qui figurent dans le poème d'Ovide.
+Les Métamorphoses ont également été une source d'inspiration majeure pour les artistes plasticiens à travers toute l’histoire de l’art. En 2014, l’historien de l’art Paul Barolsky, professeur d’Histoire de l’art et de la Renaissance italienne à l’Université de Virginie, a publié aux Presses Universitaires de Yale Ovid and the Metamorphoses of modern art from Botticelli to Picasso, ouvrage illustré consacré justement au traitement des Métamorphoses d’Ovide dans l’art. À la Renaissance, les Métamorphoses ont inspiré des peintres de la trempe de Antonio Pollaiuolo, Sandro Botticelli et Titien. L’époque baroque a été également investie par l'influence d'Ovide, avec des peintres comme Diego Vélasquez et Pierre Paul Rubens qui ont travaillé sur des thèmes issus du poème. Dans la sculpture baroque aussi, on remarque l'influence d'Ovide. Certains des célèbres marbres du Bernin sont directement inspirés des Métamorphoses d'Ovide. Par exemple, le célèbre groupe Apollon et Daphné, conservé à la Galerie Borghèse de Rome, représente le moment central de la fable des Métamorphoses (I, 450-567) où Daphné se transforme en laurier pour échapper à l'amour du dieu Apollon, qu'elle rejette. L'Enlèvement de Proserpine, aussi dans la Galleria Borghese, représente l'enlèvement de Proserpine par Pluton, dieu des Enfers : ce mythe, repris par divers auteurs classiques, est également présent chez Ovide. Le groupe Neptune et Triton, aujourd'hui conservé au Victoria & Albert Museum de Londres, s'inspire probablement du récit du déluge d'Ovide (Métamorphoses, Livre 1, 330-42), dans lequel Triton reçoit de Neptune l'ordre de souffler dans sa coquille pour inviter les eaux à se retirer, bien qu'une autre source littéraire probable pour l’épisode soit l'Énéide de Virgile (Livre 1, 135). Aux XIXe et XXe siècles, on retrouve les Métamorphoses chez, par exemple, Gustave Moreau (Jupiter et Sémélé), John William Waterhouse (Echo et Narcisse), Salvador Dalí (Métamorphose de Narcisse) et Pablo Picasso (Illustration des Métamorphoses par le peintre). L'héritage d'Ovide continue d'être apprécié et exploité même au XXIe siècle. En 2002, Anish Kapoor a construit une gigantesque installation titrée Marsyas en s'inspirant du livre 6 des Métamorphoses. La sculpture a été réalisée pour la série Unilever de la Tate Modern à Londres, un programme de commande annuel où un artiste est invité à réaliser une œuvre spécialement pour le Turbine Hall du musée. En 2012, Chris Ofili a présenté une peinture à grande échelle, to take and to give. Pour l'exposition Metamorphosis : Titien 2012, qui s'est tenue à la National Gallery de Londres. Lui, Conrad Shawcross et Mark Wallinger ont été invités à créer de nouvelles œuvres en contrepartie des grandes peintures mythologiques du Titien, Diane et Actéon, Diane et Callisto, et La mort d'Actéon, qui dépeignent toutes des histoires tirées des Métamorphoses. To take and to give a également été présenté dans l'exposition d'Ofili, également intitulée to take and to give, qui s'est tenue auprès de la galerie Victoria Miro du 6 octobre au 21 décembre 2012. Parallèlement, Ofili a travaillé avec des chorégraphes et des danseurs de la Royal Opera House sur les décors et les costumes du ballet Diana & Actaeon.
+L’artiste plasticien Jean-Claude Meynard, réalise en 2014-2015, une série d’expositions internationales en référence aux Métamorphoses d’Ovide. Sous l’intitulé « Métamorphoses, Hybrides et autres mutations », il crée un Bestiaire fractal à partir d'algorithmes de silhouettes humaines, une mythologie nouvelle en écho à la première phrase d'Ovide: « une métamorphose des formes en des corps nouveaux... ». En 2018, son livre « L’Animal fractal que je suis » développera largement ce concept. En 2015, une exposition a été organisée au Rijksmuseum Twenthe, utilisant des citations de l’œuvre d'Ovide comme cadre pour montrer comment les artistes contemporains réfléchissent à ces thèmes.
+
+
+== Notes et références ==
+
+
+== Voir aussi ==
+
+
+=== Bibliographie ===
+Amielle Ghislaine. Traduction picturale et traduction littéraire des Métamorphoses d'Ovide, en France, à la Renaissance. In: Bulletin de l'Association Guillaume Budé, no 3, octobre 1989. p. 280-293. DOI: https://doi.org/10.3406/bude.1989.1406
+(it) Massimo Colella, « Ti trasformasti in Dafne » : mythos ovidiano e metamorfosi nella poesia di Eugenio Montale, Italica (American Association of Teachers of Italian), 96, 1, 2019, p. 21–53.
+Jacqueline Fabre-Serris, Mythe et poésie dans les Métamorphoses d'Ovide : fonctions et significations de la mythologie dans la Rome augustéenne, Paris, Klincksieck, 1995, 425 p. (ISBN 978-2-252-02992-3)
+Rosalba Galvagno, Le Sacrifice du corps. Frayage du fantasme dans les Métamorphoses d'Ovide, Panoramitis, 1995 (ISBN 978-2-911040-05-4)
+Isabelle Jouteur, Jeux de genre : dans les Métamorphoses d'Ovide, Louvain-Paris, Peeters Publishers, 2001, 385 p. (ISBN 978-90-429-1071-3, lire en ligne)
+Jean-Pierre Néraudau, Ovide ou les Dissidences du poète, Paris, Hystrix, 1989 (ISBN 978-2-907783-01-9)
+Jean-Pierre Néraudau, préface des Métamorphoses, Gallimard, 1992
+Hélène Vial, La métamorphose dans les Métamorphoses d'Ovide : Étude sur l'art de la variation, Paris, Les Belles Lettres, coll. « Études anciennes Série latine », 2010, 527 p. (ISBN 978-2-251-32879-9)
+(en) Barbara Weiden Boyd, Brill's Companion to Ovid, Leiden-Boston-Köln, Brill, 2002, 533 p. (ISBN 978-90-04-12156-0)
+Charles Perrat, "Barthélémy Buyer et les débuts de l'imprimerie lyonnaise", Humanisme et Renaissance, t.II, 1935, p. 103-121; 234-275; 347-389.
+(en) Richard Treat Bruère, « The Manuscript Tradition of Ovid's Metamorphoses », Harvard Studies in Classical Philology, vol. 50,‎ 1939, p. 95-122.
+(en) Otto Steen Due, Changing Forms : Studies in the Metamorphoses of Ovid, Museum Tusculanum Press, 1974, 210 p. (ISBN 978-87-7289-088-3, lire en ligne)
+(en) Karl Galinsky, Ovid's Metamorphoses : An Introduction to the Basic Aspects, University of California Press, 1975, 285 p. (ISBN 978-0-520-02848-7, lire en ligne)
+Marianne Grivel, "Les graveurs en France au XVIe siècle", Les graveurs français de la Renaissance à la Bibliothèque nationale, Los Angeles, 1994, p. 33-57.
+(en) Sara Myers, « The Metamorphosis of a Poet: Recent Work on Ovid », The Journal of Roman Studies, vol. 89,‎ 1999, p. 190-204
+(en) Charles Paul Segal, Landscape in Ovid’s Metamorphoses : A study in the transformations of a literary symbol, Wiesbaden, 1968
+(en) Charles Paul Segal, « Ovid's Metamorphoses: Greek Myth in Augustan Rome », Studies in Philology, vol. 68, no 4,‎ octobre 1971, p. 371-394
+(en) Ann Moss, Ovid in Renaissance France. A survey of the Latin editions of Ovid and commentaries printed in France before 1600, Londres, Warburg Institute, 1982.
+(en) Joseph B. Solodow, The World of Ovid's Metamorphoses, Chapel Hill, UNC Press Books, 1988, 278 p. (ISBN 978-0-8078-5434-1)
+Marie-Claire Chatelain, Ovide savant, Ovide galant. Ovide en France dans la seconde moitié du XVIIe siècle, Paris, Honoré Champion, 2008.
+(en) Sophie Emilia Seidler, « Bitches and Witches : Grotesque Sexuality in Ovid's Scylla (Metamorphoses 13.730-14.74) », Acta Iassyensia Comparationis, no 29 « Les monstres dans la littérature »,‎ 2022, p. 13-24 (ISSN 2285-3871, lire en ligne).
+(it) Leyla M. G. Livraghi, « Due usi di Ovidio a confronto in Cino da Pistoia lirico (Se mai leggesti versi de l’Ovidi & Amor, che viene armato a doppio dardo) », in Arzanà [En ligne], 19 | 2017, mis en ligne le 23 octobre 2017, consulté le 22 décembre 2023. URL: http://journals.openedition.org/arzana/1018; DOI: https://doi.org/10.4000/arzana.1018
+(en) Julie Van Peteghem, « Something Old, Something New: Dante, Cino da Pistoia, Ovid », in Italian Readers of Ovid from the Origins to Petrarch, 2020, Brill: Leiden, p. 124-168.
+(it) Eszter Draskóczy, « Metamorfosi, allusioni ovidiane e strutture antitetiche nella Commedia di Dante », Tesi di dottorato: prospetto della tesi, Università degli Studi di Szeged Facoltà di Lettere e Filosofia, Szeged, Alma Mater Studiorum Università di Bologna, Bologna, 2014, consulté le 07 janvier 2024. URL: https://doktori.bibl.u-szeged.hu/id/eprint/2314/2/draskoczy%20eszter-olasz%20tezisek.pdf.
+(it) C. Marchesi, Le allegorie ovidiane di Giovanni del Virgilio, in Studi romanzi, VI, 1909, p. 119-27, 132-35.
+(en) Paul Barolsky, Ovid and the metamorphoses of modern art from Botticelli to Picasso, Yale University Press, 2014, XVIII-250 pages,  (ISBN 978-0-300-19669-6).
+(en) Tim Smith-Laing, « Ovid’s Metamorphoses is the ultimate sourcebook for artists », in Apollo [En ligne], 22 avril 2017, consulté le 03 janvier 2024. URL: https://www.apollo-magazine.com/ovids-metamorphoses-is-the-ultimate-sourcebook-for-artists/.
+(it) Bernini, catalogo della mostra (Roma, Galleria Borghese, 2017-2018), a cura di A. Bacchi, A. Coliva, Milano, 2017.
+(it) I gruppi monumentali borghesiani, in Bernini scultore: la tecnica esecutiva, a cura di A. Coliva, Roma 2002.
+(en) Rosemary Barrow, « Epilogue: Bernini’s ‘Neptune and Triton’ », in Michael Silk, Gender, Identity and the Body in Greek and Roman Sculpture, Cambridge University Press, 2018.
+(en) L. Armstrong, Benedetto Bordon, Aldus Manutius and L. Giunta. Old links and new, in Aldus Manutius and Renaissance culture. Essays in memory of Franklin D. Murphy, Florence, 1998.
+(it) G. Brambilla, Le trasformazioni di Ovidio e i traduttori di esse, in Il Politecnico, XVIII, 1863.
+Henri Lamarque, André Baïche, Ovide en France dans la renaissance, Cahiers de l'Europe classique et néo-latine vol. 1,Toulouse: Service des publications de l’Université de Toulouse-Le Mirail, 1981.
+Basil Nelis, « D’un Ovide chrétien à un Ovide burlesque, du Moyen Âge au Grand Siècle : continuités et changements dans la traduction et dans l’illustration des Métamorphoses perçus à travers deux éditions du XVIIe siècle », Anabases, No 30, 2019, p. 143-160.
+Ana Paula Rebelo Correia, « Les représentations des Métamorphoses d’Ovide dans les azulejos baroques portugais. Influence des modèles gravés français », Anabases, No 29, 2019.
+Donald Stone, Jr., « La Métamorphose d'Ovide figurée de Bernard Salomon : quelques sources », Nouvelles de l'estampe, No 15, mai-juin 1974, p. 10-12.
+Gerlinde Huber-Rebenich, Sabine Lutkemeyer, Hermann Walter, Ikonographisches Repertorium zu den Metamorphosen des Ovide : die textbegleitende Druckgraphik, Berlin, 2004.
+Amielle, Ghislaine, Recherches sur des traductions françaises des Métamorphoses d’Ovide, illustrées et publiées en France à la fin du XVe siècle et au XVIe siècle, Paris, J. Touzot, 1989.
+Barchiesi, Alessandro, « Voci e istanze narrativi nelle Metamorfosi di Ovidio », Materiali e discussioni per l'analisi dei testi classici 23, Pise, Fabrizio Serra Editore, p. 55-97, 1989.
+Barchiesi, Alessandro, The Poet and the Prince: Ovid and Augustan Discourse, Berkeley, University of California Press, 1997.
+Barchiesi, Alessandro, Speaking Volumes: Narrative and Intertext in Ovid and other Latin Poets, Duckworth, Londres, 2001.
+Barchiesi, Alessandro (coordinateur), Ovidio : Metamorfosi, Milan, Fondatione Lorenzo Valla, Arnoldo Mondadori Editore, 6 volumes, 2005-2015.
+Biancardi, Simone, Deleville, Prune, Montorsi, Francesco et Possamaï-Pérez Marylène (dir.), Ovidius explanatus. Traduire et commenter les Métamorphoses au Moyen Âge, Paris, Classiques Garnier, 2018.
+Brown, Sarah Annes, The Metamorphosis of Ovid. From Chaucer to Ted Hughes, Londres, Duckworth, 1999.
+Casanova-Robin, Hélène, Diane et Actéon. Éclats et reflets d’un mythe à la Renaissance et à l’âge baroque, Paris, Honoré Champion, 2003.
+Clément-Tarantino, Séverine et Klein, Florence (eds.), La représentation du « couple » Virgile-Ovide dans la tradition culturelle de l’Antiquité à nos jours, Villeneuve d'Ascq, Presses Universitaires du Septentrion, 2016.
+Julie Coleman, « Ovid's Metamorphoses illustrated by Virgil Solis », University of Glasgow, Library, Special collections, Book of the Month, septembre 1999.
+Coulson, Frank-T, « An Update to Munari’s Catalogue of the Manuscripts of Ovid’s Metamorphoses », Scriptorium 42, no 1, Bruxelles, Centre d'Études des Manuscrits ASBL, 1988 p. 111-112.
+D’Amico, Silvia, et Catherine Magnien-Simonin (éd.), Gabriele Simeoni (1509-1570?). Un Florentin en France entre princes et libraires. Travaux d’Humanisme et Renaissance 568, Genève, Librairie Droz, 2016.
+Fabre-Serris, Jacqueline, Mythe et poésie dans les Métamorphoses d’Ovide. Fonctions et significations de la mythologie dans la Rome augustéenne, Paris, 1995.
+Gambino Longo, Susanna, « L'Ovide de Symeoni », dans D'Amico et Magnien-Simonin (éds), p. 201-213.
+Hardie, Philip, The Cambridge Companion to Ovid, Cambridge, Cambridge University Press, 2002.
+Hinds, Stephen, The Metamorphosis of Persephone. Ovid and the Self-conscious Muse, Cambridge, Cambridge University Press, 1987.
+Maréchaux, Pierre, « Les métamorphoses de Phaëton : étude sur les illustrations d’un mythe à travers les éditions des « Métamorphoses » d’Ovide de 1484 à 1552 », Revue de l’Art 90, no 1, Paris, CNRS Editions, 1990, p. 88-103.
+Moss, Ann, Latin commentaries from the Renaissance, Signal Mountain, Tenn., Summertown for The Library for Renaissance Humanism, 1998.
+Paulian, Claire, Les Métamorphoses d’Ovide aujourd’hui : une mémoire en déplacement, Paris, Classiques Garnier, 2019.
+Possamaï-Pérez, Marylène, L’Ovide moralisé, Paris, Honoré Champion, 2006.
+Saby, Frédéric, « L’illustration des Métamorphoses d’Ovide à Lyon (1510-1512) : la circulation des images entre France et Italie à la Renaissance », Bibliothèque de l’École des Chartes 158, no 1, Paris Genève, Société de l'École des Chartes, 2000, p. 11-26.
+Wheeler, Stephen M. (1999), A Discourse of Wonders, Audience and Performance in Ovid’s Metamorphoses, University of Pennsylvania Press, Philadelphia.
+Wheeler, Stephen M., Narrative Dynamics in Ovid’s Metamorphoses, Tübingen, Gunter Narr, 2000.
+Ziolkowski, Theodore, Ovid and the Moderns, Ithaca, Cornell University Press, 2005.
+Séverine Clément-Tarantino, Florence Klein, Claire Paulian, « Lire les métamorphoses d'Ovide », cat. ex. virtuelle, NuBIS, Paris, Bibliothèque interuniversitaire de la Sorbonne.
+
+
+=== Liens externes ===
+
+Ressources relatives à la littérature : Archives de littérature du Moyen Âge Internet Speculative Fiction Database 
+Ressource relative à la musique : MusicBrainz (œuvres)  
+
+(la) Texte en latin en ligne sur The Latin Library.
+(la + fr) Traduction juxtalinéaire annotée d'Anne-Marie Boxus et Jacques Poucet (2005-2009) sur Biblioteca Classica Selecta.
+Cours et documents sur les Métamorphoses
+Conférence Ovide et les Mythes par Mme Bremond
+Conférence sur les livres X, XI et XII par Mme Dupont
+Lire les Métamorphoses d'Ovide, exposition virtuelle sur NuBIS, Bibliothèque interuniversitaire de la Sorbonne.
+
+ Portail de la poésie   Portail de la mythologie grecque   Portail de la mythologie romaine

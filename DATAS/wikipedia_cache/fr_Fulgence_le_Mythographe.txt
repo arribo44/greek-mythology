@@ -1,0 +1,69 @@
+Fabius Planciades Fulgentius, dit « Fulgence le Mythographe », est un auteur latin du Ve siècle ou VIe siècle dont les dates ainsi que la biographie font l'objet de nombreuses hypothèses et débats depuis le Moyen Âge. Il est notamment question de savoir si Fulgence le Mythographe est la même personne que Fulgence de Ruspe, l'évêque connu pour son combat contre les Ariens, et qui vécut de 468 à 533.
+
+
+== Tentative de datation ==
+Si l'on s'en tient aux éléments de l'œuvre de Fulgence qui permettent d'établir de façon certaine un terminus post quem et un terminus ante quo, l'intervalle obtenu ne permet guère de situer précisément l'époque de Fulgence : on sait en effet avec certitude qu'il écrivit entre 363 (date de l'accession au trône de l'empereur Valentinien Ier, à laquelle il fait allusion dans le De aetatibus, p. 179.10) et environ 800 (car on trouve des échos sans ambiguïté dans les Libri Carolini). Aucun détail vraiment assuré ne permet de préciser cet intervalle de plus de 400 ans. On peut toutefois insister sur le fait que Fulgence fait allusion à Martianus Capella, qu'il désigne sous le nom de Felix Capella dans l'Expositio sermonum antiquiorum (1, 45, p. 123, l. 4 Helm, Leipzig, Teubner, 1898 : unde et Felix Capella in libro de nuptiis Mercurii et Philologiae ait…). Mais les dates de Martianus sont elles aussi incertaines : on le situe soit entre 410 et 439, soit dans les années 480. Par ailleurs, les quelques parallèles entre Fulgence et Dracontius (on peut notamment comparer Drac. Laud. 2, 391-4 et Fulg. Æt. p. 136.5) ne permettent pas d'établir avec certitude lequel des deux auteurs s'est inspiré de l'autre. En ce qui concerne l'origine géographique, l'adjectif Libycus, employé par Fulgence pour désigner sa langue natale (Aet. 131, 5-14), semble indiquer une origine africaine. Par ailleurs, la dédicace des Mitologiae à un certain Catus, prêtre de Carthage, semble confirmer cette localisation géographique.
+Quoi qu'il en soit, ces rapprochements littéraires (en particulier avec Martianus et Dracontius), ainsi que le style et la langue de Fulgence (caractéristique des rhéteurs africains tardo-antiques, avec un goût pour les hapax, les hellénismes et l'attention au rythme de la prose) permettent de considérer Fulgence, avec une certaine probabilité, comme un auteur africain de la fin du Ve ou du début du VIe siècle, écrivant vraisemblablement dans le contexte de la « renaissance vandale » (c'est-à-dire de la renaissance culturelle, et en particulier littéraire, à partir des années 480).
+Il convient toutefois de mentionner ici une hypothèse récente, de G. Hays (dans le Journal of Medieval Latin, 2003), qui rapproche un passage du prologue des Mitologiae de Fulgence d'un passage de la Johannide de Corippe (VIII, 278), et pense pouvoir prouver que Fulgence imite Corippe, ce qui donnerait pour notre auteur un terminus post quem dans les années 550 (donc après la libération de Carthage par la flotte byzantine).
+Enfin, comme pour de nombreux auteurs de cette période, on peut poser la question du christianisme de Fulgence : on s'accorde généralement pour dire que Fulgence le Mythographe était chrétien, et on se fonde pour cela sur le vocabulaire (qui est typiquement celui des auteurs chrétiens africains) et sur le fait que son œuvre ait été utilisée au Moyen Âge pour accréditer l'hypothèse d'une interprétation allégorique chrétienne des poètes antiques. Certaines allusions permettent par ailleurs d'étayer cette hypothèse :  on trouve ainsi des références à l'Antéchrist (Mitol. III, 1, 59), à Adam (ibid., III, 6, 69, 15–17) ainsi qu'au Christ (Expos. 87, 7–10).
+
+
+== Le problème des deux Fulgence ==
+Tous ces éléments — dates supposées, localisation et religion chrétienne — ont donc incité rapidement à une assimilation de Fulgence le Mythographe avec un autre Fulgence, beaucoup mieux connu, qui vécut de 468 à 533, et fut évêque de Ruspe (on connaît relativement bien sa vie, et l'on conserve beaucoup de ses écrits, en particulier les controverses contre les Ariens).
+Dès le IXe siècle, et pendant tout le Moyen Âge, les auteurs pensaient qu'il n'y avait eu qu'un seul Fulgence, et cette identification n'a été remise en cause qu'avec l'édition des œuvres de Fulgence de Ruspe par A. Molanus, en 1573. Toutefois, la question a été à nouveau posée au XIXe siècle, lorsque R. Helm publia quatre études dans lesquelles il affirmait qu'il s'agissait bien d'une seule et même personne ; cette hypothèse fut reprise par O. Friebel, mais peu après M. Schanz et P. Hosius estimèrent que leurs arguments n'étaient guère probants.
+Dans les recherches actuelles, cette question n'a pas été tranchée de manière définitive, même si dans l'ensemble on s'accorde aujourd'hui pour voir deux personnes différentes dans Fulgence le Mythographe et Fulgence de Ruspe (cependant, dans les années 1960, P. Langlois a affirmé de nouveau l'identité des deux auteurs). De fait, en l'absence d'éléments précis sur l'identité de Fulgence le Mythographe, il n'existe pas d'élément permettant de trancher nettement pour l'une ou l'autre thèse : l'un des arguments souvent évoqués pour rejeter l'identification est que l'évêque Fulgence de Ruspe, connu pour le caractère sérieux et grave de ses écrits anti-ariens, n'aurait pas pu écrire les textes empreints de fantaisie qui constituent l'œuvre de Fulgence le Mythographe. Mais on peut également retourner l'argument en proposant de voir dans les textes du Mythographe des écrits de jeunesse de l'évêque.
+La datation proposée par G. Hays à cause du rapprochement avec un passage de Corippe (voir plus haut, dans le paragraphe sur la datation), qui tendrait à situer Fulgence le Mythographe dans les années 550, permettrait de trancher en faveur d'une distinction des deux auteurs, puisque Fulgence de Ruspe est mort en 533.
+
+
+== Les œuvres de Fulgence le Mythographe ==
+On conserve quatre œuvres que l'on peut avec certitude attribuer à Fulgence le Mythographe : trois d'entre elles nous ont été transmises par les manuscrits sous le nom de Fulgentius Fabius Planciades, et une autre — le De ætatibus mundi et hominis — sous le nom de Fabius Claudius Gordianus Fulgentius, mais on admet généralement qu'il s'agit du même auteur ; enfin, le commentaire grammatical Super Thebaiden, attribué à « S. Fulgentius Episcopus », est généralement considéré dans les recherches actuelles comme un faux médiéval datant du XIIIe siècle.
+
+
+=== Les Mitologiarum libri tres ===
+Les Mitologiarum libri sont dédiés à un prêtre de Carthage, nommé Catus ; l'auteur s'y représente en train de discuter avec la muse Calliope ; après une préface en forme de prosimetrum, Fulgence évoque dans le livre I les mythes concernant les dieux olympiens, et présente d'autres mythes, sans ordre véritable, dans les livres II et III. Cette explication des mythes, teintée de stoïcisme et de néoplatonisme, est intéressante par son utilisation de l'étymologie au service de l'interprétation allégorique.
+Bien que Fulgence soit un auteur chrétien (on peut voir dans plusieurs interprétations allégoriques un sens chrétien), on remarque qu'il fait un usage abondant de sources païennes, notamment par la compilation de l'explication stoïco-néoplatonicienne des mythes (les dieux considérés tantôt comme des symboles cosmiques, tantôt comme des allégories). Fulgence souligne toutefois que la vie contemplative est celle des prêtres et des moines, alors qu'autrefois elle était celle des philosophes. On insistera enfin sur la culture littéraire et philosophique dont témoignent les Mitologiæ : ce livre semble en effet être le dernier témoin d'une lecture approfondie du Songe de Scipion de Cicéron en Afrique, et Fulgence paraît connaître et adapter à son point de vue de chrétien certaines thèses du Commentaire au Songe de Scipion de Macrobe.
+
+
+=== L’Expositio Virgilianæ continentiæ secundum philosophos moralis ===
+L’Expositio Virgilianæ continentiae secundum philosophos moralis (titre que les manuscrits donnent à l'œuvre, mais qui n'est certainement pas d'origine) : Virgile apparaît à l'auteur, et lui révèle le sens caché de l’Énéide. Après avoir insisté sur la profondeur symbolique du premier vers de l'Énéide (arma, id est uirtus, correspond à la substantia corporis, uir, id est sapientia, à la substantia sensualis, et primus, id est princeps à la substantia censualis, autrement dit les trois premiers mots de l’Énéide correspondent aux trois degrés de la vie humaine: nature, science, bonheur), ce commentaire du poème virgilien présente les périples d'Énée comme une allégorie de la vie humaine — au périple géographique d'Énée, Fulgence fait correspondre un itinéraire existentiel : natiuitas, infantia, adulescentia, iuuentus et grauitas —, et il superpose à cette allégorie un schéma d'interprétation néoplatonicien, en voyant dans l’Énéide un passage ontologique du domaine physique (substantia corporalis, dans les livres I à IV) au domaine intelligible (substantia sensualis, dans les livres V et VI) puis éthique (substantia censualis, dans les livres VII à XII). Cette œuvre de Fulgence a eu une influence considérable sur le Moyen Âge : elle est à l'origine du commentaire allégorique à l’Énéide attribué à Bernard Silvestre, et on peut penser qu'elle a inspiré Dante directement ou indirectement.
+
+
+=== L'Expositio sermonum antiquorum ===
+L'Expositio sermonum antiquorum est un opuscule où Fulgence explique le sens de 62 mots latins rares, en proposant des citations d'auteurs de Démosthène à Martianus Capella (citations qui paraissent inventées pour une partie d'entre elles).
+
+
+=== Le De ætatibus mundi et hominis (Des âges du monde et des hommes) ===
+Le De ætatibus mundi et hominis (qui n'est pas conservé dans les mêmes manuscrits que les trois premières œuvres) comporte 14 sections qui retracent l'histoire des hommes des origines à 363 ap. J.-C. : les sections I à IX couvrent l'histoire biblique, la section X présente la carrière d'Alexandre le Grand, la section XI l'histoire de la Rome républicaine, les sections XII et XIII la vie du Christ et des apôtres, et la section XIV l'histoire de la Rome impériale, jusqu'à la mort de Julien et l'accession au trône de Valentinien Ier.
+On remarque que les passages sur l'histoire romaine sont violemment hostiles aux Romains, ce qui indique que l'auteur, romain lui-même, adopte à l'égard de l'expansion de la puissance romaine le point de vue critique qui fut celui des chrétiens. Mais l'intérêt de cette œuvre vient avant tout du jeu stylistique « lipogrammatique », digne de la Disparition de Perec, qui y est employé : dans chacune des sections, l'auteur a fait disparaître la lettre de l'alphabet correspondante (ainsi le récit de la chute, dans la première section, est réalisé entièrement sans A, le récit du déluge, sans B, et ainsi de suite, jusqu'à l'histoire de la Rome impériale, présentée sans O).
+
+
+=== Le commentaire Super Thebaiden ===
+Il s'agit d'un commentaire à la Thébaïde de Stace. On y trouve un rapprochement entre l’Énéide et la Thébaïde, ainsi que des interprétations assez proches de ce que l'on a dans l'Expositio Vergilianæ continentiæ, et le même goût pour les étymologies fantaisistes. On admet généralement que cette œuvre est un faux du XIIe siècle, mais là encore, aucun argument véritablement déterminant ne permet de trancher.
+
+
+=== Œuvres perdues ===
+On doit peut-être ajouter à ces œuvres des poésies de jeunesse (comme l'indique la préface des Mitologiae), ainsi qu'un commentaire sur les deux premiers livres de Martianus Capella.
+
+
+== Voir aussi ==
+
+
+=== Bibliographie ===
+Fulgence, Virgile dévoilé, traduit, présenté et annoté par Étienne Wolff, édition bilingue latin-français, Villeneuve-d'Ascq, Presses universitaires du Septentrion, 2009 (traduction de l’Expositio Virgiliana).
+Fulgence, Mythologies, traduit, présenté et annoté par Étienne Wolff et Philippe Dain, édition bilingue latin-français, Villeneuve-d'Ascq, Presses universitaires du Septentrion, 2013, 204 p.  (ISBN 978-2-7574-0417-1)
+
+
+=== Articles connexes ===
+Fulgence de Ruspe
+John Ridewall
+
+
+=== Liens externes ===
+
+Ressources relatives à la littérature : Archives de littérature du Moyen Âge Internet Speculative Fiction Database 
+Ressource relative à la musique : Grove Music Online 
+Ressource relative aux beaux-arts : Biblissima 
+Ressource relative à la recherche : ALCUIN  
+
+(en) Bibliographie, Gregory Hays, University of Virginia
+ Portail de la mythologie   Portail du christianisme   Portail du Maghreb

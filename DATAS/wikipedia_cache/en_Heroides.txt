@@ -1,0 +1,126 @@
+The Heroides (The Heroines), or Epistulae Heroidum (Letters of Heroines), is a collection of fifteen epistolary poems composed by Ovid in Latin elegiac couplets and presented as though written by a selection of aggrieved heroines of Greek and Roman mythology in address to their heroic lovers who have in some way mistreated, neglected, or abandoned them. A further set of six poems, widely known as the Double Heroides and numbered 16 to 21 in modern scholarly editions, follows these individual letters and presents three separate exchanges of paired epistles: one each from a heroic lover to his absent beloved and from the heroine in return.
+The Heroides were long held in low esteem by literary scholars but, like other works by Ovid, were re-evaluated more positively in the late 20th century. Arguably some of Ovid's most influential works (see below), one point that has greatly contributed to their mystique—and to the reverberations they have produced within the writings of later generations—is directly attributable to Ovid himself. In the third book of his Ars Amatoria, Ovid argues that in writing these fictional epistolary poems in the personae of famous heroines, rather than from a first-person perspective, he created an entirely new literary genre. Recommending parts of his poetic output as suitable reading material to his assumed audience of Roman women, Ovid wrote of his Heroides: vel tibi composita cantetur Epistola voce: / ignotum hoc aliis ille novavit opus (Ars Amatoria 3.345–6: "Or let an Epistle be sung out by you in practiced voice: he [sc. Ovid] originated this sort of composition, which was unknown to others"). The full extent of Ovid's originality in this matter has been a point of scholarly contention: E. J. Kenney, for instance, notes that "novavit is ambiguous: either 'invented' or 'renewed', cunningly obscuring without explicitly disclaiming O[vid]'s debt to Propertius' Arethusa (4.3) for the original idea." In spite of various interpretations of Propertius 4.3, consensus nevertheless concedes to Ovid much of the credit in the thorough exploration of what was then a highly innovative poetic form.
+
+
+== Dating and authenticity ==
+The exact dating of the Heroides, as with the overall chronology of the Ovidian corpus, remains a matter of debate. As Peter E. Knox notes, "[t]here is no consensus about the relative chronology of this [sc. early] phase of O[vid]'s career," a position which has not advanced significantly since that comment was made. Exact dating is hindered not only by a lack of evidence, but by the fact that much of what is known at all comes from Ovid's own poetry. One passage in the second book of Ovid's Amores (Am.) has been adduced especially often in this context:
+
+Knox notes that "[t]his passage ... provides the only external evidence for the date of composition of the Heroides listed here. The only collection of Heroides attested by O[vid] therefore antedates at least the second edition of the Amores (c. 2 BC), and probably the first (c. 16 BC) ..." On this view, the most probable date of composition for at least the majority of the collection of single Heroides ranges between c. 25 and 16 BC, if indeed their eventual publication predated that of the assumed first edition of the Amores in that latter year. Regardless of absolute dating, the evidence nonetheless suggests that the single Heroides represent some of Ovid's earliest poetic efforts.
+Questions of authenticity, however, have often inhibited the literary appreciation of these poems. Joseph Farrell identifies three distinct issues of importance to the collection in this regard: (1) individual interpolations within single poems, (2) the authorship of entire poems by a possible Ovidian impersonator, and (3) the relation of the Double Heroides to the singles, coupled with the authenticity of that secondary collection. Discussion of these issues has been a focus, even if tangentially, of many treatments of the Heroides.
+As an example following these lines, for some time scholars debated over whether this passage from the Amores—corroborating, as it does, only the existence of Her. 1–2, 4–7, 10–11, and very possibly of 12, 13, and 15—could be cited fairly as evidence for the inauthenticity of at least the letters of Briseis (3), Hermione (8), Deianira (9), and Hypermnestra (14), if not also those of Medea (12), Laodamia (13), and Sappho (15). Stephen Hinds argues, however, that this list constitutes only a poetic catalogue, in which there was no need for Ovid to have enumerated every individual epistle. This assertion has been widely persuasive, and the tendency amongst scholarly readings of the later 1990s and following has been towards careful and insightful literary explication of individual letters, either proceeding under the assumption of, or with an eye towards proving, Ovidian authorship. Other studies, eschewing direct engagement with this issue in favour of highlighting the more ingenious elements—and thereby demonstrating the high value—of individual poems in the collection, have essentially subsumed the authenticity debate, implicating it through a tacit equation of high literary quality with Ovidian authorship. This trend is visible especially in the most recent monographs on the Heroides. On the other hand, some scholars have taken a completely different route, ascribing the whole collection to one or two Ovidian imitators (the catalogue in Am. 2.18, as well as Ars am. 3.345–6 and Epistulae ex Ponto 4.16.13–14, would then be interpolations introduced to establish the imitations as authentic Ovid).
+
+
+== The collection ==
+The paired letters of the Double Heroides are not outlined here: see the article Double Heroides for the double epistles (16–21).
+
+Epistula I. Penelope writes to her famed husband, Odysseus, a hero of the Trojan War, towards the end of his long absence (the subject of Homer's Odyssey).
+Epistula II. Phyllis, the daughter of Lycurgus, writes to her lover Demophoon, the son of Theseus, king of Athens, after he fails in his promised return from his homeland.
+Epistula III. Briseis, the daughter of Briseus, writes to Achilles, the central hero of the Trojan War and focal character of Homer's Iliad, urging him to accept her as part of a package-deal from Agamemnon, leader of the Greek forces at Troy, and to return to battle against the Trojans.
+Epistula IV. Phaedra, wife of Theseus, writes to her stepson, Hippolytus, confessing her semi-incestuous and illicit love for him.
+Epistula V. The nymph Oenone, by Hellenistic tradition Paris' first wife, writes to Paris, son of Priam King of Troy, after he abandoned her to go on his famed journey to Sparta, and then returned with the abducted Helen of Sparta as a wife.
+Epistula VI. Hypsipyle, queen of Lemnos, to Jason, after he abandoned her for Medea.
+Epistula VII. Dido to Aeneas, on his departure to Italy.
+Epistula VIII. Hermione, daughter of Menelaus, to Orestes, son of Agamemnon and Clytemnestra, urging him to save her from marriage to Achilles' son, Pyrrhus.
+Epistula IX. Deianira, daughter of Oeneus, king of Aetolia, to her husband Hercules, after he laid down his weapons to be with Iole, the daughter of Eurytus, king of Oechalia.
+Epistula X. Ariadne to Theseus after he abandoned her on the island of Naxos on his way back to Athens. He does not marry Phaedra until later (see Epistle IV).
+Epistula XI. Canace, daughter of Aeolus, to her brother and lover, Macareus, before killing herself following the death of their baby at the hands of their father.
+Epistula XII. Medea to Jason, after he abandoned her to marry Creusa (also known as Glauce).
+Epistula XIII. Laodamia, the daughter of Acastus, to her husband Protesilaus, urging him not to take too many risks in the Greeks' attack on Troy.
+Epistula XIV. Hypermnestra to her husband, Lynceus, calling for him to save her from death at the hands of her father, Danaus.
+Epistula XV. Sappho to her ex-lover Phaon, after he left her.
+
+
+== Translations and influence ==
+The Heroides were popularized by the Loire valley poet Baudri of Bourgueil in the late eleventh century, and Héloïse used them as models in her famous letters to Peter Abelard.   A translation, Les Vingt et Une Epistres d'Ovide, was made of this work at the end of the 15th century by the French poet Octavien de Saint-Gelais, who later became Bishop of Angoulême. While Saint-Gelais' translation does not do full justice to the original, it introduced many non-Latin readers to Ovid's fictional letters and inspired many of them to compose their own Heroidean-style epistles. Perhaps the most successful of these were the Quatre Epistres d'Ovide (c. 1500) by André de La Vigne, a friend and colleague of Saint-Gelais. Later translations and creative responses to the Heroides include Jean Lemaire de Belges's Premiere Epître de l'Amant vert (1505), Fausto Andrelini's verse epistles (1509–1511; written in the name of Anne de Bretagne), Michel d'Amboise's Contrepistres d'Ovide (1546), and Juan Rodríguez de la Cámara's Bursario, a partial translation of the Heroides.
+Classics scholar W. M. Spackman argues the Heroides influenced the development of the European novel: of Helen's reply to Paris, Spackman writes, "its mere 268 lines contain in embryo everything that has, since, developed into the novel of dissected motivations that is one of our glories, from La Princesse de Clèves, Manon Lescaut and Les Liaisons Dangereuses to Stendhal and Proust".
+The Loeb Classical Library presents the Heroides with Amores in Ovid I. Penguin Books first published Harold Isbell's translation in 1990. Isbell's translation uses unrhymed couplets that generally alternate between eleven and nine syllables. A translation in rhymed couplets by Daryl Hine appeared in 1991.
+It was the inspiration for 15 monologues starring 15 separate actors, by 15 playwrights at the Jermyn Street Theatre in 2020.
+
+
+== Notes ==
+All notes refer to works listed in the Bibliography, below.
+
+
+== Selected bibliography ==
+For references specifically relating to that subject, please see the relevant bibliography of the Double Heroides.
+
+
+=== Editions ===
+Dörrie, H. (ed.) (1971) P. Ovidi Nasonis Epistulae Heroidum (Berlin and New York)
+Showerman, G. (ed. with an English translation) and Goold, G. P. (2nd edition revised) (1986) Ovid, Heroides and Amores (Cambridge, MA and London)
+
+
+=== Commentaries ===
+Kenney, E. J. (ed.) (1996) Ovid Heroides XVI–XXI (Cambridge).
+Knox, P. E. (ed.) (1995) Ovid: Heroides. Select Epistles (Cambridge).
+Roebuck, L. T. (ed.) (1998) Heroides I w/ Notes & Comm. (Classical Association of New England)
+
+
+=== Literary overviews and textual criticism ===
+Anderson, W. S. (1973) "The Heroides", in J. W. Binns (ed.) Ovid (London and Boston): 49–83.
+Arena, A. (1995) "Ovidio e l'ideologia augustea: I motivi delle Heroides ed il loro significato", Latomus 54.4: 822–41.
+Beck, M. (1996) Die Epistulae Heroidum XVIII und XIX des Corpus Ovidianum (Paderborn).
+Courtney, E. (1965) "Ovidian and Non-Ovidian Heroides", Bulletin of the Institute of Classical Studies of the University of London (BICS) 12: 63–6.
+___. (1998) "Echtheitskritik: Ovidian and Non-Ovidian Heroides Again", CJ 93: 157–66.
+Farrell, Joseph (1998). "Reading and Writing the Heroides". Harvard Studies in Classical Philology. 98: 307–338. doi:10.2307/311346. ISSN 0073-0688. JSTOR 311346.
+Fulkerson, L. (2005) The Ovidian Heroine as Author: Reading, Writing, and Community in the Heroides (Cambridge).
+Heinze, T. (1991–93) "The Authenticity of Ovid Heroides 12 Reconsidered", Bulletin of the Institute of Classical Studies of the University of London (BICS) 38: 94–8.
+Jacobson, H. (1974) Ovid's Heroides (Princeton).
+Kennedy, D. F. (2002) "Epistolarity: The Heroides", in P. R. Hardie (ed.) The Cambridge Companion to Ovid (Cambridge): 217–32.
+Knox, P. E. (1986) "Ovid's Medea and the Authenticity of Heroides 12", Harvard Studies in Classical Philology (HSCP) 90: 207–23.
+___. (2002) "The Heroides: Elegiac Voices", in B. W. Boyd (ed.) Brill's Companion to Ovid (Leiden): 117–39.
+Lachmann, K. (1876) Kleinere Schriften zur classischen Philologie, Bd. 2 (Berlin).
+Lindheim, S. (2003) Mail and Female: Epistolary Narrative and Desire in Ovid's Heroides (Madison, WI).
+Lingenberg, W. (2003) Das erste Buch der Heroidenbriefe. Echtheitskritische Untersuchungen (Paderborn).
+Palmer, A. (ed.) [completed by L.C. Purser (ed.)] (1898) P. Ovidi Nasonis Heroides, with the Greek translation of Planudes (Oxford).
+Rahn, H. (1963) "Ovids elegische Epistel", Antike und Abendland (A&A) 7: 105–120.
+Reeve, M. D. (1973) "Notes on Ovid's Heroides", Classical Quarterly (CQ) 23: 324–338.
+Rosenmeyer, P. A. (1997) "Ovid's Heroides and Tristia: Voices from Exile", Ramus 26.1: 29–56. [Reprinted in Knox (ed.) (2006): 217–37.]
+Smith, R. A. (1994) "Fantasy, Myth, and Love Letters: Text and Tale in Ovid's Heroides", Arethusa 27: 247–73.
+Spentzou, E. (2003) Readers and Writers in Ovid's Heroides: Transgressions of Genre and Gender (Oxford).
+Steinmetz, P. (1987) "Die literarische Form der Epistulae Heroidum Ovids", Gymnasium 94: 128–45.
+Stroh, W. (1991) "Heroides Ovidianae cur epistolas scribant", in G. Papponetti (ed.) Ovidio poeta della memoria (Rome): 201–44.
+Tarrant, R. J. (1981) "The Authenticity of the Letter of Sappho to Phaon", Harvard Studies in Classical Philology (HSCP) 85: 133–53.
+Westerhold, Jessica A. (2023). Ovid's tragic heroines: gender abjection and generic code-switching. Ithaca: Cornell University Press. ISBN 9781501770357.
+Verducci, F. (1985) Ovid's Toyshop of the Heart (Princeton).
+
+
+=== Analyses of individual epistles ===
+Barchiesi, A. (1995) Review of Hintermeier (1993), Journal of Roman Studies (JRS) 85: 325–7.
+___. (2001) Speaking Volumes: Narrative and Intertext in Ovid and Other Latin Poets, eds. and trans. M. Fox and S. Marchesi (London):
+"Continuities", 9–28. [Translated and reprinted from Materiali e discussioni per l'analisi dei testi classici (MD) 16 (1986).]
+"Narrativity and Convention in the Heroides", 29–48. [Translated and reprinted from Materiali e discussioni per l'analisi dei testi classici (MD) 19 (1987).]
+"Future Reflexive: Two Modes of Allusion and the Heroides", 105–28. [Reprinted from Harvard Studies in Classical Philology (HSCP) 95 (1993).]
+Casali, S. (1992) "Enone, Apollo pastore, e l'amore immedicabile: giochi ovidiani su di un topos elegiaco", Materiali e discussioni per l'analisi dei testi classici (MD) 28: 85–100.
+Fulkerson, L. (2002a) "Writing Yourself to Death: Strategies of (Mis)reading in Heroides 2", Materiali e discussioni per l'analisi dei testi classici (MD) 48: 145–65.
+___. (2002b) "(Un)Sympathetic Magic: A Study of Heroides 13", American Journal of Philology (AJPh) 123: 61–87.
+___. (2003) "Chain(ed) Mail: Hypermestra and the Dual Readership of Heroides 14", Transactions of the American Philological Association (TAPA) 133: 123–146.
+Hinds, S. (1993) "Medea in Ovid: Scenes from the Life of an Intertextual Heroine", Materiali e discussioni per l'analisi dei testi classici (MD) 30: 9–47.
+___. (1999) "First Among Women: Ovid, and the Traditions of 'Exemplary' Catalogue", in amor : roma, S. M. Braund and R. Mayer (eds.), Proceedings of the Cambridge Philological Society (PCPS) Supp. 22: 123–42.
+Hintermeier, C. M. (1993) Die Briefpaare in Ovids Heroides, Palingensia 41 (Stuttgart).
+Jolivet, J.-C. (2001) Allusion et fiction epistolaire dans Les Heroïdes: Recherches sur l'intertextualité ovidienne, Collection de l' École Française de Rome 289 (Rome).
+Kennedy, D. F. (1984) "The Epistolary Mode and the First of Ovid's Heroides", Classical Quarterly (CQ) n.s. 34: 413–22. [Reprinted in Knox (ed.) (2006): 69–85.]
+Lindheim, S. (2000) "Omnia Vincit Amor: Or, Why Oenone Should Have Known It Would Never Work Out (Eclogue 10 and Heroides 5)", Materiali e discussioni per l'analisi dei testi classici (MD) 44: 83–101.
+Rosati, G. (1991) "Protesilao, Paride, e l'amante elegiaco: un modello omerico in Ovidio", Maia 43.2: 103–14.
+___. (1992) "L'elegia al femminile: le Heroides di Ovidio (e altre heroides)", Materiali e discussioni per l'analisi dei testi classici (MD) 29: 71–94.
+Vessey, D. W. T. (1976) "Humor and Humanity in Ovid's Heroides", Arethusa 9: 91–110.
+Viarre, S. (1987) "Des poèmes d'Homère aux Heroïdes d'Ovide: Le récit épique et son interpretation élégiaque", Bulletin de l'association Guillaume Budé Ser. 4: 3.
+
+
+=== Scholarship of tangential significance ===
+Armstrong, R. (2005) Ovid and His Love Poetry (London) [esp. chs. 2 and 4]
+Hardie, P. R. (2002) Ovid's Poetics of Illusion (Cambridge).
+Holzberg, N. (1997) "Playing with his Life: Ovid's 'Autobiographical' References", Lampas 30: 4–19. [Reprinted in Knox (ed.) (2006): 51–68.]
+___. (2002) Ovid: The Poet and His Work, trans. G. M. Goshgarian (Ithaca, NY and London).
+James, S. L. (2003) Learned Girls and Male Persuasion: Gender and Reading in Roman Love Elegy (Berkeley). [esp. ch. 5]
+Kauffman, L. S. (1986) Discourses of Desire: Gender, Genre, and Epistolary Fictions (Ithaca, NY).
+Knox, P. E. (ed.) (2006) Oxford Readings in Ovid (Oxford and New York).
+Zwierlein, O. (1999) Die Ovid- und Vergil-Revision in tiberischer Zeit (Berlin and New York).
+
+
+== External links ==
+
+Latin text at The Latin Library
+English translation, A. S. Kline
+Perseus/Tufts: Commentary on the Heroides of Ovid
+ Heroides public domain audiobook at LibriVox

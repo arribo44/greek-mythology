@@ -1,0 +1,211 @@
+[[Fichier:Hydria Achilles weapons Louvre E869.jpg|vignette|upright=1.3|alt=Photographie d'une scène peinte sur un vase grec antique à figures noires montrant plusieurs personnages debout. Au centre, Achille, barbu, tourné vers la droite, tient une lance dans sa main droite. De la main gauche, il prend une couronne que lui donne la déesse Thétis, sa mère, qui lui fait face sur la droite. Thétis, vêtue d'une tunique longue, a les cheveux longs. Elle remet la couronne à Achille de la main droite. Dans sa main gauche, elle tient un grand bouclier rond qu'elle s'apprête à lui remettre. Sur la gauche, derrière Achille, un guerrier en armure complète portant des protège-genoux, un bouclier rond, un casque à panache et une lance se tient tourné vers la gauche, dos à la scène. Derrière Thétis sur la droite, deux servantes aux cheveux longs, vêtues de tuniques, s'avancent en portant d'autres pièces d'équipement destinées à Achille. La première porte la cuirasse, la deuxième tient un bouclier dans la main droite. Chacune tient l'objet dans sa main droite, et, dans la main gauche, porte un récipient suspendu au bout d'une cordelette et destiné sans doute à accomplir un rituel. Le bord de la scène à gauche et à droite est marqué par un motif floral. Sur le dessus, une double ligne horizontale surmontée de rangées de points noirs. Des inscriptions grecques inscrites verticalement entre les personnages nomment Achille, Thétis, le guerrier de gauche et la première servante.|[[Thétis]] donne à son fils Achille ses armes nouvellement forgées par [[Héphaïstos]], détail d'une hydrie attique à figures noires, vers -575/-550, [[musée du Louvre]].]]
+'''{{w|Achille}}''' (en grec ancien Ἀχιλλεύς / Akhilleús) est, dans la [[mythologie grecque]], un héros légendaire de la guerre de Troie, fils de Pélée, roi de Phthie en Thessalie, et de Thétis, une Néréide (nymphe marine). Il est fréquemment appelé « Péléide » (fils de Pélée) ou « Éacide » (descendant d'Éaque), épithètes qui rappellent son ascendance.
+
+== Littérature ==
+=== ''Iliade'' (VIIIe siècle avant J.-C.) ===
+{{citation|Chante, déesse, la colère d'Achille, le fils de Pélée ; détestable colère, qui aux Achéens valut des souffrances sans nombre et jeta en pâture à Hadès tant d'âmes fières de héros, tandis que de ces héros mêmes elle faisait la proie des chiens et de tous les oiseaux du ciel — pour l'achèvement du dessein de Zeus. Pars du jour où une querelle tout d'abord divisa le fils d'Atrée, protecteur de son peuple, et le divin Achille.
+|original=<poem>Μῆνιν ἄειδε, θεά, Πηληϊάδεω Ἀχιλῆος
+οὐλομένην, ἣ μυρί᾽ Ἀχαιοῖς ἄλγε᾽ ἔθηκε,
+πολλὰς δ᾽ ἰφθίμους ψυχὰς Ἄϊδι προΐαψεν
+ἡρώων, αὐτοὺς δὲ ἑλώρια τεῦχε κύνεσσιν
+οἰωνοῖσί τε πᾶσι. </poem>
+|langue=grc
+|précisions=Invocation à la Muse aux premiers vers de l'épopée.}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Gallimard
+|collection=Folio
+|titre=[[w:L'Iliade|L'Iliade]]
+|année=1937-38
+|traducteur=Paul Mazon
+|page=35
+|section=chant I, vers 1-7
+|s=L'Iliade
+}}
+
+{{citation|Qui obéit aux dieux, des dieux est écouté.
+|original=Ὅς κε θεοῖς ἐπιπείθηται μάλα τ' ἔκλυον αὐτοῦ. 
+|langue=grc
+|précisions=Achille}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|page=19
+|section=chant I, vers 218
+|s=L'Iliade
+}}
+
+{{citation|Sac à vin ! Œil de chien et cœur de biche !
+|original= Οἰνοβαρές, κυνὸς ὄμματ' ἔχων, κραδίην δ' ἐλάφοιο. 
+|langue=grc
+|précisions=Achille à Agamemnon}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|page=19
+|section=chant I, vers 225
+|s=L'Iliade
+}}
+
+{{citation|Celui-là m'est en horreur à l'égal des portes d'Hadès, qui dans son cœur cache une chose et sur les lèvres en a une autre.
+|original=<poem>Ἐχθρὸς γάρ μοι κεῖνος ὁμῶς Ἀΐδαο πύλῃσιν
+ὅς χ' ἕτερον μὲν κεύθῃ ἐνὶ φρεσίν, ἄλλο δὲ εἴπῃ. </poem>
+|langue=grc
+|précisions=Achille, à [[Ulysse]].}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|tome=2 (chants IX à XVI)
+|page=25
+|section=chant IX, vers 312-313
+|s=L'Iliade
+}}
+
+{{citation|Si je reste à me battre ici autour de la ville de Troie, c'en est fait pour moi du retour ; en revanche, une gloire impérissable m'attend.
+|original=<poem>εἰ μέν κ᾽ αὖθι μένων Τρώων πόλιν ἀμφιμάχωμαι,
+ὤλετο μέν μοι νόστος, ἀτὰρ κλέος ἄφθιτον ἔσται. </poem>
+|langue=grc
+|précisions=Achille.}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|tome=2 (chants IX à XVI)
+|page=33
+|section=chant IX, vers 412-413
+|s=L'Iliade
+}}
+
+{{citation|Ah ! qu'il périsse donc, chez les dieux comme chez les hommes, cet esprit de querelle, ce courroux, qui induit l'homme en fureur, pour raisonnable qu'il puisse être, et qui semble plus doux que miel sur la langue, quand, dans une poitrine humaine, il monte comme une fumée !
+|original=<poem>Ὡς ἔρις ἔκ τε θεῶν ἔκ τ' ἀνθρώπων ἀπόλοιτο
+καὶ χόλος, ὅς τ' ἐφέηκε πολύφρονά περ χαλεπῆναι,
+ὅς τε πολὺ γλυκίων μέλιτος καταλειβομένοιο
+ἀνδρῶν ἐν στήθεσσιν ἀέξεται ἠΰτε καπνός.</poem>
+|langue=grc
+|précisions=Achille}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|tome=3 (chants XVII à XXIV)
+|page=65
+|section=chant XVIII, vers 107-110
+|s=L'Iliade
+}}
+
+{{citation|Il n'est pas de pacte loyal entre les hommes et les lions, pas plus que loups ni agneaux n'ont de cœurs faits pour s'accorder.
+|original=<poem>Ὡς οὐκ ἔστι λέουσι καὶ ἀνδράσιν ὅρκια πιστά,
+οὐδὲ λύκοι τε καὶ ἄρνες ὁμόφρονα θυμὸν ἔχουσιν. </poem>
+|langue=grc
+|précisions=Achille, à Hector.}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|tome=3 (chants XVII à XXIV)
+|page=237
+|section=chant XXII, vers 262-263
+|s=L'Iliade
+}}
+
+{{citation|Ah ! point de doute, je ne sais quoi vit encore chez Hadès, une âme, une ombre, mais où n'habite plus l'esprit.
+|original=<poem>Ὢ πόποι ἦ ῥά τίς ἐστι καὶ εἰν Ἀΐδαο δόμοισι
+ψυχὴ καὶ εἴδωλον, ἀτὰρ φρένες οὐκ ἔνι πάμπαν. </poem>
+|langue=grc
+|précisions=Achille, après avoir vu en rêve l'ombre du défunt Patrocle.}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|tome=3 (chants XVII à XXIV)
+|page=265
+|section=chant XXIII, vers 103-104
+|s=L'Iliade
+}}
+
+=== ''Odyssée'' (VIIIe siècle avant J.-C.) ===
+{{citation|<poem>Ne cherche pas à m'adoucir la mort, ô noble Ulysse ! 
+J'aimerais mieux être sur terre domestique d'un paysan, 
+fût-il sans patrimoine et presque sans ressources, 
+que de régner ici parmi ces ombres consumées…</poem>
+|original=<poem>μὴ δή μοι θάνατόν γε παραύδα, φαίδιμ᾽ Ὀδυσσεῦ.
+βουλοίμην κ᾽ ἐπάρουρος ἐὼν θητευέμεν ἄλλῳ,
+490ἀνδρὶ παρ᾽ ἀκλήρῳ, ᾧ μὴ βίοτος πολὺς εἴη,
+ἢ πᾶσιν νεκύεσσι καταφθιμένοισιν ἀνάσσειν.</poem>
+|langue=grc
+|précisions=L'ombre d'Achille s'adressant à [[Ulysse]] au pays des morts.}}
+{{Réf Livre
+|auteur=[[Homère]]
+|éditeur=La Découverte/Syros
+|collection=La Découverte Poche
+|titre=L'[[Odyssée]]
+|année=2004 (première parution de cette traduction : 1955)
+|traducteur=Philippe Jaccottet
+|page=191
+|section=chant XI, 488-491
+|s=L'Odyssée
+}}
+
+== Musique ==
+=== Jacques Offenbach, ''La Belle Hélène'' (1850) ===
+{{citation|citation=<poem>{{Personnage|Achille}} : Je suis le bouillant Achille, bouillant Achille, bouillant Achille,
+le grand Myrmidon, le Myr-, le Myrmidon.
+Combattant un contre mille, un contre mille, un contre mille
+grâce à mon plongeon.
+J'aurais l'esprit bien tranquille,
+n'était mon talon.
+Je suis le bouillant Achille, bouillant Achille, bouillant Achille,
+le grand Myrmidon, le Myr-, le Myrmidon.</poem>
+      |précisions=Présentation du héros Achille par lui-même dans "L'air des rois". Livret consulté [https://archive.org/details/labellehlneoprab00offe/page/n4 sur Internet Archive].}}
+{{Réf Livre
+|titre=[[La Belle Hélène]] : opéra bouffe en trois actes
+|auteur=[[Jacques Offenbach]]. Livret de Henri Meilhac et Ludovic Halévy
+|éditeur=Ménestrel
+|année=1850
+|page=48-50
+|section=Acte I, scène 11
+}}
+
+== Cinéma ==
+=== ''Hercule'' des studios Disney (1997) ===
+{{citation|citation=Alors arriva Achille. Ça, c’était un gars qui avait tout pour lui : la force, la vitesse. Il savait cogner. Il savait encaisser. Il savait comment balancer un crochet… Mais cette foutue cochonnerie de talon, il l’a à peine effleuré un jour, et boum ! ''Kaputt''.
+|original=And then there was Achilles. Now there was a guy who had it all - the build, the foot speed. He could jab, he could take a hit, he could keep on comin'. But that furshlugginer heel of his! He barely gets nicked there once and - kaboom! 
+|langue=en
+|précisions=Philoctète présente à Hercule le seul héros dont il était fier : Achille
+}} 
+{{Réf Film|titre=[[Hercule (film, 1997)|Hercule]]
+|auteur=John Musker, Ron Clements 
+|date=1997
+|acteur=Danny DeVito (vo), Patrick Timsit (vf)
+}}
+
+== Liens externes ==
+{{Autres projets
+|w=Achille
+|commons=Category:Achilles}}
+
+[[Catégorie:Être humain de la mythologie grecque]]

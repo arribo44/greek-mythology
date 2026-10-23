@@ -1,0 +1,14 @@
+id,champ,valeur,note
+Iliade-fr-019,speaker,,"Glaucos le guerrier troyen n'est pas dans le jeu de données (seul le dieu marin y est)"
+Iliade-fr-019,speaker_label,"Glaucos, guerrier troyen",
+Iliade-fr-020,speaker,,"idem"
+Iliade-fr-020,speaker_label,"Glaucos, guerrier troyen",
+Iliade-fr-030,speaker,,"description du narrateur, pas une réplique de Poséidon"
+Iliade-fr-030,speaker_label,Homère,
+Iliade-fr-030,subject,Poseidon,
+Iliade-fr-041,speaker,,"description du narrateur, pas une réplique d'Hadès"
+Iliade-fr-041,speaker_label,Homère,
+Iliade-fr-041,subject,Hades,
+Iliade-fr-004,speaker,,"narration (« Il dit, et… le fils de Cronos fait oui »), pas une réplique"
+Iliade-fr-004,speaker_label,Homère,
+Iliade-fr-004,subject,Zeus,

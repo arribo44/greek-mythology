@@ -1,0 +1,93 @@
+Hygin, de son nom complet Caius Julius Hyginus (67 av.-17 ap. J.-C.), est un auteur et grammairien latin de l'époque augustéenne. Sa vie est très mal connue. Ses œuvres nous sont parvenues par l'intermédiaire de manuscrits lacunaires et leur grande diversité a fait que leur paternité est contestée par une partie des chercheurs. Hygin est principalement connu pour ses Fabulæ, qui forment une compilation d'informations sur la mythologie grecque et romaine, et pour un traité d'astronomie, le De Astronomia. Ses œuvres sont précieuses pour les chercheurs car elles contiennent des versions de mythes grecs et romains qui ne se trouvent pas ailleurs dans ce qui a été conservé de la littérature antique.
+
+
+== Aperçu biographique ==
+Nous savons peu de choses sur lui. Il serait né soit en Espagne, soit à Alexandrie. Suétone rapporte qu'il fut esclave de Jules César, qui le mène à Rome sans doute en 45, à l'âge de 19 ans, où il fut l'élève d'Alexandre Polyhistor. Il fut ensuite affranchi par Auguste qui lui confia, en tant que grammairien, la charge de la Bibliothèque palatine où il succède à Pompeius Macer. Il appartenait au milieu littéraire de l'époque : il commenta Virgile et fut un ami d'Ovide. Dans ses dernières années, il sombra dans une grande pauvreté avant que son ami, l'historien Clodius Licinus, ne lui vienne en aide. On lui doit l'évocation de la première femme médecin grecque : Agnodice.
+
+
+== Œuvre ==
+
+
+=== Ouvrages mineurs ou perdus ===
+On attribue à Hygin dans le domaine littéraire, grâce à des mentions de Columelle, Aulu-Gelle, Servius et Macrobe, un Commentaire sur Virgile aujourd'hui perdu, ainsi que des commentaires d'antiquités nationales comme De familiis Troianis (Des familles de Troie) ou De origine situque urbium Italicarum (De l'origine et de la localisation des villes italiques), des traités d'agronomie comme De agricultura (De l'agriculture) ou De apibus (Des abeilles), ou de religion comme De diis penatibus (Des dieux pénates) ou De proprietatibus deorum (Des propriétés des dieux).
+Sa fonction, ses humbles origines, la variété de ses ouvrages ont souvent désarçonné les chercheurs modernes et contemporains. Mais elles montrent son caractère de compilateur plutôt que d'auteur.
+
+
+=== Œuvres majeures ===
+
+
+==== Fables ====
+Les Fabulae (littéralement : « histoires ») consistent en 277 chapitres, rapportant mythes, généalogies ou encore listes (Les Devins, Les Enfants de Typhon et d'Echidna, Les Fils de Neptune, Ceux qui tuèrent leur épouse, Les quadriges qui causèrent la perte de leur conducteur…) de manière concise et complète, voire crue, froide.
+Le style de l'œuvre est tel que Jean Greisch a pu dire :
+
+« Qu'Hygin fût un jeune homme ignorant, je le dis, à moitié cultivé, je le dis, sot, je le dis, mais qu'il fût fou, je le nie. »
+
+L'intérêt de l'ouvrage n'est donc pas littéraire, mais bien informatif, car on y retrouve de nombreuses versions perdues des mythes, notamment dans les tragédies grecques perdues.
+Le philosophe Martin Heidegger pour asseoir pré-ontologiquement la primauté de son concept de Souci dans l'être du Dasein fait appel à cette très vieille fable (la 220e du corpus des fables d'Hygin, celle de CVRA, racontant la création de l'homme par Cura et Jupiter) remarque Jean Greisch dans son commentaire.
+On pourrait ainsi déplorer :
+
+« les caprices de la fortune qui a laissé périr tant de pièces d'Eschyle, la plus grande partie de l‘Histoire de Tite-Live et d'autres trésors inestimables, alors que cet exercice de collégien a survécu pour devenir le pabulum de l'effort scholastique. »
+
+La compilation d'Hygin représente sous sa forme primitive ce que tout Romain éduqué était censé connaître des mythes grecs, au niveau le plus simple. Les Fabulae sont une mine d'informations aujourd'hui, quand tant de versions plus nuancées des mythes ont été perdues.
+Elles furent reprises et résumées dans le manuel scolaire Hermeneumata du Pseudo-Dosithée, écrit en 207.
+Le texte des Fabulæ a été transmis par deux manuscrits lacunaires. Le premier, anciennement conservé à l'abbaye de Freising, en écriture bénéventaine et datant de 900 environ, fut la base de la première édition imprimée à Bâle en 1535, transcrite par Jacob Micyllus de manière négligente. Ce manuscrit a été retrouvé plus tard à Ratisbonne en 1864, puis à Munich en 1942 où il est toujours conservé. Un autre fragment, sur un palimpseste en onciale du Ve siècle, est conservé à la bibliothèque du Vatican.
+Parmi les sources d'Hygin, on trouve les scholies aux Argonautiques d'Apollonios de Rhodes, datées de l'époque de Tibère.
+
+
+==== De l'astronomie ====
+Le De Astronomia est un manuel d’initiation à l’astronomie, mêlant connaissances physiques et légendes stellaires. Compilation de sources grecques (Eudoxe, Ératosthène, Aratos de Soles), et d'auteurs latins pythagoriciens, on y trouve tout à la fois l’histoire de Callisto métamorphosée en Grande Ourse ou de Ganymède devenu le Verseau, et la théorie de la musique des sphères.
+Ce traité est dédié à un certain "M. Fabius", qui a pu anciennement être identifié à Fabius Marcellinus biographe de Trajan ou encore Fabius Quintilien, et qui est aujourd'hui identifié comme Paullus Fabius Maximus, qui épouse en 11 av. J.-C. la cousine germaine d'Auguste.
+Il se découpe en quatre livres. Le premier est un abrégé de cosmographie. Le second est consacré aux catastérismes et aux légendes stellaires. L'auteur y répertorie de nombreuses versions de mythes d'origines d'objets célestes, en particulier 43 constellations, les cinq planètes et la Voie lactée. Le troisième est consacré à l'astrothésie, c'est-à-dire à la description des étoiles composant une constellation et à leur disposition. Le quatrième reprend l'étude des cercles célestes du livre I et développe le mouvement des astres. Il se terminait par une étude du cycle de Méton (ou métonique), jamais écrite ou aujourd'hui perdue mais annoncée dans la préface. Peut-être est-ce dû à une volonté de terminer l'ouvrage rapidement avant le départ en 3 av. J.-C. du probable dédicataire en Espagne en tant que légat.
+Certains jugent que l'ouvrage est trop prosaïque et terre-à-terre pour être l'œuvre d'Hygin, éminent grammairien, et émettent l'hypothèse que nous est parvenue une compilation tardive au IIe siècle du travail initial. La liste des étoiles dans cet ouvrage suit le même ordre que dans l’Almageste de Ptolémée, ce qui soutient l'hypothèse.
+Cependant, André Le Bœuffle, par comparaison de textes, montre que l'ouvrage d'Hygin se situe, dans la lignée des ouvrages astronomiques latins, entre les Aratea de Cicéron (89 ou 86 av. J.-C.) et ceux de Germanicus (16 ou 17 apr. J.-C.), confirmant donc l'époque augustéenne, peut-être même entre 11 av. J.-C. (entrée de Paullus Fabius Maximus dans la famille impériale) et 3 av. J.-C. (et son départ pour l'Espagne et son éloignement de l'entourage du Prince)
+
+
+== Postérité ==
+Hygin a donné son nom au cratère lunaire Hyginus (en) nommé ainsi en hommage à l'écrivain sur la décision de l'Union astronomique internationale en octobre 2010.
+
+
+== Bibliographie ==
+
+
+=== Sources antiques ===
+Suétone, De grammaticis et rhetoribus, 20.
+Aulu-Gelle, Nuits attiques, 1, 14; 10, 18, 5
+Servius, Commentaires sur Virgile, 1, 277; 1, 530; 2, 15; 3, 553; 5, 389 8, 600; 7, 638
+Macrobe, Saturnales, 1, 7, 19; 2, 8; 3, 4
+Columelle, De re rustica, 3, 11, 18; 9, 13, 8; 9, 2, 1; 11, 2, 13; 11, 3, 62
+Pline l'Ancien, Histoire naturelle, 13, 24; 16, 43; 18, 26
+
+
+=== Œuvres ===
+Hygin, Astronomie [détail des éditions] [(la) lire en ligne]
+Hygin, Fables [détail des éditions] [(la) lire en ligne]
+
+
+=== Ouvrages contemporains ===
+Claire Desmedt, « Fabulae Hygini », Revue belge de philologie et d'histoire, vol. 48 fascicule 1 « Antiquité — Oudheid »,‎ 1970, p. 26-35 (lire en ligne)
+Pierre-Emmanuel Dauzat, Marie-Laurence Desclos, Silvia Milanezi et Jean-François Pradeau, Guide de poche des auteurs grecs et latins, Paris, Belles Lettres, coll. « Classiques en poche », 2002, 350 p. (ISBN 978-2-251-80018-9, présentation en ligne).
+Jean Bayet, Littérature latine, Paris, Armand Colin, coll. « U », juillet 1965, 576 p. (ISBN 2-200-21679-3).
+(de) Ludwig Mader et Liselotte Rüegg, Griechische Sagen : Apollodoros, Parthenios, Antoninus Liberalis, Hyginus, Zurich, Artemis Verlag, coll. « Die Bibliothek der alten Welt : Reihe Sammlungen und Anthologien », 1963
+
+
+== Références ==
+(en) Cet article est partiellement ou en totalité issu de l’article de Wikipédia en anglais intitulé « Gaius Julius Hyginus » (voir la liste des auteurs).
+
+
+== Voir aussi ==
+
+
+=== Articles connexes ===
+Fable
+
+
+=== Liens externes ===
+
+Ressources relatives aux beaux-arts : Biblissima Sandrart.net  
+
+(la) Texte latin des Fables d'Hygin (Bibliotheca Augustana, site de la Hochschule Augsburg)
+(en) Les Fables en anglais
+(la) Sur archive.org
+(la) De Astronomica, sur la.wikisource.org
+(la) Genealogiarum liber, sur la.wikisource.org (dont Fabulae)
+ Portail de la littérature   Portail de la Rome antique   Portail de la mythologie   Portail de l’astronomie

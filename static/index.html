@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>LinkedImmortals</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&family=Source+Sans+3:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+  <link rel="stylesheet" href="/static/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%23276a9c'/><text x='16' y='23' font-size='17' font-family='Arial' font-weight='700' fill='white' text-anchor='middle'>im</text></svg>">
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <a class="brand" href="#/"><span class="logo">im</span><span class="brand-name">LinkedImmortals</span></a>
+      <div class="search">
+        <input id="search" type="search" data-i18n-placeholder="search.placeholder" autocomplete="off">
+        <div id="search-results" class="dropdown hidden"></div>
+      </div>
+      <nav class="mainnav">
+        <a href="#/" data-nav="home"><span class="ico">🏛️</span><span data-i18n="nav.home"></span></a>
+        <a href="#/mythspace" data-nav="mythspace"><span class="ico">🕸️</span><span data-i18n="nav.mythspace"></span></a>
+        <a href="#/map" data-nav="map"><span class="ico">🗺️</span><span data-i18n="nav.map"></span></a>
+        <a href="#/library" data-nav="library"><span class="ico">📚</span><span data-i18n="nav.library"></span></a>
+        <a href="#/jobs" data-nav="jobs"><span class="ico">📜</span><span data-i18n="nav.jobs"></span></a>
+        <a href="#/messaging" data-nav="messaging"><span class="ico">🕊️</span><span data-i18n="nav.messaging"></span></a>
+        <a href="#/notifications" data-nav="notifications"><span class="ico">🔔</span><span data-i18n="nav.notifications"></span><b id="notif-badge" class="badge hidden"></b></a>
+        <a href="#/switch" data-nav="switch" class="me-link"><span id="me-avatar" class="ico"></span><span data-i18n="nav.me"></span></a>
+        <button id="lang-switch" class="lang-switch" type="button">EN</button>
+      </nav>
+    </div>
+  </header>
+
+  <main id="app" class="page"></main>
+  <footer class="site-footer" id="site-footer"></footer>
+
+  <script src="https://unpkg.com/vis-network@9.1.9/standalone/umd/vis-network.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+  <script src="/static/i18n.js"></script>
+  <script src="/static/app.js"></script>
+</body>
+</html>

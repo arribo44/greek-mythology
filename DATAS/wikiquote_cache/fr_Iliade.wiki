@@ -1,0 +1,1179 @@
+{{titre en italique}}
+{{Navigation Livres
+|titre      =Épopées homériques
+|série      = 
+|avant      =
+|après      =Odyssée
+|alignement =right
+}}
+[[Fichier:AmbrosianIliadPict47Achilles.jpg|vignette|droite|Achille sacrifiant à Zeus. Manuscrit de l’''Iliade'' de la Bibliothèque Ambrosienne de Milan (Ve siècle).]]
+L’'''''{{w|Iliade}}''''' (en grec ancien {{lang|grc|Ἰλιάς}} / ''Iliás'', en grec moderne Ιλιάδα / ''Iliádha'') est une épopée mythologique de la Grèce antique composée au {{-s-|VIII}} et attribuée à l'aède légendaire [[Homère]]. Son titre provient de la périphrase « le poème d'Ilion » ({{lang|grc|ἡ Ἰλιὰς ποίησις}} / ''hê Iliàs poíêsis''), Ilion ({{lang|grc|Ἴλιον}} / ''Ílion'') étant l'autre nom de la ville de Troie. L’''Iliade'' détaille les événements survenus pendant quelques semaines de la dixième et dernière année de la guerre de Troie. Après un siège de dix ans, le sort des armes hésite encore. [[Achille]] est le meilleur guerrier de l'armée achéenne. Mais une querelle avec le roi Agamemnon, chef des Achéens, met Achille en colère et il décide de se retirer du combat, ce qui menace de retourner le sort de la guerre en faveur des Troyens, galvanisés par Hector, le meilleur guerrier de Troie. L’''Iliade'' forme, avec l’''[[Odyssée]]'', l'une des deux grandes épopées fondatrices de la littérature grecque antique. 
+
+== Citations ==
+=== Chant I ===
+[[Fichier:Achilles Briseis MAN Napoli Inv9105 n01.jpg|vignette|droite|Achille contraint de céder Briséis à Agamemnon. Fresque romaine de Pompéi, atrium de la Maison du poète tragique, Ier siècle apr. J.-C. Musée archéologique national de Naples (Inv.9105).]]
+{{citation|Chante, déesse, la colère d'Achille, le fils de Pélée ; détestable colère, qui aux Achéens valut des souffrances sans nombre et jeta en pâture à Hadès tant d'âmes fières de héros, tandis que de ces héros mêmes elle faisait la proie des chiens et de tous les oiseaux du ciel — pour l'achèvement du dessein de Zeus. Pars du jour où une querelle tout d'abord divisa le fils d'Atrée, protecteur de son peuple, et le divin Achille.
+|original=<poem>Μῆνιν ἄειδε, θεά, Πηληϊάδεω Ἀχιλῆος
+οὐλομένην, ἣ μυρί᾽ Ἀχαιοῖς ἄλγε᾽ ἔθηκε,
+πολλὰς δ᾽ ἰφθίμους ψυχὰς Ἄϊδι προΐαψεν
+ἡρώων, αὐτοὺς δὲ ἑλώρια τεῦχε κύνεσσιν
+οἰωνοῖσί τε πᾶσι. </poem>
+|langue=grc
+|précisions=Invocation à la Muse aux premiers vers de l'épopée.}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Gallimard
+|collection=Folio
+|titre=[[w:L'Iliade|L'Iliade]]
+|année=1937-38
+|traducteur=Paul Mazon
+|page=35
+|section=chant I, vers 1-7
+|s=L'Iliade
+}}
+
+{{citation|Le songe aussi est message de Zeus.
+|original=Καὶ γάρ τ' ὄναρ ἐκ Διός ἐστιν.  
+|langue=grc
+|précisions=[[Achille]]}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|page=9
+|section=chant I, vers 63
+|s=L'Iliade
+}}
+
+{{citation|Qui obéit aux dieux, des dieux est écouté.
+|original=Ὅς κε θεοῖς ἐπιπείθηται μάλα τ' ἔκλυον αὐτοῦ. 
+|langue=grc
+|précisions=[[Achille]]}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|page=19
+|section=chant I, vers 218
+|s=L'Iliade
+}}
+
+[[Fichier:Fournier La colère d'Achille.JPG|vignette|droite|« Je suis venue du ciel pour calmer ta fureur : me veux-tu obéir ? » Louis-Édouard Fournier, ''La Colère d'Achille'', 1881.]]
+{{citation|Je suis venue du ciel pour calmer ta fureur : me veux-tu obéir ?
+|original= 
+|langue=grc
+|précisions=Athéna, à [[Achille]] qui s'apprêtait à tirer l'épée contre Agamemnon.}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|page=19
+|section=chant I, vers 217-218
+|s=L'Iliade
+}}
+
+{{citation|Sac à vin ! Œil de chien et cœur de biche !
+|original= Οἰνοβαρές, κυνὸς ὄμματ' ἔχων, κραδίην δ' ἐλάφοιο. 
+|langue=grc
+|précisions=[[Achille]] à Agamemnon}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|page=19
+|section=chant I, vers 225
+|s=L'Iliade
+}}
+
+{{citation|C'étaient des hommes forts, entre tous ceux qui ont grandi sur cette terre, et, forts entre tous, ils luttaient contre adversaires forts entre tous, les Monstres de la montagne — et ils en firent un horrible massacre.
+|original= κάρτιστοι δὴ κεῖνοι ἐπιχθονίων τράφεν ἀνδρῶν:
+κάρτιστοι μὲν ἔσαν καὶ καρτίστοις ἐμάχοντο
+φηρσὶν ὀρεσκῴοισι καὶ ἐκπάγλως ἀπόλεσσαν.
+|langue=grc
+|précisions=[[Nestor]], au sujet de Pirithoos, Dryas et Thésée. Les "Monstres de la montagne" sont les Centaures.}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|page=23
+|section=chant I, vers 266-268
+|s=L'Iliade
+}}
+
+{{citation|Il dit, et, de ses sourcils sombres, le fils de Cronos fait oui. Les cheveux divins du Seigneur voltigent un instant sur son front éternel, et le vaste Olympe en frémit. 
+|original=<poem> Ἦ καὶ κυανέῃσιν ἐπ' ὀφρύσι νεῦσε Κρονίων·
+ἀμβρόσιαι δ' ἄρα χαῖται ἐπεῤῥώσαντο ἄνακτος
+κρατὸς ἀπ' ἀθανάτοιο· μέγαν δ' ἐλέλιξεν Ὄλυμπον. </poem>
+|langue=grc
+|précisions=[[Zeus]] fait une promesse.}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|page=41
+|section=chant I, vers 528-530
+|s=L'Iliade
+}}
+
+{{citation|Et, brusquement, un rire inextinguible jaillit parmi les Bienheureux, à la vue d'Héphaestos s'affairant par la salle ! 
+|original=<poem>Ἄσβεστος δ' ἄρ' ἐνῶρτο γέλως μακάρεσσι θεοῖσιν
+ὡς ἴδον Ἥφαιστον διὰ δώματα ποιπνύοντα. </poem>
+|langue=grc
+|précisions=Le rire des dieux, d'où l'expression de "rire homérique".}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|page=45
+|section=chant I, vers 599-600
+|s=L'Iliade
+}}
+
+=== Chant II ===
+{{citation|Comme on voit les abeilles, par troupes compactes, sortir d'un antre creux, à flots toujours nouveaux, pour former une grappe, qui bientôt voltige au-dessus des fleurs du printemps, tandis que beaucoup d'autres s'en vont voletant, les unes par-ci, les autres par-là ; ainsi, des nefs et des baraques, des troupes sans nombre viennent se ranger, par groupes serrés, en avant du rivage bas, pour prendre part à l'assemblée.
+|original=
+|langue=grc
+|précisions=L'armée achéenne se prépare pour l'assemblée.}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|page=53
+|section=chant II, vers 87-93
+|s=L'Iliade
+}}
+
+=== Chant III ===
+[[Fichier:Helene Paris Louvre K6.jpg|vignette|droite|Hélène et Pâris. Face A d'un cratère en cloche à figures rouges apulien (Tarente ?), 380-370 av. J.-C. Musée du Louvre (K6).]]
+{{citation|L'esprit des jeunes hommes toujours flotte à tout vent. Quand un vieillard est avec eux, il voit, en rapprochant l'avenir du passé, comment il est possible d'arranger tout au mieux, à la fois pour les deux parties.
+|original=<poem>Αἰεὶ δ' ὁπλοτέρων ἀνδρῶν φρένες ἠερέθονται·
+οἷς δ' ὁ γέρων μετέῃσιν ἅμα πρόσσω καὶ ὀπίσσω
+λεύσσει, ὅπως ὄχ' ἄριστα μετ' ἀμφοτέροισι γένηται. </poem>
+|langue=grc
+|précisions=Ménélas}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|page=121
+|section=chant III, vers 108-110
+|s=L'Iliade
+}}
+
+{{citation|Non, il n'y a pas lieu de blâmer les Troyens, ni les Achéens aux bonnes jambières, si, pour telle femme, ils souffrent si longs maux. Elle a terriblement l'air, quand on l'a devant soi, des déesses immortelles... 
+|original=<poem>Οὐ νέμεσις Τρῶας καὶ ἐϋκνήμιδας Ἀχαιοὺς
+τοιῇδ' ἀμφὶ γυναικὶ πολὺν χρόνον ἄλγεα πάσχειν·
+αἰνῶς ἀθανάτῃσι θεῇς εἰς ὦπα ἔοικεν. </poem>
+|langue=grc
+|précisions=Les chefs troyens, au sujet d'Hélène.}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|page=125
+|section=chant III, vers 156-158
+|s=L'Iliade
+}}
+
+=== Chant IV ===
+{{citation|Un jour viendra où elle périra, la sainte Ilion, et Priam, et le peuple de Priam à la bonne pique.
+|original=<poem>Ἔσσεται ἦμαρ ὅτ' ἄν ποτ' ὀλώλῃ Ἴλιος ἱρὴ
+καὶ Πρίαμος καὶ λαὸς ἐϋμμελίω Πριάμοιο. </poem>
+|langue=grc
+|précisions=Agamemnon}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|page=157
+|section=chant IV, vers 164-165
+|s=L'Iliade
+}}
+
+{{citation|Mais les dieux aux hommes n'octroient pas tout à la fois.
+|original=<poem>Ἀλλ' οὔ πως ἅμα πάντα θεοὶ δόσαν ἀνθρώποισιν. </poem>
+|langue=grc
+|précisions=Nestor}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|page=169
+|section=chant IV, vers 320
+|s=L'Iliade
+}}
+
+{{citation|L'ingénieux Ulysse sur lui lève un œil sombre et dit : "Atride, quel mot s'est échappé de l'enclos de tes dents ?"
+|original=<poem>Τὸν δ' ἄρ' ὑπόδρα ἰδὼν προσέφη πολύμητις Ὀδυσσεύς·
+Ἀτρεΐδη ποῖόν σε ἔπος φύγεν ἕρκος ὀδόντων.  </poem>
+|langue=grc
+|précisions=}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|page=171
+|section=chant IV, vers 350-351
+|s=L'Iliade
+}}
+
+{{citation|Allons ! nous règlerons plus tard l'affaire à l'amiable, si quelque mot fâcheux a été prononcé. Mais, bien plutôt, fassent les dieux que tout cela s'en aille au vent !
+|original=<poem></poem>
+|langue=grc
+|précisions=Agamemnon}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|page=171
+|section=chant IV, vers 362-363
+|s=L'Iliade
+}}
+
+{{citation|Une fois de plus, elle vient jeter au milieu de tous l'esprit de querelle, qui n'épargne personne, allant et venant à travers la foule, partout faisant grandir la plainte humaine.
+|original=<poem></poem>
+|langue=grc
+|précisions=Au sujet de la déesse Éris (Discorde), sœur et compagne d'Arès.}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|page=177
+|section=chant IV, vers 444-445
+|s=L'Iliade
+}}
+
+=== Chant V ===
+[[Fichier:Jacques-Louis David - The Combat of Diomedes,1776 - Google Art Project.jpg|vignette|upright=1.5|droite|Jacques-Louis David, ''Le Combat de Diomède'', 1776.]]
+{{citation|Il ne sait pas en son cœur qu'il ne vit pas longtemps, l'homme qui fait la guerre aux dieux immortels. Ses enfants n'embrassent pas ses genoux, en l'appelant "père", quand il revient de la bataille et de l'atroce carnage.
+|original=<poem>Ὅττι μάλ' οὐ δηναιὸς ὃς ἀθανάτοισι μάχηται,
+οὐδέ τί μιν παῖδες ποτὶ γούνασι παππάζουσιν
+ἐκ πολέμοιο καὶ αἰνῆς δηϊοτῆτος. </poem>
+|langue=grc
+|précisions=La déesse Dioné, à [[Aphrodite]] blessée.}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|page=213
+|section=chant V, vers 407-409
+|s=L'Iliade
+}}
+
+{{citation|Et ne prétends pas égaler tes desseins aux dieux : ce seront toujours deux races distinctes que celles des dieux immortels et celle des humains qui marchent sur la terre.
+|original=<poem>Μηδὲ θεοῖσιν
+ἶσ' ἔθελε φρονέειν, ἐπεὶ οὔ ποτε φῦλον ὁμοῖον
+ἀθανάτων τε θεῶν χαμαὶ ἐρχομένων τ' ἀνθρώπων. </poem>
+|langue=grc
+|précisions=[[Apollon]], à Diomède.}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|page=215
+|section=chant V, vers 440-442
+|s=L'Iliade
+}}
+
+{{citation|([[Héra]]) a commencé par prendre l'aspect de Stentor au grand coeur, à la voix de bronze, aussi forte que celle de cinquante autres réunis.
+|original=<poem>Στέντορι εἰσαμένη μεγαλήτορι χαλκεοφώνῳ,
+ὃς τόσον αὐδήσασχ' ὅσον ἄλλοι πεντήκοντα. </poem>
+|langue=grc
+|précisions=}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|page=237
+|section=chant V, vers 785-786
+|s=L'Iliade
+}}
+
+{{citation|citation=Zeus Père, n'es-tu donc pas indigné, quand tu vois toutes ces horreurs ? Sans cesse les dieux que nous sommes subissent les pires tourments, cela les uns par les autres, pour plaire aux mortels.
+|précisions=[[Arès]] blessé par Diomède, à [[Zeus]].
+|original=<poem>‘Ζεῦ πάτερ οὐ νεμεσίζῃ ὁρῶν τάδε καρτερὰ ἔργα;
+αἰεί τοι ῥίγιστα θεοὶ τετληότες εἰμὲν
+ἀλλήλων ἰότητι, χάριν ἄνδρεσσι φέροντες.</poem>
+|langue=grc
+|traducteur=Paul Mazon
+}}
+{{Réf Livre
+|auteur=[[Homère]]
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'[[Iliade]]
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|page=243
+|section=chant V, vers 872-874
+|s=L'Iliade
+}}
+
+{{citation|citation=Tu as donné naissance à une folle exécrable, qui ne rêve de méfaits.
+|précisions=[[Arès]] à [[Zeus]], au sujet d'[[Athéna]].
+|original=<poem> σὺ γὰρ τέκες ἄφρονα κούρην
+οὐλομένην, ᾗ τ᾽ αἰὲν ἀήσυλα ἔργα μέμηλεν.</poem>
+|langue=grc
+|traducteur=Paul Mazon
+}}
+{{Réf Livre
+|auteur=[[Homère]]
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'[[Iliade]]
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|page=243
+|section=chant V, vers 875-876
+|s=L'Iliade
+}}
+
+{{citation|citation=Ne viens pas, tête à l'évent, gémir ici à mes pieds. Tu m'es le plus odieux de tous les Immortels qui habitent l'Olympe. Ton plaisir toujours, c'est la querelle, la guerre, et les combats.
+|précisions=[[Zeus]], à [[Arès]] blessé par Diomède.
+|original=<poem>μή τί μοι ἀλλοπρόσαλλε παρεζόμενος μινύριζε.
+ἔχθιστος δέ μοί ἐσσι θεῶν οἳ Ὄλυμπον ἔχουσιν:
+αἰεὶ γάρ τοι ἔρις τε φίλη πόλεμοί τε μάχαι τε.</poem>
+|langue=grc
+|traducteur=Paul Mazon
+}}
+{{Réf Livre
+|auteur=[[Homère]]
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'[[Iliade]]
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|page=245
+|section=chant V, vers 889-891
+|s=L'Iliade
+}}
+
+=== Chant VI ===
+[[Fichier:Hector Astyanax MN Jatta.jpg|vignette|droite|Dernière visite d'Hector à sa famille avant son duel avec Achille ; Astyanax, sur les genoux d'Andromaque, essaie d'attraper le casque de son père. Cratère à colonne apulien à figures rouges, v. 370-360 av. J.-C. Trouvé à Ruvo. Musée national du palais Jatta à Ruvo di Puglia (Bari).]]
+{{citation|citation=Sur terre les humains passent comme les feuilles : si le vent fait tomber les unes sur le sol, la forêt vigoureuse, au retour du printemps, en fait pousser bien d'autres ; chez les hommes ainsi les générations l'une à l'autre succèdent.
+|original=<poem>Οἵη περ φύλλων γενεὴ τοίη δὲ καὶ ἀνδρῶν.
+φύλλα τὰ μέν τ' ἄνεμος χαμάδις χέει, ἄλλα δέ θ' ὕλη
+τηλεθόωσα φύει, ἔαρος δ' ἐπιγίγνεται ὥρη·
+ὣς ἀνδρῶν γενεὴ ἣ μὲν φύει ἣ δ' ἀπολήγει. </poem>
+|langue=grc
+|précisions=Le guerrier troyen Glaucos parlant à l'Achéen Diomède sur le champ de bataille de Troie.}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Gallimard
+|collection=Bibliothèque de la Pléiade
+|titre=[[w:L'Iliade|L'Iliade]]
+|année=1955
+|traducteur=Robert Flacelière
+|page=192
+|section=chant VI, vers 146-150
+|s=L'Iliade
+}}
+{{Choisie citation du jour
+|puce=*
+|année=2010
+|mois=avril
+|jour=23
+|commentaire=
+|}}
+
+{{citation|En troisième lieu, il massacra les [[Amazones]], guerrières égales à l'homme.
+|original=τὸ τρίτον αὖ κατέπεφνεν Ἀμαζόνας ἀντιανείρας.
+|langue=grc
+|précisions=Glaucos fils d'Hippoloque, guerrier troyen, relate à Diomède les aventures de son ancêtre Bellérophon.}}
+{{Réf Livre
+|auteur=[[Homère]]
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|page=259
+|section=chant VI, vers 186
+|s=L'Iliade
+}}
+
+=== Chant VII ===
+{{citation|Mais redevenez donc tous, ici, terre et eau, vous qui demeurez là, assis et sans courage, dans votre ignominie !
+|original=<poem>Ἀλλ' ὑμεῖς μὲν πάντες ὕδωρ καὶ γαῖα γένοισθε
+ἥμενοι αὖθι ἕκαστοι ἀκήριοι ἀκλεὲς αὔτως. </poem>
+|langue=grc
+|précisions=Ménélas blâme les autres Achéens qui n'osent pas relever le défi lancé par Hector.}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|page=291
+|section=chant VII, vers 99-100
+|s=L'Iliade
+}}
+
+=== Chant VIII ===
+{{citation|Tel un pavot, dans un jardin, penche la tête de côté, sous le poids de son fruit et des pluies printanières, tel il penche son front par le casque alourdi.
+|original=<poem>Μήκων δ' ὡς ἑτέρωσε κάρη βάλεν, ἥ τ' ἐνὶ κήπῳ
+καρπῷ βριθομένη νοτίῃσί τε εἰαρινῇσιν,
+ὣς ἑτέρωσ' ἤμυσε κάρη πήληκι βαρυνθέν. </poem>
+|langue=grc
+|précisions=Mort de Gorgythion touché par une flèche de l'archer Teucros.}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|page=341
+|section=chant VIII, vers 306-308
+|s=L'Iliade
+}}
+
+=== Chant IX ===
+{{citation|Non, il n'a ni clan ni loi ni foyer, celui qui désire la guerre intestine, la guerre qui glace les cœurs.
+|original=<poem>Ἀφρήτωρ ἀθέμιστος ἀνέστιός ἐστιν ἐκεῖνος
+ὃς πολέμου ἔραται ἐπιδημίου ὀκρυόεντος. </poem>
+|langue=grc
+|précisions=}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|tome=2 (chants IX à XVI)
+|page=7
+|section=chant IX, vers 63-64
+|s=L'Iliade
+}}
+
+[[Fichier:Akhilleus embassy Staatliche Antikensammlungen 8770.jpg|vignette|droite|L'ambassade à Achille. Phénix et Ulysse font face à Achille, derrière qui se trouve Patrocle. Hydrie attique, v.480 av. J.-C. Peintre de Cléophradès. Collection des Antiquités, Munich (Allemagne).]]
+{{citation|Celui-là m'est en horreur à l'égal des portes d'Hadès, qui dans son cœur cache une chose et sur les lèvres en a une autre.
+|original=<poem>Ἐχθρὸς γάρ μοι κεῖνος ὁμῶς Ἀΐδαο πύλῃσιν
+ὅς χ' ἕτερον μὲν κεύθῃ ἐνὶ φρεσίν, ἄλλο δὲ εἴπῃ. </poem>
+|langue=grc
+|précisions=[[Achille]], à [[Ulysse]].}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|tome=2 (chants IX à XVI)
+|page=25
+|section=chant IX, vers 312-313
+|s=L'Iliade
+}}
+
+{{citation|La vie d'un homme ne se retrouve pas ; jamais plus elle ne se laisse ni enlever ni saisir, du jour qu'elle est sortie de l'enclos de ses dents.
+|original=<poem>Ἀνδρὸς δὲ ψυχὴ πάλιν ἐλθεῖν οὔτε λεϊστὴ
+οὔθ' ἑλετή, ἐπεὶ ἄρ κεν ἀμείψεται ἕρκος ὀδόντων. </poem>
+|langue=grc
+|précisions=}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|tome=2 (chants IX à XVI)
+|page=33
+|section=chant IX, vers 408-409
+|s=L'Iliade
+}}
+
+{{citation|Si je reste à me battre ici autour de la ville de Troie, c'en est fait pour moi du retour ; en revanche, une gloire impérissable m'attend.
+|original=<poem>εἰ μέν κ᾽ αὖθι μένων Τρώων πόλιν ἀμφιμάχωμαι,
+ὤλετο μέν μοι νόστος, ἀτὰρ κλέος ἄφθιτον ἔσται. </poem>
+|langue=grc
+|précisions=[[Achille]].}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|tome=2 (chants IX à XVI)
+|page=33
+|section=chant IX, vers 412-413
+|s=L'Iliade
+}}
+
+=== Chant X ===
+{{citation|Je suis celui que Zeus a choisi entre tous pour le plonger dans les épreuves, à tout jamais, tant qu'un souffle subsistera dans ma poitrine et que se mouvront mes jarrets.
+|original=<poem> </poem>
+|langue=grc
+|précisions=}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|tome=2 (chants IX à XVI)
+|page=61
+|section=chant X, vers 88-90
+|s=L'Iliade
+}}
+
+{{citation|Leur sort, à tous, à cette heure, est sur le tranchant du rasoir.
+|original=<poem>Ἐπὶ ξυροῦ ἵσταται ἀκμῆς
+...ὄλεθρος...Ἀχαιοῖς ἠὲ βιῶναι.  </poem>
+|langue=grc
+|précisions=}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|tome=2 (chants IX à XVI)
+|page=67
+|section=chant X, vers 173-174
+|s=L'Iliade
+}}
+
+=== Chant XI ===
+{{citation|Un médecin vaut beaucoup d'autres hommes, s'il s'agit d'extraire les flèches ou de répandre sur les plaies des remèdes apaisants.
+|original=<poem>Ἰητρὸς γὰρ ἀνὴρ πολλῶν ἀντάξιος ἄλλων
+ἰούς τ' ἐκτάμνειν ἐπί τ' ἤπια φάρμακα πάσσειν. </poem>
+|langue=grc
+|précisions=}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|tome=2 (chants IX à XVI)
+|page=135
+|section=chant XI, vers 514-515
+|s=L'Iliade
+}}
+
+{{citation|Mais sauve-moi du moins, en me menant à ma nef noire : entaille ma cuisse, pour en tirer la flèche ; puis lave à l'eau tiède le sang noir qui en sortira ; répands par-dessus les remèdes apaisants, les bons remèdes qu'Achille t'a fait connaître, dit-on, et que lui-même a appris de Chiron, le Centaure juste entre tous.
+|original= <poem>ἀλλ᾽ ἐμὲ μὲν σὺ σάωσον ἄγων ἐπὶ νῆα μέλαιναν,
+μηροῦ δ᾽ ἔκταμ᾽ ὀϊστόν, ἀπ᾽ αὐτοῦ δ᾽ αἷμα κελαινὸν
+νίζ᾽ ὕδατι λιαρῷ, ἐπὶ δ᾽ ἤπια φάρμακα πάσσε
+ἐσθλά, τά σε προτί φασιν Ἀχιλλῆος δεδιδάχθαι,
+ὃν Χείρων ἐδίδαξε δικαιότατος Κενταύρων.</poem>
+|langue=grc
+|précisions=Eurypyle blessé, à Patrocle.}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|page=157
+|section=chant XI, vers 828-832
+|s=L'Iliade
+}}
+
+=== Chant XII ===
+{{citation|Ah ! doux ami ! si échapper à cette guerre nous permettait de vivre ensuite éternellement, sans que nous touchent l'âge ni la mort, ce n'est certes pas moi qui combattrais au premier rang ni qui t'expédierais vers la bataille où l'homme acquiert la gloire. Mais, puisqu'en fait et quoi qu'on fasse, les déesses du trépas sont là embusquées, innombrables, et qu'aucun mortel ne peut ni les fuir ni leur échapper, allons voir si nous donnerons la gloire à un autre, ou bien si c'est un autre qui nous la donnera, à nous.
+|original=<poem>Ὦ πέπον εἰ μὲν γὰρ πόλεμον περὶ τόνδε φυγόντε
+αἰεὶ δὴ μέλλοιμεν ἀγήρω τ' ἀθανάτω τε
+ἔσσεσθ', οὔτέ κεν αὐτὸς ἐνὶ πρώτοισι μαχοίμην
+οὔτέ κε σὲ στέλλοιμι μάχην ἐς κυδιάνειραν·
+νῦν δ' ἔμπης γὰρ κῆρες ἐφεστᾶσιν θανάτοιο
+μυρίαι, ἃς οὐκ ἔστι φυγεῖν βροτὸν οὐδ' ὑπαλύξαι,
+ἴομεν ἠέ τῳ εὖχος ὀρέξομεν ἠέ τις ἡμῖν. </poem>
+|langue=grc
+|précisions=}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|tome=2 (chants IX à XVI)
+|page=183
+|section=chant XII, vers 322-328
+|s=L'Iliade
+}}
+
+=== Chant XIII ===
+{{citation|[Poséidon] fait trois enjambées ; à la quatrième, il atteint son but, Èges, où un palais illustre lui a été construit dans l'abîme marin, étincelant d'or, éternel. Aussitôt arrivé, il attelle à son char deux coursiers aux pieds de bronze et au vol prompt, dont le front porte une crinière d'or. Lui-même se vêt d'or, prend en main un fouet d'or façonné, puis, montant sur son char, pousse vers les flots. Les monstres de la mer le fêtent de leurs bonds ; partout ils quittent leur cachette : nul ne méconnaît son seigneur. La mer en liesse lui ouvre le passage ; le char s'envole, à toute allure, sans que, même par-dessous, se mouille l'essieu de bronze. Ainsi ses coursiers bondissants portent le dieu vers les nefs achéennes.
+|original=<poem></poem>
+|langue=grc
+|précisions=Le dieu [[Poséidon]] s'équipe et fait route vers le champ de bataille de Troie.}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|tome=2 (chants IX à XVI)
+|page=197
+|section=chant XIII, vers 17-31
+|s=L'Iliade
+}}
+
+{{citation|La lance fait un rempart à la lance, le bouclier au bouclier, chacun étayant l'autre ; l'écu s'appuie sur l'écu, le casque sur le casque, le guerrier sur le guerrier.
+|original=<poem>Φράξαντες δόρυ δουρί, σάκος σάκεϊ προθελύμνῳ·
+ἀσπὶς ἄρ' ἀσπίδ' ἔρειδε, κόρυς κόρυν, ἀνέρα δ' ἀνήρ. </poem>
+|langue=grc
+|précisions=Un bataillon d'élite des Achéens se prépare à la bataille contre les Troyens.}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|tome=2 (chants IX à XVI)
+|page=205
+|section=chant XIII, vers 130-131
+|s=L'Iliade
+}}
+
+=== Chant XIV ===
+{{citation|Nul ne saurait trouver mauvais que l'on cherche à fuir le malheur — même de nuit. Ne vaut-il donc pas mieux se dérober à lui — fût-ce par la fuite — que de devenir sa proie ?
+|original=<poem>Οὐ γάρ τις νέμεσις φυγέειν κακόν, οὐδ' ἀνὰ νύκτα.
+βέλτερον ὃς φεύγων προφύγῃ κακὸν ἠὲ ἁλώῃ. </poem>
+|langue=grc
+|précisions=Agamemnon}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|tome=2 (chants IX à XVI)
+|page=261
+|section=chant XIV, vers 80-81
+|s=L'Iliade
+}}
+
+[[Fichier:Andrea Appiani - Venere allaccia il cinto a Giunone.jpg|vignette|« Là sont tendresse, désir, entretien amoureux aux propos séducteurs qui trompent le cœur des plus sages. » Andrea Appiani, ''Vénus prêtant sa ceinture à Junon'', vers 1811. Collection privée.]]
+{{citation|Là sont tendresse, désir, entretien amoureux aux propos séducteurs qui trompent le cœur des plus sages.
+|original=<poem>Ἔνθ' ἔνι μὲν φιλότης, ἐν δ' ἵμερος, ἐν δ' ὀαριστὺς
+πάρφασις, ἥ τ' ἔκλεψε νόον πύκα περ φρονεόντων. </poem>
+|langue=grc
+|précisions=Description du ruban qu'[[Aphrodite]] prête à [[Héra]].}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|tome=2 (chants IX à XVI)
+|page=271
+|section=chant XIV, vers 216-217
+|s=L'Iliade
+}}
+
+{{citation|Elle y trouve Sommeil, frère de Trépas.
+|original=<poem>Ἔνθ' Ὕπνῳ ξύμβλητο κασιγνήτῳ Θανάτοιο. </poem>
+|langue=grc
+|précisions=}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|tome=2 (chants IX à XVI)
+|page=273
+|section=chant XIV, vers 231
+|s=L'Iliade
+}}
+
+{{citation|Sommeil, roi de tous les dieux, rois de tous les hommes...
+|original=<poem>Ὕπνε ἄναξ πάντων τε θεῶν πάντων τ' ἀνθρώπων. </poem>
+|langue=grc
+|précisions=[[Héra]] s'adresse à Hypnos, dieu du Sommeil.}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|tome=2 (chants IX à XVI)
+|page=273
+|section=chant XIV, vers 231
+|s=L'Iliade
+}}
+
+=== Chant XV ===
+
+{{citation|Quand les guerriers ont le sens de la honte, il est parmi eux bien plus de sauvés que de tués. S'ils fuient au contraire, nulle gloire pour eux ne se lève, nul secours non plus.
+|original=<poem>Αἰδομένων δ' ἀνδρῶν πλέονες σόοι ἠὲ πέφανται·
+φευγόντων δ' οὔτ' ἂρ κλέος ὄρνυται οὔτέ τις ἀλκή. </poem>
+|langue=grc
+|précisions=Ajax fils de Télamon}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|tome=2 (chants IX à XVI)
+|page=335
+|section=chant XV, vers 563-564
+|s=L'Iliade
+}}
+
+=== Chant XVI ===
+{{citation|Les bras décident de la guerre, comme les paroles au Conseil.
+|original=<poem>Ἐν γὰρ χερσὶ τέλος πολέμου, ἐπέων δ' ἐνὶ βουλῇ. </poem>
+|langue=grc
+|précisions=Patrocle}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|tome=2 (chants IX à XVI)
+|page=391
+|section=chant XVI, vers 630
+|s=L'Iliade
+}}
+
+{{citation|Mais le vouloir de Zeus toujours est plus fort que celui d'un mortel.
+|original=<poem>Ἀλλ' αἰεί τε Διὸς κρείσσων νόος ἠέ περ ἀνδρῶν. </poem>
+|langue=grc
+|précisions=}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|tome=2 (chants IX à XVI)
+|page=395
+|section=chant XVI, vers 688
+|s=L'Iliade
+}}
+
+=== Chant XVII ===
+[[Fichier:Menelaus Holding the Body of Patroclus.jpg|vignette|droite|''Ménélas tenant le corps de Patrocle'', gravure d'après une peinture de la Sala di Troia au Palazzo Ducale (palais ducal) de Mantoue. Giulio Romano. XVIe siècle.]]
+{{citation|Le plus sot s'instruit par l'événement.
+|original=<poem>Ῥεχθὲν δέ τε νήπιος ἔγνω. </poem>
+|langue=grc
+|précisions=Ménélas}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|tome=3 (chants XVII à XXIV)
+|page=5
+|section=chant XVII, vers 32
+|s=L'Iliade
+}}
+
+=== Chant XVIII ===
+{{citation|Ah ! qu'il périsse donc, chez les dieux comme chez les hommes, cet esprit de querelle, ce courroux, qui induit l'homme en fureur, pour raisonnable qu'il puisse être, et qui semble plus doux que miel sur la langue, quand, dans une poitrine humaine, il monte comme une fumée !
+|original=<poem>Ὡς ἔρις ἔκ τε θεῶν ἔκ τ' ἀνθρώπων ἀπόλοιτο
+καὶ χόλος, ὅς τ' ἐφέηκε πολύφρονά περ χαλεπῆναι,
+ὅς τε πολὺ γλυκίων μέλιτος καταλειβομένοιο
+ἀνδρῶν ἐν στήθεσσιν ἀέξεται ἠΰτε καπνός.</poem>
+|langue=grc
+|précisions=[[Achille]]}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|tome=3 (chants XVII à XXIV)
+|page=65
+|section=chant XVIII, vers 107-110
+|s=L'Iliade
+}}
+
+=== Chant XIX ===
+{{citation|Le Ciel seul achève tout.
+|original=<poem>Θεὸς διὰ πάντα τελευτᾷ. </poem>
+|langue=grc
+|précisions=Agamemnon}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|tome=3 (chants XVII à XXIV)
+|page=111
+|section=chant XIX, vers 90
+|s=L'Iliade
+}}
+
+{{citation|Il n'est pas de guerrier qui puisse affronter le combat une journée entière, jusqu'au soleil couché, s'il n'a goûté au pain.
+|original=<poem>Οὐ γὰρ ἀνὴρ πρόπαν ἦμαρ ἐς ἠέλιον καταδύντα
+ἄκμηνος σίτοιο δυνήσεται ἄντα μάχεσθαι.  </poem>
+|langue=grc
+|précisions=[[Ulysse]]}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|tome=3 (chants XVII à XXIV)
+|page=117
+|section=chant XIX, vers 162-163
+|s=L'Iliade
+}}
+
+=== Chant XX ===
+{{citation|Et, sous la terre, le seigneur des morts, Aïdoneus, soudain prend peur. De peur, il saute sur son trône et crie : Poseidon, l'Ébranleur du sol, ne va-t-il pas faire éclater la terre dans les airs et ouvrir aux yeux des mortels et des Immortels l'effroyable demeure de la corruption, dont les dieux mêmes ont horreur ? Tant est fort le fracas qui s'élève des dieux entrant en conflit.
+|original=<poem></poem>
+|langue=grc
+|précisions=[[Hadès]] (surnommé ici Aïdoneus), dans les Enfers, s'effraie du vacarme de la théomachie pendant la querelle entre les dieux soutenant l'un ou l'autre camp durant un épisode de la guerre de Troie.}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|tome=3 (chants XVII à XXIV)
+|page=140-141
+|section=chant XX, vers 61-66
+|s=L'Iliade
+}}
+
+{{citation|Le langage des hommes est souple ; on y trouve propos de tout genre ; il forme un riche fonds de mots, dans un sens comme dans l'autre.
+|original=<poem>Στρεπτὴ δὲ γλῶσσ' ἐστὶ βροτῶν, πολέες δ' ἔνι μῦθοι
+παντοῖοι, ἐπέων δὲ πολὺς νομὸς ἔνθα καὶ ἔνθα. </poem>
+|langue=grc
+|précisions=Énée, à [[Achille]].}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|tome=3 (chants XVII à XXIV)
+|page=153
+|section=chant XX, vers 248-249
+|s=L'Iliade
+}}
+
+=== Chant XXI ===
+[[Fichier:Achilles Xanthos Simoeis Couder decoration Louvre INV3379.jpg|vignette|droite|''L'Eau. Achille près d'être englouti par le Xanthe et le Simoïs, irrités du carnage qu'il a fait des Troyens'', fresque d'Auguste Couder, 1819. Musée du Louvre.]]
+{{citation|Ébranleur du sol, tu me dirais que j'ai l'esprit atteint, si je partais en guerre contre toi pour de pauvres humains, pareils à des feuilles, qui tantôt vivent pleins d'éclat, en mangeant le fruit de la terre, et tantôt se consument et tombent au néant.
+|original=<poem>Ἐννοσίγαι' οὐκ ἄν με σαόφρονα μυθήσαιο
+ἔμμεναι, εἰ δὴ σοί γε βροτῶν ἕνεκα πτολεμίξω
+δειλῶν, οἳ φύλλοισιν ἐοικότες ἄλλοτε μέν τε
+ζαφλεγέες τελέθουσιν ἀρούρης καρπὸν ἔδοντες,
+ἄλλοτε δὲ φθινύθουσιν ἀκήριοι. </poem>
+|langue=grc
+|précisions=[[Apollon]], à [[Poséidon]].}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|tome=3 (chants XVII à XXIV)
+|page=205
+|section=chant XXI, vers 462-466
+|s=L'Iliade
+}}
+
+=== Chant XXII ===
+{{citation|Il n'est pas de pacte loyal entre les hommes et les lions, pas plus que loups ni agneaux n'ont de cœurs faits pour s'accorder.
+|original=<poem>Ὡς οὐκ ἔστι λέουσι καὶ ἀνδράσιν ὅρκια πιστά,
+οὐδὲ λύκοι τε καὶ ἄρνες ὁμόφρονα θυμὸν ἔχουσιν. </poem>
+|langue=grc
+|précisions=[[Achille]], à Hector.}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|tome=3 (chants XVII à XXIV)
+|page=237
+|section=chant XXII, vers 262-263
+|s=L'Iliade
+}}
+
+{{citation|Et voici maintenant le Destin qui me tient. Eh bien ! non, je n'entends pas mourir sans lutte ni sans gloire, ni sans quelque haut fait, dont le récit parvienne aux hommes à venir.
+|original=<poem>Νῦν αὖτέ με μοῖρα κιχάνει.
+μὴ μὰν ἀσπουδί γε καὶ ἀκλειῶς ἀπολοίμην,
+ἀλλὰ μέγα ῥέξας τι καὶ ἐσσομένοισι πυθέσθαι. </poem>
+|langue=grc
+|précisions=Hector}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|tome=3 (chants XVII à XXIV)
+|page=239
+|section=chant XXII, vers 303-305
+|s=L'Iliade
+}}
+
+=== Chant XXIII ===
+[[Fichier:Achilles Hector Louvre G153.jpg|vignette|droite|Achille gardant le corps d'Hector. Tondo d'une coupe attique à figures rouges, v. 490–480 av. J.-C. Musée du Louvre, G153.]]
+{{citation|Ah ! point de doute, je ne sais quoi vit encore chez Hadès, une âme, une ombre, mais où n'habite plus l'esprit.
+|original=<poem>Ὢ πόποι ἦ ῥά τίς ἐστι καὶ εἰν Ἀΐδαο δόμοισι
+ψυχὴ καὶ εἴδωλον, ἀτὰρ φρένες οὐκ ἔνι πάμπαν. </poem>
+|langue=grc
+|précisions=[[Achille]], après avoir vu en rêve l'ombre du défunt Patrocle.}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|tome=3 (chants XVII à XXIV)
+|page=265
+|section=chant XXIII, vers 103-104
+|s=L'Iliade
+}}
+
+{{citation|C'est l'idée qui fait le bon bûcheron, ce n'est pas la force. C'est l'idée qui permet au pilote sur la mer lie de vin de diriger la nef rapide toute secouée des vents. C'est l'idée qui fait qu'un cocher l'emporte sur un autre cocher.
+|original=<poem>Μήτι τοι δρυτόμος μέγ' ἀμείνων ἠὲ βίηφι·
+μήτι δ' αὖτε κυβερνήτης ἐνὶ οἴνοπι πόντῳ
+νῆα θοὴν ἰθύνει ἐρεχθομένην ἀνέμοισι·
+μήτι δ' ἡνίοχος περιγίγνεται ἡνιόχοιο. </poem>
+|langue=grc
+|précisions=Conseils de Nestor à son fils Antiloque qui s'apprête à prendre part à une course de chars pendant les jeux funèbres en l'honneur de Patrocle. Nestor met en avant la ''mètis'', c'est-à-dire l'intelligence rusée.}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Les Belles Lettres
+|collection=Classiques en poche
+|titre=L'Iliade
+|année=1937-38 (traduction), 1998 (édition)
+|traducteur=Paul Mazon
+|tome=3 (chants XVII à XXIV)
+|page=281
+|section=chant XXIII, vers 315-318
+|s=L'Iliade
+}}
+
+=== Chant XXIV ===
+{{citation|Souviens-toi de ton père, Achille pareil aux dieux. Il a mon âge, il est, tout comme moi, au seuil maudit de la vieillesse. Des voisins l'entourent, qui le tourmentent sans doute, et personne auprès de lui, pour écarter le malheur, la détresse ! Mais il a, du moins, lui, cette joie au cœur, qu'on lui parle de toi comme d'un vivant, et il compte chaque jour voir revenir son fils de Troie. Mon malheur, à moi, est complet. J'ai donné le jour à des fils, qui étaient des braves, dans la vaste Troie : et je songe que d'eux aucun ne m'est resté. Ils étaient cinquante, le jour où sont venus les fils des Achéens ; dix-neuf sortaient du même sein, le reste m'était né de femmes en mon palais. La plupart ont eu les genoux rompus par l'ardent Arès. Le seul qui me restait, pour protéger la ville et ses habitants, tu me l'as tué hier, défendant son pays — Hector. C'est pour lui que je viens aux nefs des Achéens, pour te le racheter. Je t'apporte une immense rançon. Va, respecte les dieux, Achille, et, songeant à ton père, prends pitié de moi. Plus que lui encore, j'ai droit à la pitié ; j'ai osé, moi, ce que jamais encore n'a osé mortel ici-bas : j'ai porté à mes lèvres les mains de l'homme qui m'a tué mes enfants.
+|précisions=Priam venu réclamer le corps de son fils Hector à [[Achille]].}}
+{{Réf Livre
+|auteur=Homère
+|éditeur=Gallimard
+|collection=Folio
+|titre=[[w:L'Iliade|L'Iliade]]
+|année=1937-38
+|traducteur=Paul Mazon
+|page=494-495
+|section=chant XXIV, vers 486-506
+|s=L'Iliade
+}}
+
+== Sur l’''Iliade'' ==
+=== Aristote ===
+{{citation|citation=Homère, lui, en même temps qu'il excella dans le genre élevé (seul en effet il composa des œuvres qui non seulement sont belles mais encore constituent des imitations dramatiques) montra le premier l'esquisse de la comédie : au lieu de composer des blâmes il fit une imitation dramatique du ridicule, car le ''Margitès'' est aux comédies ce que l’''Iliade'' et l’''[[Odyssée]]'' sont aux tragédies.
+|langue=grc
+|original= τῶν μὲν οὖν πρὸ Ὁμήρου οὐδενὸς ἔχομεν εἰπεῖν τοιοῦτον ποίημα, εἰκὸς δὲ εἶναι πολλούς, ἀπὸ δὲ Ὁμήρου ἀρξαμένοις ἔστιν, οἷον ἐκείνου ὁ Μαργίτης καὶ τὰ τοιαῦτα. ἐν οἷς κατὰ τὸ ἁρμόττον καὶ τὸ ἰαμβεῖον ἦλθε μέτρον_διὸ καὶ ἰαμβεῖον καλεῖται νῦν, ὅτι ἐν τῷ μέτρῳ τούτῳ ἰάμβιζον ἀλλήλους. καὶ ἐγένοντο τῶν παλαιῶν οἱ μὲν ἡρωικῶν οἱ δὲ ἰάμβων ποιηταί. ὥσπερ δὲ καὶ τὰ σπουδαῖα μάλιστα ποιητὴς Ὅμηρος ἦν （μόνος γὰρ οὐχ ὅτι εὖ ἀλλὰ καὶ μιμήσεις δραματικὰς ἐποίησεν）, οὕτως καὶ τὸ τῆς κωμῳδίας σχῆμα πρῶτος ὑπέδειξεν, οὐ ψόγον ἀλλὰ τὸ γελοῖον δραματοποιήσας: ὁ γὰρ Μαργίτης ἀνάλογον ἔχει, ὥσπερ Ἰλιὰς καὶ ἡ Ὀδύσσεια πρὸς τὰς τραγῳδίας.
+|précisions=Aristote compare les poèmes homériques aux genres théâtraux grecs antiques. Le ''Margitès'' est un poème comique perdu que les Grecs attribuaient à Homère.}}
+{{Réf Livre
+|titre= Poétique
+|auteur= [[Aristote]]
+|éditeur= Gallimard
+|collection=Tel
+|traducteur=J. Hardy
+|année= 1996 (Les Belles Lettres 1990)
+|année d'origine= IVe siècle avant J.-C.
+|section=1448b-1449a
+|page= 83
+|ISBN= 2-07-074368-3
+}}
+
+{{citation|citation=Mais Homère, supérieur dans tout le reste, paraît bien sur ce point aussi avoir vu juste, grâce à sa connaissance de l'art ou à son génie : en composant l’''[[Odyssée]]'' il n'a pas raconté tous les événements de la vie d'Ulysse, par exemple qu'il reçut une blessure sur la Parnasse et qu'il simula la folie lors du rassemblement des Grecs, événements dont aucun des deux ne devait, l'autre s'étant produit, nécessairement ou vraisemblablement se produire ; mais c'est autour d'une action une, au sens où nous l'entendons, qu'il a composé son ''Odyssée'', et pareillement aussi son ''Iliade''.
+|langue=grc
+|original= ὁ δ᾽ Ὅμηρος ὥσπερ καὶ τὰ ἄλλα διαφέρει καὶ τοῦτ᾽ ἔοικεν καλῶς ἰδεῖν, ἤτοι διὰ τέχνην ἢ διὰ φύσιν: Ὀδύσσειαν γὰρ ποιῶν οὐκ ἐποίησεν ἅπαντα ὅσα αὐτῷ συνέβη, οἷον πληγῆναι μὲν ἐν τῷ Παρνασσῷ, μανῆναι δὲ προσποιήσασθαι ἐν τῷ ἀγερμῷ, ὧν οὐδὲν θατέρου γενομένου ἀναγκαῖον ἦν ἢ εἰκὸς θάτερον γενέσθαι, ἀλλὰ περὶ μίαν πρᾶξιν οἵαν λέγομεν τὴν Ὀδύσσειαν συνέστησεν, ὁμοίως δὲ καὶ τὴν Ἰλιάδα.
+|précisions=Aristote évoque la règle de l'unité d'action, nécessaire selon lui pour composer une œuvre réussie.}}
+{{Réf Livre
+|titre= Poétique
+|auteur= [[Aristote]]
+|éditeur= Gallimard
+|collection=Tel
+|traducteur=J. Hardy
+|année= 1996 (Les Belles Lettres 1990)
+|année d'origine= IVe siècle avant J.-C.
+|section=1451a
+|page= 92
+|ISBN= 2-07-074368-3
+}}
+
+=== Robert Brasillach ===
+{{Citation
+|citation= [C]’est pour les modernes un ouvrage inégal. Ennuyeux d’abord, il ne faut pas craindre de le dire. D’une terrible monotonie dans ses combats continuels et fastidieux entre guerriers troyens et guerriers grecs autour de Troie, la dixième année du siège. Des bagarres sans arrêt, des décervelages et des étripements, comme dans [[François Rabelais|Rabelais]] et dans le ''[[Guignol’s band]]'' de [[Louis-Ferdinand Céline|Céline]]. Mais l’œuvre est toujours sauvée par sa langue unique, la splendeur sauvage des amples comparaisons qui y éclatent à chaque instant, la bouffée d’air naturel qui s’insinue soudain entre ces batailles et ces [[wikt:confabulation|confabulation]]s de divinités.
+}}
+{{Réf Livre
+|titre= Anthologie de la poésie grecque
+|auteur= [[Robert Brasillach]]
+|éditeur= Librairie Stock
+|année= 1950
+|page= 22
+|section= L’''Iliade''
+}}
+
+=== Henri-Irénée Marrou ===
+{{Citation
+|citation= C’est à [[Homère]], en effet, que remonte, c’est dans Homère que chaque génération antique a retrouvé ce qui est l’axe fondamental de cette éthique aristocratique : l’amour de la gloire. La base sur laquelle il repose est ce pessimisme radical de l’âme hellénique que le jeune [[Nietzsche]] a si profondément médité : tristesse d’[[Achille]] ! La vie brève, hantise de la mort, peu de consolation à espérer de la vie d’outre-tombe : il n’y a encore rien de bien ferme dans l’idée d’un sort privilégié qu’on puisse recevoir dans les Champs-Élysées, quant à la destinée commune des ombres, cette existence incertaine et vague, quelle dérision ! […] Cette vie si courte, que leur destin de combattants rend encore plus précaire, nos héros l’aiment farouchement, de ce cœur si terrestre, de cet amour si franc, sans arrière-pensée, qui définissent à nos yeux un certain climat de l’âme [[Paganisme|païenne]]. Et pourtant cette vie d’ici-bas, si précieuse, n’est pas à leurs yeux la valeur suprême. Ils sont prêts — et avec quelle décision ! — à la sacrifier à quelque chose de plus haut qu’elle-même ; et c’est en cela que l’éthique homérique est une éthique de l’[[honneur]].
+}}
+{{Réf Livre
+|titre= Histoire de l’éducation dans l’Antiquité
+|auteur= [[Henri-Irénée Marrou]]
+|éditeur= Éditions du Seuil
+|année= 1981
+|page= 35—36
+|tome= 1
+|partie= {{I}}. Origines de l’éducation classique : d’Homère à Isocrate
+|chapitre= {{I}}. L’éducation homérique
+|ISBN= 978-2-02-006014-1
+|année d'origine= 1948
+|collection= Points / Histoire
+}}
+
+=== Jacqueline de Romilly ===
+{{Citation
+|citation= [A]ucune épopée n’est si peu « [[Patriotisme|patriotique]] » ni si complètement « [[Humanité|humaine]] ». Même l’''[[Énéide]]'', qui est très proche d’Homère et s’inspire ouvertement de l’''Iliade'', obéit, on le sait, à un souci de propagande dynastique. […] [[Virgile]] s’émeut de l’histoire de [[Rome antique|Rome]], Homère du sort des hommes. L’humanité est donc partout, dans cette première épopée. Elle est la marque des héros, grâce à la façon dont Homère choisit ce qu’il veut taire ou bien montrer. Elle est dans son génie de tout ramener à l’humaine condition et dans son refus de toute limitation ethnique ou particulariste. À cet égard, l’''Iliade'' inaugure en fait ce qui deviendra le désir d’universalité propre à notre culture, et l’ouverture aux autres que, contrairement à bien des civilisations, elle inscrit en tête de ses valeurs.
+}}
+{{Réf Livre
+|titre= Pourquoi la Grèce ?
+|auteur= [[Jacqueline de Romilly]]
+|éditeur= Éditions de Fallois
+|année= 1994
+|page= 41-42
+|chapitre= {{I}}. L’''Iliade'', une épopée différente des autres
+|ISBN= 978-2-253-13549-4
+|année d'origine= 1992
+|collection= Le Livre de poche
+}}
+
+=== Laurence Plazenet ===
+{{Citation
+|citation= ''L’Iliade'' séduit par la diversité de ses tons : le resserrement de la narration et son finale tiennent, pour leur part, de la [[tragédie]], un modèle qui affleure encore par la manière dont méditation sur le [[destin]] (sans cesse manifesté par un signe, une prémonition, un mot) et [[pitié]] sont conjointes dans l’œuvre. [[Platon]] fait d’Homère le père de la tragédie dans la ''[[La République|République]]'' (598d)… Mêlant les dieux aux hommes, alternant instants sublimes et scènes domestiques, ''L’Iliade'' invente une poésie du quotidien. Elle est renforcée par un usage incessant de la comparaison, même pour dire le geste héroïque ou le fracas des armes : tout y fait sens par rapport à l’évidence première des éléments, des bêtes, des plantes, de l’univers sensible. Ces notations bannissent le lieu commun, le préjugé. Elles font rayonner une certitude : la beauté du monde, à la fois tendre et violent.
+}}
+{{Réf Livre
+|titre= Anthologie de la littérature grecque
+|auteur= Laurence Plazenet (ed. sc.) et Emmanuèle Blanc (trad.)
+|éditeur= Gallimard
+|année= 2020
+|page= 46-47
+|ISBN= 978-2-07-035923-3
+|collection= Folio classique
+|auteur de la contribution= [[Laurence Plazenet]]
+|titre de la contribution= Homère
+}}
+
+=== [[Marguerite Yourcenar]] ===
+{{citation|Je ne voudrais pas médire de vos héros, Loukiadis : ils s'enfermaient sous leur tente dans un accès de dépit ; ils hurlaient de douleur sur leurs amis morts ; ils traînaient par les pieds le cadavre de leurs ennemis autour des villes conquises, mais, croyez-moi, il a manqué à l’''Iliade'' un sourire d'Achille.
+|précisions=}}
+{{Réf Livre
+|titre= [[Nouvelles orientales]]
+|auteur= [[Marguerite Yourcenar]]
+|éditeur= Gallimard
+|collection= L'Imaginaire
+|année= 1963
+|année d'origine=1938
+|section=Le Sourire de Marko
+|page =42
+|url=}}
+
+== Articles connexes ==
+* [[Homère]]
+* ''[[Odyssée]]'', l'autre épopée attribuée à Homère
+* La ''[[Batrachomyomachie]]'' (''Combat des grenouilles et des rats''), épopée parodiant l’''Iliade''.
+* ''[[Énéide]]'', grande épopée romaine de [[Virgile]]
+
+== Liens externes ==
+{{Autres projets
+|w=Iliade
+|s=Iliade
+|commons=Category:Iliad
+|wikt=Iliade}}
+
+[[Catégorie:Épopée]]
+[[Catégorie:Œuvre grecque antique]]
+[[Catégorie:Mythologie grecque dans la littérature]]
+[[Catégorie:Œuvre du VIIIe siècle av. J.-C.]]

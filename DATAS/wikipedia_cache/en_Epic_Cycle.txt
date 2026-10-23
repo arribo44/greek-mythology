@@ -1,0 +1,71 @@
+The Epic Cycle (Ancient Greek: Ἐπικὸς Κύκλος, romanized: Epikòs Kýklos) was a collection of Ancient Greek epic poems, composed in dactylic hexameter and related to the story of the Trojan War, including the Cypria, the Aethiopis, the so-called Little Iliad, the Iliupersis, the Nostoi, and the Telegony. Scholars sometimes include the two Homeric epics, the Iliad and the Odyssey, among the poems of the Epic Cycle, but the term is more often used to specify the non-Homeric poems as distinct from the Homeric ones.
+Unlike the Iliad and the Odyssey, the cyclic epics survive only in fragments and summaries from Late Antiquity and the Byzantine period.
+The Epic Cycle was the distillation, in literary form, of an oral tradition that had developed during the Greek Dark Age, which was based in part on localised hero cults. The traditional material from which the literary epics were drawn combines Bronze Age Mycenaean culture with the perspective and experience of Iron Age Greece.
+In modern scholarship, the study of the historical and literary relationship between the Homeric epics and the rest of the cycle is called Neoanalysis.
+A longer Epic Cycle, as described by the 9th-century CE scholar and clergyman Photius in codex 239 of his Bibliotheca, also included the Titanomachy (8th century BCE) and the Theban Cycle (between 750 and 500 BCE), which in turn comprised the Oedipodea, the Thebaid, the Epigoni, and the Alcmeonis; however, it is certain that none of the cyclic epics (other than Homer's) survived to Photius' day, and it is likely that Photius was not referring to a canonical collection. Modern scholars do not normally include the Theban Cycle when referring to the Epic Cycle.
+
+
+== Contents ==
+
+
+== Evidence ==
+Herodotus knew of the Cypria and the Epigoni when he wrote his History in the mid-5th century BCE. He rejected the Homeric authorship for the former and questioned it for the latter.
+The Epic Cycle was not "mentioned as a whole" (including the Theban Cycle) until the 2nd century CE, but knowledge of a "Trojan cycle" is apparent from at least the 4th century BCE as Aristoxenus mentions an alternative opening to the Iliad.
+Aristotle, in his Poetics, criticizes the Cypria and Little Iliad for the piecemeal character of their plots:
+
+ But other poets compose a plot around one person, one time, and one plot with multiple parts; like the composer of the Cypria and the Little Iliad. As a result, only one tragedy is made out of the Iliad and the Odyssey, but from the Cypria many, and from the Little Iliad more than eight…
+The Library attributed to Apollodorus and the 2nd century CE Latin Genealogia attributed to Hyginus also drew on them. Furthermore, there are also the Tabula iliaca inscriptions that cover the same myths.
+Most knowledge of the Cyclic epics comes from a broken summary of them which serves as part of the preface to the famous 10th century Iliad manuscript known as Venetus A. This preface is damaged, missing the Cypria, and has to be supplemented by other sources (the Cypria summary is preserved in several other manuscripts, each containing only the Cypria and none of the other epics). The summary is, in turn, an excerpt from a longer work, Chrestomathy, written by a "Proclus." This is known from evidence provided by the later scholar Photius, mentioned above. Photius provides sufficient information about Proclus' Chrestomathy to demonstrate that the Venetus A excerpt is derived from the same work. Little is known about Proclus. He is certainly not the philosopher Proclus Diadochus. Some have thought that it might be the same person as the lesser-known grammarian Eutychius Proclus, who lived in the 2nd century CE, but it is quite possible that he is simply an otherwise unknown figure.
+In antiquity, the two Homeric epics were considered the greatest works in the Cycle. For Hellenistic scholars, the Cyclic Poets, the authors to whom the other poems were commonly ascribed, were νεώτεροι (neōteroi "later poets") and κυκλικός (kyklikos "cyclic") was synonymous with "formulaic."
+The tales told in the Cycle are recounted by other ancient sources, notably Virgil's Aeneid (book 2), which recounts the sack of Troy from a Trojan perspective, and Ovid's Metamorphoses (books 13–14), which describes the Greeks' landing at Troy (from the Cypria) and the judgment of Achilles' arms (Little Iliad). Quintus of Smyrna's Posthomerica is another source, which narrates the events after Hector's death up until the end of the war. The death of Agamemnon and the vengeance taken by his son Orestes (the Nostoi) are the subjects of later Greek tragedy, especially Aeschylus's Oresteian trilogy.
+
+
+== Compilation ==
+The non-Homeric epics are usually regarded as later than the Iliad and Odyssey. There is no reliable evidence for this, however, and some Neoanalyst scholars operate on the premise that the Homeric epics were later than the Cyclic epics and drew on them extensively. Other Neoanalysts make the milder claim that the Homeric epics draw on legendary material which later crystallized into the Epic Cycle.
+The nature of the relationship between the Cyclic epics and Homer is also bound up in this question. As told by Proclus, the plots of the six non-Homeric epics look very much as though they are designed to integrate with Homer, with no overlaps with one another.
+For example, a surviving quotation shows that the Little Iliad narrated how Neoptolemus took Andromache prisoner after the fall of Troy; however, in Proclus, the Little Iliad stops before the sack of Troy begins. Some scholars have argued that the Cypria as originally planned dealt with more of the Trojan War than Proclus' summary suggests; conversely, others argue that it was designed to lead up to the Iliad, and that Proclus' account reflects the Cypria as originally designed.
+It is probable that at least some editing or "stitching" was done to edit epics together. For the last line of the Iliad,
+
+ὣς οἵ γ᾽ ἀμφίεπον τάφον Ἕκτορος ἱπποδάμοιο.
+In this way they performed the funeral of Hector, tamer of horses.
+an alternative reading is preserved which is designed to lead directly into the Aethiopis:
+
+ὣς οἵ γ' ἀμφίεπον τάφον Ἕκτορος· ἦλθε δ' Ἀμαζών,
+Ἄρηος θυγάτηρ μεγαλήτορος ἀνδροφόνοιο.
+In this way they performed the funeral of Hector; then the Amazon Penthesileia came,
+daughter of great-hearted man-slaughtering Ares. ...
+There are contradictions between epics in the Cycle. For example, the Greek warrior who killed Hector's son Astyanax in the fall of Troy is Neoptolemus according to the Little Iliad; according to the Iliou persis, it is Odysseus.
+How and when the eight epics of the Cycle came to be combined into a single collection and referred to as a "cycle" is a matter of ongoing debate. In the late 19th century, David Binning Monro argued that the scholastic use of the word κυκλικός did not refer to the Cycle as such, but meant "conventional", and that the Cycle was compiled in the Hellenistic period (perhaps as late as the 1st century BCE). More recent scholars have preferred to push the date slightly earlier, but accept the general thrust of the argument.
+
+
+== Editions ==
+Online editions (English translation):
+Hesiod; H.G. Evelyn-White, transl., 1914; The Medieval and Classical Library, Archived 2021-12-02 at the Wayback Machine, public domain.
+Hesiod; H.G. Evelyn-White, transl. 1914, Hesiod, the Homeric Hymns, and Homerica via Project Gutenberg.
+Proklos; Gregory Nagy, transl., Summary of the Epic Cycle, omitting the Telegony,  STOA.
+Print editions (Greek):
+Bernabé, A. 1987, Poetarum epicorum Graecorum testimonia et fragmenta pt. 1, Leipzig, ISBN 3-322-00352-3
+Davies, M. 1988, Epicorum Graecorum fragmenta, Göttingen, ISBN 3-525-25747-3
+Print editions (Greek with English translation):
+Hesiod; Evelyn-White, H.G., transl., 1914, Hesiod: The Homeric Hymns and Homerica, Loeb Classical Library, ISBN 0-674-99063-3
+West, M.L. 2003, Greek Epic Fragments, Cambridge, MA, ISBN 0-674-99605-4
+
+
+== See also ==
+Homerica
+
+
+== References ==
+
+
+== Bibliography ==
+Abrantes, Miguel Carvalho (2016). Themes of the Trojan Cycle: Contribution to the study of the greek mythological tradition. CreateSpace Independent Publishing Platform. ISBN 978-1530337118.
+Burgess, J.S. 2001, The Tradition of the Trojan War in Homer and the Epic Cycle (Baltimore). ISBN 0-8018-7890-X (pbk)
+Davies, M. 1989, The Greek Epic Cycle (Bristol). ISBN 1-85399-039-6 (pbk)
+Kullmann, W. 1960, Die Quellen der Ilias (troischer Sagenkreis) (Wiesbaden). ISBN 3-515-00235-9 (1998 reprint)
+Michalopoulos, Dimitris, Homer's Odyssey beyond the myths, Piraeus: Institute of Hellenic Maritime History, 2016. ISBN 9786188059931.
+Monro, D.B. 1883, "On the Fragment of Proclus' Abstract of the Epic Cycle Contained in the Codex Venetus of the Iliad", Journal of Hellenic Studies 4: 305–334.
+Monro, D.B. 1901, Homer's Odyssey, books XIII-XXIV (Oxford), pp. 340–84. (Out of print)
+Severyns, A. 1928, Le cycle épique dans l'école d'Aristarque (Liège, Paris). (Out of print)
+Severyns, A. 1938, 1938, 1953, 1963, Recherches sur la "Chrestomathie" de Proclos, 4 vols. (Bibliothèque de la faculté de philosophie et lettres de l'université de Liège fascc. 78, 79, 132, 170; Paris). (Vols. 1 and 2 are on Photius, 3 and 4 on other MSS.)
+Severyns, A. 1962, Texte et apparat, histoire critique d'une tradition imprimée (Brussels).
